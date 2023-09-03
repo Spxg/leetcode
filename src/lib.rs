@@ -120,5 +120,7 @@
 
 pub mod data_structures;
 
+pub mod problem_0001_two_sum;
+
 #[cfg(test)]
 pub mod test_utilities;
