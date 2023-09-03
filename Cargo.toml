@@ -1,0 +1,13 @@
+[package]
+authors = ["EFanZh <efanzh@gmail.com>"]
+edition = "2021"
+name = "leetcode"
+version = "0.1.0"
+
+[workspace]
+members = ["tools/progress-tracker", "xtask"]
+
+[dependencies]
+
+
+[dev-dependencies]

@@ -1,0 +1,16 @@
+[package]
+authors = ["EFanZh <efanzh@gmail.com>"]
+edition = "2021"
+name = "xtask"
+version = "0.1.0"
+
+[dependencies]
+clap = { version = "*", features = ["derive"] }
+regex-syntax = "*"
+serde_json = "*"
+shell-escape = "*"
+tempfile = "*"
+
+[target.'cfg(target_os="windows")'.dependencies]
+cc = "*"
+lazy_static = "*"
