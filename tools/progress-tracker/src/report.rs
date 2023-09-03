@@ -15,7 +15,7 @@ fn make_solution_map(tree: &Tree) -> HashMap<String, Vec<Solution>> {
         match result.entry(solution.problem_id.clone()) {
             Entry::Occupied(entry) => entry.into_mut().push(solution),
             Entry::Vacant(entry) => {
-                entry.insert(vec![]);
+                entry.insert(vec![solution]);
             }
         };
     });
@@ -141,10 +141,10 @@ figure { display: flex; justify-content: center; }
             write_problem_link(&mut tr.add_element("td"), problem);
             write_difficulty(&mut tr.add_element("td"), problem.difficulty.level);
 
-            for solution in solutions {
-                let mut td = tr.add_element("td");
-                let mut ul = td.add_element("ul");
+            let mut td = tr.add_element("td");
+            let mut ul = td.add_element("ul");
 
+            for solution in solutions {
                 write_solution_link(&mut ul.add_element("li"), solution);
             }
         } else {
