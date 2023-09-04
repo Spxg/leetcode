@@ -1,5 +1,5 @@
 pub mod hashmap;
-pub mod simple;
+pub mod pure_iter;
 
 pub trait Solution {
     fn two_sum(nums: Vec<i32>, target: i32) -> Vec<i32>;
