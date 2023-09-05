@@ -122,6 +122,7 @@ pub mod data_structures;
 
 pub mod problem_0001_two_sum;
 pub mod problem_0009_palindrome_number;
+pub mod problem_0013_roman_to_integer;
 
 #[cfg(test)]
 pub mod test_utilities;
