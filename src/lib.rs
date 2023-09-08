@@ -125,6 +125,7 @@ pub mod problem_0006_zigzag_conversion;
 pub mod problem_0007_reverse_integer;
 pub mod problem_0009_palindrome_number;
 pub mod problem_0013_roman_to_integer;
+pub mod problem_0014_longest_common_prefix;
 
 #[cfg(test)]
 pub mod test_utilities;
