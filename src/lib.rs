@@ -123,6 +123,7 @@ pub mod data_structures;
 pub mod problem_0001_two_sum;
 pub mod problem_0006_zigzag_conversion;
 pub mod problem_0007_reverse_integer;
+pub mod problem_0008_string_to_integer_atoi;
 pub mod problem_0009_palindrome_number;
 pub mod problem_0013_roman_to_integer;
 pub mod problem_0014_longest_common_prefix;
