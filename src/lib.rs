@@ -131,6 +131,7 @@ pub mod problem_0014_longest_common_prefix;
 pub mod problem_0020_valid_parentheses;
 pub mod problem_0021_merge_two_sorted_lists;
 pub mod problem_0026_remove_duplicates_from_sorted_array;
+pub mod problem_0028_find_the_index_of_the_first_occurrence_in_a_string;
 
 #[cfg(test)]
 pub mod test_utilities;
