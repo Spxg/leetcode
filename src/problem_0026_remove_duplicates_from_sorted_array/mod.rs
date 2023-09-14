@@ -1,4 +1,4 @@
-pub mod btree_cheat;
+pub mod btree_cheating;
 pub mod windows;
 
 pub trait Solution {
