@@ -1,4 +1,5 @@
 pub mod cheating;
+pub mod kmp;
 pub mod windows;
 
 pub trait Solution {
@@ -15,6 +16,9 @@ mod tests {
             (("aaaaa", "bba"), -1),
             (("mississippi", "issip"), 4),
             (("aabaaabaaac", "aabaaac"), 4),
+            (("aaa", "aaaa"), -1),
+            (("mississippi", "issipi"), -1),
+            (("abbabaaaabbbaabaabaabbbaaabaaaaaabbbabbaabbabaabbabaaaaababbabbaaaaabbbbaaabbaaabbbbabbbbaaabbaaaaababbaababbabaaabaabbbbbbbaabaabaabbbbababbbababbaaababbbabaabbaaabbbba", "bbbbbbaa"), 118),
         ];
 
         for ((haystack, needle), expected) in test_cases {
