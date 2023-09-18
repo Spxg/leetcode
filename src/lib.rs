@@ -135,6 +135,7 @@ pub mod problem_0021_merge_two_sorted_lists;
 pub mod problem_0026_remove_duplicates_from_sorted_array;
 pub mod problem_0027_remove_element;
 pub mod problem_0028_find_the_index_of_the_first_occurrence_in_a_string;
+pub mod problem_0035_search_insert_position;
 
 #[cfg(test)]
 pub mod test_utilities;
