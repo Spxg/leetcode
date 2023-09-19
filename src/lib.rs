@@ -130,6 +130,7 @@ pub mod problem_0008_string_to_integer_atoi;
 pub mod problem_0009_palindrome_number;
 pub mod problem_0013_roman_to_integer;
 pub mod problem_0014_longest_common_prefix;
+pub mod problem_0017_letter_combinations_of_a_phone_number;
 pub mod problem_0020_valid_parentheses;
 pub mod problem_0021_merge_two_sorted_lists;
 pub mod problem_0026_remove_duplicates_from_sorted_array;
