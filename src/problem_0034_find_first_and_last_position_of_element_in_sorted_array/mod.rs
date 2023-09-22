@@ -1,5 +1,5 @@
 pub mod binary_search;
-pub mod binary_search2;
+pub mod binary_search_2;
 
 pub trait Solution {
     fn search_range(nums: Vec<i32>, target: i32) -> Vec<i32>;

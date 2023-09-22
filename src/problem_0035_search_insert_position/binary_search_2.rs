@@ -2,7 +2,22 @@ pub struct Solution;
 
 impl Solution {
     pub fn search_insert(nums: Vec<i32>, target: i32) -> i32 {
-        nums.binary_search(&target).unwrap_or_else(|x| x) as _
+        let mut start = 0;
+        let mut length = nums.len();
+
+        while length != 0 {
+            let half = length / 2;
+            let middle = start + half;
+
+            if nums[middle] < target {
+                start = middle + 1;
+                length -= half + 1;
+            } else {
+                length = half;
+            }
+        }
+
+        start as _
     }
 }
 

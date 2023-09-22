@@ -1,5 +1,5 @@
 pub mod binary_search;
-pub mod cheating;
+pub mod binary_search_2;
 
 pub trait Solution {
     fn search_insert(nums: Vec<i32>, target: i32) -> i32;
