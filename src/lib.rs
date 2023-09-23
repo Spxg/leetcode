@@ -134,6 +134,7 @@ pub mod problem_0017_letter_combinations_of_a_phone_number;
 pub mod problem_0019_remove_nth_node_from_end_of_list;
 pub mod problem_0020_valid_parentheses;
 pub mod problem_0021_merge_two_sorted_lists;
+pub mod problem_0022_generate_parentheses;
 pub mod problem_0026_remove_duplicates_from_sorted_array;
 pub mod problem_0027_remove_element;
 pub mod problem_0028_find_the_index_of_the_first_occurrence_in_a_string;
