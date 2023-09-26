@@ -142,6 +142,7 @@ pub mod problem_0033_search_in_rotated_sorted_array;
 pub mod problem_0034_find_first_and_last_position_of_element_in_sorted_array;
 pub mod problem_0035_search_insert_position;
 pub mod problem_0056_merge_intervals;
+pub mod problem_0057_insert_interval;
 pub mod problem_0058_length_of_last_word;
 
 #[cfg(test)]
