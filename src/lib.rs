@@ -145,6 +145,7 @@ pub mod problem_0039_combination_sum;
 pub mod problem_0040_combination_sum_ii;
 pub mod problem_0045_jump_game_ii;
 pub mod problem_0049_group_anagrams;
+pub mod problem_0053_maximum_subarray;
 pub mod problem_0055_jump_game;
 pub mod problem_0056_merge_intervals;
 pub mod problem_0057_insert_interval;
