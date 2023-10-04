@@ -144,6 +144,7 @@ pub mod problem_0034_find_first_and_last_position_of_element_in_sorted_array;
 pub mod problem_0035_search_insert_position;
 pub mod problem_0039_combination_sum;
 pub mod problem_0040_combination_sum_ii;
+pub mod problem_0043_multiply_strings;
 pub mod problem_0045_jump_game_ii;
 pub mod problem_0049_group_anagrams;
 pub mod problem_0053_maximum_subarray;
