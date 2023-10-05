@@ -1,4 +1,4 @@
-pub mod two_pointer;
+pub mod two_pointers;
 
 pub trait Solution {
     fn three_sum(nums: Vec<i32>) -> Vec<Vec<i32>>;
