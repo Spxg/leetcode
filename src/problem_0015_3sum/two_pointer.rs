@@ -10,22 +10,22 @@ impl Solution {
             if idx > 0 && nums[idx] == nums[idx - 1] {
                 continue;
             }
-            let mut point1 = idx + 1;
-            let mut point2 = nums.len() - 1;
+            let mut pointer1 = idx + 1;
+            let mut pointer2 = nums.len() - 1;
 
-            while point1 < point2 {
-                let sum = nums[idx] + nums[point1] + nums[point2];
+            while pointer1 < pointer2 {
+                let sum = nums[idx] + nums[pointer1] + nums[pointer2];
                 match sum.cmp(&0) {
-                    std::cmp::Ordering::Less => point1 += 1,
+                    std::cmp::Ordering::Less => pointer1 += 1,
                     std::cmp::Ordering::Equal => {
-                        result.push(vec![nums[idx], nums[point1], nums[point2]]);
-                        point2 -= 1;
-                        point1 += 1;
-                        while nums[point1] == nums[point1 - 1] && point1 < point2 {
-                            point1 += 1;
+                        result.push(vec![nums[idx], nums[pointer1], nums[pointer2]]);
+                        pointer2 -= 1;
+                        pointer1 += 1;
+                        while nums[pointer1] == nums[pointer1 - 1] && pointer1 < pointer2 {
+                            pointer1 += 1;
                         }
                     }
-                    std::cmp::Ordering::Greater => point2 -= 1,
+                    std::cmp::Ordering::Greater => pointer2 -= 1,
                 }
             }
         }
