@@ -19,10 +19,13 @@ impl Solution {
                     std::cmp::Ordering::Less => pointer1 += 1,
                     std::cmp::Ordering::Equal => {
                         result.push(vec![nums[idx], nums[pointer1], nums[pointer2]]);
-                        pointer2 -= 1;
                         pointer1 += 1;
+                        pointer2 -= 1;
                         while nums[pointer1] == nums[pointer1 - 1] && pointer1 < pointer2 {
                             pointer1 += 1;
+                        }
+                        while nums[pointer2] == nums[pointer2 + 1] && pointer1 < pointer2 {
+                            pointer2 -= 1;
                         }
                     }
                     std::cmp::Ordering::Greater => pointer2 -= 1,
