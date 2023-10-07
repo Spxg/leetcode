@@ -154,6 +154,7 @@ pub mod problem_0055_jump_game;
 pub mod problem_0056_merge_intervals;
 pub mod problem_0057_insert_interval;
 pub mod problem_0058_length_of_last_word;
+pub mod problem_0067_add_binary;
 
 #[cfg(test)]
 pub mod test_utilities;
