@@ -158,6 +158,7 @@ pub mod problem_0066_plus_one;
 pub mod problem_0067_add_binary;
 pub mod problem_0070_climbing_stairs;
 pub mod problem_0071_simplify_path;
+pub mod problem_0080_remove_duplicates_from_sorted_array_ii;
 
 #[cfg(test)]
 pub mod test_utilities;
