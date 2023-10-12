@@ -1,5 +1,5 @@
-pub mod calculate;
 pub mod iter_eq;
+pub mod math;
 
 pub trait Solution {
     fn is_palindrome(x: i32) -> bool;

@@ -1,4 +1,4 @@
-pub mod calculate;
+pub mod math;
 
 pub trait Solution {
     fn reverse(x: i32) -> i32;
