@@ -159,6 +159,7 @@ pub mod problem_0067_add_binary;
 pub mod problem_0070_climbing_stairs;
 pub mod problem_0071_simplify_path;
 pub mod problem_0073_set_matrix_zeroes;
+pub mod problem_0078_subsets;
 pub mod problem_0080_remove_duplicates_from_sorted_array_ii;
 
 #[cfg(test)]
