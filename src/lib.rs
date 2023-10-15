@@ -162,6 +162,7 @@ pub mod problem_0073_set_matrix_zeroes;
 pub mod problem_0074_search_a_2d_matrix;
 pub mod problem_0078_subsets;
 pub mod problem_0080_remove_duplicates_from_sorted_array_ii;
+pub mod problem_0081_search_in_rotated_sorted_array_ii;
 
 #[cfg(test)]
 pub mod test_utilities;
