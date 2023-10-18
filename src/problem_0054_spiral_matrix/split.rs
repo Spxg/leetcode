@@ -11,7 +11,7 @@ impl Solution {
             if let Some((first, rest)) = matrix[line..m - line].split_first() {
                 first[col..n - col].iter().for_each(|&x| result.push(x));
                 if let Some((last, mids)) = rest.split_last() {
-                    for mid in mids.iter() {
+                    for mid in mids {
                         if let Some(&x) = mid[col..n - col].last() {
                             result.push(x);
                         }
