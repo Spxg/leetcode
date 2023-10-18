@@ -39,7 +39,7 @@ fn write_solution_link<W: Write>(writer: &mut ElementWriter<W>, solution: &Solut
     write_hyper_link(
         writer,
         &format!(
-            "https://srv.unsafe.me/gitlab/Spxg/leetcode/blob/master/{}{}",
+            "https://srv.hdr.ink/gitlab/Spxg/leetcode/blob/master/{}{}",
             solution.solution_root, solution.solution_file
         ),
         &solution.solution_id,
