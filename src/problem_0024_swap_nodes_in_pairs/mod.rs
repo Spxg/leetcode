@@ -1,6 +1,6 @@
 use crate::data_structures::ListNode;
 
-pub mod iter;
+pub mod iterate;
 
 pub trait Solution {
     fn swap_pairs(head: Option<Box<ListNode>>) -> Option<Box<ListNode>>;
