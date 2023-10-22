@@ -169,6 +169,7 @@ pub mod problem_0080_remove_duplicates_from_sorted_array_ii;
 pub mod problem_0081_search_in_rotated_sorted_array_ii;
 pub mod problem_0082_remove_duplicates_from_sorted_list_ii;
 pub mod problem_0083_remove_duplicates_from_sorted_list;
+pub mod problem_0088_merge_sorted_array;
 
 #[cfg(test)]
 pub mod test_utilities;
