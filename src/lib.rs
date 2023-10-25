@@ -157,6 +157,7 @@ pub mod problem_0056_merge_intervals;
 pub mod problem_0057_insert_interval;
 pub mod problem_0058_length_of_last_word;
 pub mod problem_0059_spiral_matrix_ii;
+pub mod problem_0061_rotate_list;
 pub mod problem_0066_plus_one;
 pub mod problem_0067_add_binary;
 pub mod problem_0070_climbing_stairs;
