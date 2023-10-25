@@ -19,23 +19,27 @@
 # The Docker image that will be used to build your app
 image: rust:latest
 
+variables:
+  RUSTUP_DIST_SERVER: "https://rsproxy.cn"
+  RUSTUP_UPDATE_ROOT: "https://rsproxy.cn/rustup"
+
 stages:
   - fmt
   - test
   - deploy
 
-rustfmt:    
+rustfmt:
   stage: fmt
   script:
     - cargo fmt --all -- --check
 
-clippy: 
+clippy:
   stage: fmt
   script:
     - cargo clippy --workspace --all-targets --all-features -- -D warnings
 
-test:  
-  stage: test   
+test:
+  stage: test
   script:
     - cargo test --workspace
 
