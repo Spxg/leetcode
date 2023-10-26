@@ -173,6 +173,7 @@ pub mod problem_0083_remove_duplicates_from_sorted_list;
 pub mod problem_0086_partition_list;
 pub mod problem_0088_merge_sorted_array;
 pub mod problem_0090_subsets_ii;
+pub mod problem_0092_reverse_linked_list_ii;
 
 #[cfg(test)]
 pub mod test_utilities;
