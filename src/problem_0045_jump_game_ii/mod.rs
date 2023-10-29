@@ -1,5 +1,5 @@
 pub mod bfs;
-pub mod recursion;
+pub mod recursive;
 
 pub trait Solution {
     fn jump(nums: Vec<i32>) -> i32;

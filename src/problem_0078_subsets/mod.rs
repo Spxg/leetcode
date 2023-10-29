@@ -1,4 +1,4 @@
-pub mod recursion;
+pub mod recursive;
 
 pub trait Solution {
     fn subsets(nums: Vec<i32>) -> Vec<Vec<i32>>;

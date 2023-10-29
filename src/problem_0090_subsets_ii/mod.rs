@@ -1,4 +1,4 @@
-pub mod recursion;
+pub mod recursive;
 
 pub trait Solution {
     fn subsets_with_dup(nums: Vec<i32>) -> Vec<Vec<i32>>;

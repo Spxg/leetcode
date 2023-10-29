@@ -2,7 +2,7 @@ use crate::data_structures::TreeNode;
 use std::cell::RefCell;
 use std::rc::Rc;
 
-pub mod recursion;
+pub mod recursive;
 
 pub trait Solution {
     fn inorder_traversal(root: Option<Rc<RefCell<TreeNode>>>) -> Vec<i32>;
