@@ -1,4 +1,4 @@
-pub mod iterate;
+pub mod iterative;
 
 pub trait Solution {
     fn longest_palindrome(s: String) -> String;

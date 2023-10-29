@@ -1,6 +1,6 @@
 use crate::data_structures::ListNode;
 
-pub mod iterate;
+pub mod iterative;
 
 pub trait Solution {
     fn reverse_between(head: Option<Box<ListNode>>, m: i32, n: i32) -> Option<Box<ListNode>>;

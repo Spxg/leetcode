@@ -1,5 +1,5 @@
 pub mod hash_map;
-pub mod iterate;
+pub mod iterative;
 
 pub trait Solution {
     fn two_sum(nums: Vec<i32>, target: i32) -> Vec<i32>;

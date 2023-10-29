@@ -1,4 +1,4 @@
-pub mod iterate;
+pub mod iterative;
 pub mod position_map;
 
 pub trait Solution {

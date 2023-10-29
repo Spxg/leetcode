@@ -1,4 +1,4 @@
-pub mod iterate;
+pub mod iterative;
 
 pub trait Solution {
     fn my_atoi(str: String) -> i32;

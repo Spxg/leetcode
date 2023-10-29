@@ -1,6 +1,6 @@
 use crate::data_structures::ListNode;
 
-pub mod iterate;
+pub mod iterative;
 
 pub trait Solution {
     fn partition(head: Option<Box<ListNode>>, x: i32) -> Option<Box<ListNode>>;

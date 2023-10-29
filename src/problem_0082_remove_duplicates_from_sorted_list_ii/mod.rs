@@ -1,6 +1,6 @@
 use crate::data_structures::ListNode;
 
-pub mod iterate;
+pub mod iterative;
 
 pub trait Solution {
     fn delete_duplicates(head: Option<Box<ListNode>>) -> Option<Box<ListNode>>;
