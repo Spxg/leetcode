@@ -138,6 +138,7 @@ pub mod problem_0019_remove_nth_node_from_end_of_list;
 pub mod problem_0020_valid_parentheses;
 pub mod problem_0021_merge_two_sorted_lists;
 pub mod problem_0022_generate_parentheses;
+pub mod problem_0023_merge_k_sorted_lists;
 pub mod problem_0024_swap_nodes_in_pairs;
 pub mod problem_0026_remove_duplicates_from_sorted_array;
 pub mod problem_0027_remove_element;
