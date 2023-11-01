@@ -161,6 +161,7 @@ pub mod problem_0059_spiral_matrix_ii;
 pub mod problem_0061_rotate_list;
 pub mod problem_0066_plus_one;
 pub mod problem_0067_add_binary;
+pub mod problem_0069_sqrtx;
 pub mod problem_0070_climbing_stairs;
 pub mod problem_0071_simplify_path;
 pub mod problem_0073_set_matrix_zeroes;
