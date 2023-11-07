@@ -153,6 +153,7 @@ pub mod problem_0043_multiply_strings;
 pub mod problem_0045_jump_game_ii;
 pub mod problem_0046_permutations;
 pub mod problem_0047_permutations_ii;
+pub mod problem_0048_rotate_image;
 pub mod problem_0049_group_anagrams;
 pub mod problem_0053_maximum_subarray;
 pub mod problem_0054_spiral_matrix;
