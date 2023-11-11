@@ -166,6 +166,7 @@ pub mod problem_0059_spiral_matrix_ii;
 pub mod problem_0061_rotate_list;
 pub mod problem_0062_unique_paths;
 pub mod problem_0063_unique_paths_ii;
+pub mod problem_0064_minimum_path_sum;
 pub mod problem_0066_plus_one;
 pub mod problem_0067_add_binary;
 pub mod problem_0069_sqrtx;
