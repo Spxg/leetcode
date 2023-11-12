@@ -9,5 +9,5 @@ members = ["tools/progress-tracker", "xtask"]
 
 [dependencies]
 
-
 [dev-dependencies]
+approx = "*"
