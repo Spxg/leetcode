@@ -174,6 +174,7 @@ pub mod problem_0067_add_binary;
 pub mod problem_0069_sqrtx;
 pub mod problem_0070_climbing_stairs;
 pub mod problem_0071_simplify_path;
+pub mod problem_0072_edit_distance;
 pub mod problem_0073_set_matrix_zeroes;
 pub mod problem_0074_search_a_2d_matrix;
 pub mod problem_0075_sort_colors;
