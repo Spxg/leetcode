@@ -182,6 +182,7 @@ pub mod problem_0074_search_a_2d_matrix;
 pub mod problem_0075_sort_colors;
 pub mod problem_0077_combinations;
 pub mod problem_0078_subsets;
+pub mod problem_0079_word_search;
 pub mod problem_0080_remove_duplicates_from_sorted_array_ii;
 pub mod problem_0081_search_in_rotated_sorted_array_ii;
 pub mod problem_0082_remove_duplicates_from_sorted_list_ii;
