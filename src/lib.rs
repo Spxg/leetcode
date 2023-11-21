@@ -197,6 +197,7 @@ pub mod problem_0091_decode_ways;
 pub mod problem_0092_reverse_linked_list_ii;
 pub mod problem_0093_restore_ip_addresses;
 pub mod problem_0094_binary_tree_inorder_traversal;
+pub mod problem_0098_validate_binary_search_tree;
 pub mod problem_0112_path_sum;
 pub mod problem_0206_reverse_linked_list;
 
