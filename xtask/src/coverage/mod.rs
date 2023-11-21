@@ -70,7 +70,9 @@ fn run_coverage_tests(test_executable: &Path, llvm_profdata: &Path, output: &Pat
     let profile_dir = tempfile::tempdir().unwrap();
     let profraw_file = profile_dir.path().join("coverage.profraw");
 
-    utilities::run_command(Command::new(test_executable).env("LLVM_PROFILE_FILE", profraw_file.as_os_str()));
+    utilities::run_command(
+        Command::new(test_executable).env("LLVM_PROFILE_FILE", profraw_file.as_os_str()),
+    );
 
     utilities::run_command(Command::new(llvm_profdata).args([
         "merge".as_ref(),
@@ -200,7 +202,11 @@ impl Subcommand {
                 "--ignore-filename-regex".as_ref(),
                 format!(
                     "^(/rustc/|{})",
-                    regex_syntax::escape(&format!("{}{}", env!("CARGO_HOME"), path::MAIN_SEPARATOR))
+                    regex_syntax::escape(&format!(
+                        "{}{}",
+                        env!("CARGO_HOME"),
+                        path::MAIN_SEPARATOR
+                    ))
                 )
                 .as_ref(),
                 "--path-equivalence".as_ref(),
@@ -236,7 +242,9 @@ impl Subcommand {
                 }
 
                 utilities::run_command_and_redirect_output(
-                    add_common_llvm_cov_args(Command::new(llvm_cov).args(["export", "--format", "lcov"])),
+                    add_common_llvm_cov_args(
+                        Command::new(llvm_cov).args(["export", "--format", "lcov"]),
+                    ),
                     File::create(self.output_path).unwrap(),
                 );
             }

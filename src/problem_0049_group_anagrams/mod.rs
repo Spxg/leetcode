@@ -21,7 +21,9 @@ mod tests {
 
             assert_eq!(
                 test_utilities::unstable_sorted(
-                    S::group_anagrams(strs).into_iter().map(test_utilities::unstable_sorted)
+                    S::group_anagrams(strs)
+                        .into_iter()
+                        .map(test_utilities::unstable_sorted)
                 ),
                 expected
             );

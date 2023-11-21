@@ -17,7 +17,14 @@ mod tests {
             (&[1, 2], &[&[1, 2], &[2, 1]]),
             (
                 &[1, 2, 3],
-                &[&[1, 2, 3], &[1, 3, 2], &[2, 1, 3], &[2, 3, 1], &[3, 1, 2], &[3, 2, 1]],
+                &[
+                    &[1, 2, 3],
+                    &[1, 3, 2],
+                    &[2, 1, 3],
+                    &[2, 3, 1],
+                    &[3, 1, 2],
+                    &[3, 2, 1],
+                ],
             ),
             (
                 &[1, 2, 3, 4],
@@ -51,7 +58,10 @@ mod tests {
         ];
 
         for (nums, expected) in test_cases {
-            assert_eq!(test_utilities::unstable_sorted(S::permute(nums.to_vec())), expected);
+            assert_eq!(
+                test_utilities::unstable_sorted(S::permute(nums.to_vec())),
+                expected
+            );
         }
     }
 }

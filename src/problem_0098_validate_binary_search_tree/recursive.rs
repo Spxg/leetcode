@@ -10,7 +10,8 @@ impl Solution {
         fn helper(node: &Option<Rc<RefCell<TreeNode>>>, last: &mut Option<i32>) -> bool {
             node.as_ref().map_or(true, |node| {
                 helper(&node.borrow().left, last)
-                    && std::mem::replace(last, Some(node.borrow().val)).map_or(true, |x| x < node.borrow().val)
+                    && std::mem::replace(last, Some(node.borrow().val))
+                        .map_or(true, |x| x < node.borrow().val)
                     && helper(&node.borrow().right, last)
             })
         }

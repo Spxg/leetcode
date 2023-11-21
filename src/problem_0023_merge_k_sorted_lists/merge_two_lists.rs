@@ -4,7 +4,10 @@ pub struct Solution;
 
 impl Solution {
     pub fn merge_k_lists(lists: Vec<Option<Box<ListNode>>>) -> Option<Box<ListNode>> {
-        fn merge_two_lists(list1: Option<Box<ListNode>>, list2: Option<Box<ListNode>>) -> Option<Box<ListNode>> {
+        fn merge_two_lists(
+            list1: Option<Box<ListNode>>,
+            list2: Option<Box<ListNode>>,
+        ) -> Option<Box<ListNode>> {
             let mut lhs = list1;
             let mut rhs = list2;
             let mut result = None;

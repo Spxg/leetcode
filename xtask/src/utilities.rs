@@ -50,7 +50,10 @@ pub fn run_command_and_get_output(command: &mut Command) -> Vec<u8> {
     output.stdout
 }
 
-pub fn run_command_and_stream_output<R>(command: &mut Command, callback: impl FnOnce(&mut dyn Read) -> R) -> R {
+pub fn run_command_and_stream_output<R>(
+    command: &mut Command,
+    callback: impl FnOnce(&mut dyn Read) -> R,
+) -> R {
     command.stdout(Stdio::piped());
     command.stderr(Stdio::null());
 

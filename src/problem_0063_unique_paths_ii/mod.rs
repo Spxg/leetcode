@@ -13,7 +13,10 @@ mod tests {
         let test_cases = [(&[[0, 0, 0], [0, 1, 0], [0, 0, 0]] as &dyn Matrix<_>, 2)];
 
         for (obstacle_grid, expected) in test_cases {
-            assert_eq!(S::unique_paths_with_obstacles(obstacle_grid.to_vec()), expected);
+            assert_eq!(
+                S::unique_paths_with_obstacles(obstacle_grid.to_vec()),
+                expected
+            );
         }
     }
 }

@@ -25,9 +25,10 @@ impl Solution {
             } else if ch.is_ascii_digit() {
                 fuck = true;
                 let digit = ch.to_digit(10).unwrap() as i32;
-                result = result
-                    .saturating_mul(10)
-                    .saturating_add(if negative { -digit } else { digit });
+                result =
+                    result
+                        .saturating_mul(10)
+                        .saturating_add(if negative { -digit } else { digit });
             } else {
                 break;
             }

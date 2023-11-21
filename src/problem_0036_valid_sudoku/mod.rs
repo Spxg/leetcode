@@ -83,7 +83,8 @@ mod tests {
         ];
 
         for (board, expected) in test_cases {
-            let result = S::is_valid_sudoku(board.iter().map(|row| row.chars().collect()).collect());
+            let result =
+                S::is_valid_sudoku(board.iter().map(|row| row.chars().collect()).collect());
 
             assert_eq!(result, expected);
         }

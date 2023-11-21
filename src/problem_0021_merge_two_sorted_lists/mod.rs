@@ -3,7 +3,10 @@ use crate::data_structures::ListNode;
 pub mod zip;
 
 pub trait Solution {
-    fn merge_two_lists(l1: Option<Box<ListNode>>, l2: Option<Box<ListNode>>) -> Option<Box<ListNode>>;
+    fn merge_two_lists(
+        l1: Option<Box<ListNode>>,
+        l2: Option<Box<ListNode>>,
+    ) -> Option<Box<ListNode>>;
 }
 
 #[cfg(test)]
@@ -13,7 +16,10 @@ mod tests {
 
     pub fn run<S: Solution>() {
         let test_cases = [
-            ((&[1, 2, 4] as &[_], &[1, 3, 4] as &[_]), &[1, 1, 2, 3, 4, 4] as &[_]),
+            (
+                (&[1, 2, 4] as &[_], &[1, 3, 4] as &[_]),
+                &[1, 1, 2, 3, 4, 4] as &[_],
+            ),
             ((&[2], &[1]), &[1, 2]),
             ((&[], &[]), &[]),
         ];
@@ -24,7 +30,10 @@ mod tests {
             let result = S::merge_two_lists(l1, l2);
 
             assert_eq!(
-                test_utilities::iter_list(&result).copied().collect::<Box<_>>().as_ref(),
+                test_utilities::iter_list(&result)
+                    .copied()
+                    .collect::<Box<_>>()
+                    .as_ref(),
                 expected
             );
         }

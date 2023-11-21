@@ -21,13 +21,15 @@ mod tests {
 
         for ((candidates, target), expected) in test_cases {
             assert_eq!(
-                test_utilities::unstable_sorted(S::combination_sum2(candidates.to_vec(), target).into_iter().map(
-                    |mut item| {
-                        item.sort_unstable();
+                test_utilities::unstable_sorted(
+                    S::combination_sum2(candidates.to_vec(), target)
+                        .into_iter()
+                        .map(|mut item| {
+                            item.sort_unstable();
 
-                        item
-                    }
-                )),
+                            item
+                        })
+                ),
                 expected
             );
         }

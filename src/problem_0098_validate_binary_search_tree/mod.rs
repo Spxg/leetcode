@@ -16,10 +16,16 @@ mod tests {
     pub fn run<S: Solution>() {
         let test_cases = [
             (&[Some(2), Some(1), Some(3)] as &[_], true),
-            (&[Some(5), Some(1), Some(4), None, None, Some(3), Some(6)], false),
+            (
+                &[Some(5), Some(1), Some(4), None, None, Some(3), Some(6)],
+                false,
+            ),
             (&[Some(-2_147_483_648), Some(-2_147_483_648)], false),
             (&[], true),
-            (&[Some(79), Some(-96), None, None, Some(-85), None, Some(34)], true),
+            (
+                &[Some(79), Some(-96), None, None, Some(-85), None, Some(34)],
+                true,
+            ),
             (
                 &[
                     Some(32),

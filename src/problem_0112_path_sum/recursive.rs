@@ -13,7 +13,8 @@ impl Solution {
                 (None, Some(right)) => hepler(right, target, sum + node.borrow().val),
                 (Some(left), None) => hepler(left, target, sum + node.borrow().val),
                 (Some(left), Some(right)) => {
-                    hepler(right, target, sum + node.borrow().val) || hepler(left, target, sum + node.borrow().val)
+                    hepler(right, target, sum + node.borrow().val)
+                        || hepler(left, target, sum + node.borrow().val)
                 }
             }
         }

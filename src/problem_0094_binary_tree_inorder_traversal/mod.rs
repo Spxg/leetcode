@@ -15,7 +15,10 @@ mod tests {
 
     pub fn run<S: Solution>() {
         let test_cases = [
-            (&[Some(1), None, Some(2), Some(3)] as &[_], &[1, 3, 2] as &[_]),
+            (
+                &[Some(1), None, Some(2), Some(3)] as &[_],
+                &[1, 3, 2] as &[_],
+            ),
             (&[Some(3), Some(1), None, None, Some(2)], &[1, 2, 3]),
             (&[], &[]),
         ];

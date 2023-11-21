@@ -9,7 +9,13 @@ mod tests {
     use super::Solution;
 
     pub fn run<S: Solution>() {
-        let test_cases = [("III", 3), ("IV", 4), ("IX", 9), ("LVIII", 58), ("MCMXCIV", 1994)];
+        let test_cases = [
+            ("III", 3),
+            ("IV", 4),
+            ("IX", 9),
+            ("LVIII", 58),
+            ("MCMXCIV", 1994),
+        ];
 
         for (s, expected) in test_cases {
             assert_eq!(S::roman_to_int(s.to_string()), expected);

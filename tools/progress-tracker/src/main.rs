@@ -85,7 +85,9 @@ fn generate_report(repository: &Path, target: &Path) {
     let repository = Repository::open(repository).unwrap();
 
     problems.retain_free();
-    problems.problems.sort_by_key(|p| p.stat.frontend_question_id);
+    problems
+        .problems
+        .sort_by_key(|p| p.stat.frontend_question_id);
 
     fs::create_dir_all(target).unwrap();
 
@@ -97,7 +99,12 @@ fn generate_report(repository: &Path, target: &Path) {
 
     let tree = repository.head().unwrap().peel_to_tree().unwrap();
 
-    report::generate(&problems.problems, &tree, "progress.svg", &target.join("index.html"));
+    report::generate(
+        &problems.problems,
+        &tree,
+        "progress.svg",
+        &target.join("index.html"),
+    );
 }
 
 fn main() {

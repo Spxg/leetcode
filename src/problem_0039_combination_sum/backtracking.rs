@@ -2,7 +2,12 @@ pub struct Solution;
 
 impl Solution {
     pub fn combination_sum(candidates: Vec<i32>, target: i32) -> Vec<Vec<i32>> {
-        fn helper(candidates: &[i32], target: i32, part: &mut Vec<i32>, result: &mut Vec<Vec<i32>>) {
+        fn helper(
+            candidates: &[i32],
+            target: i32,
+            part: &mut Vec<i32>,
+            result: &mut Vec<Vec<i32>>,
+        ) {
             if target == 0 {
                 result.push(part.clone());
                 return;

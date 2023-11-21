@@ -16,7 +16,11 @@ impl Solution {
         ]);
 
         digits.chars().fold(
-            if digits.is_empty() { vec![] } else { vec![String::new()] },
+            if digits.is_empty() {
+                vec![]
+            } else {
+                vec![String::new()]
+            },
             |acc, x| {
                 acc.iter()
                     .flat_map(|s| {

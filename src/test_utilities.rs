@@ -55,7 +55,10 @@ where
     }
 }
 
-pub fn compare_tree(lhs: &Option<Rc<RefCell<TreeNode>>>, rhs: &Option<Rc<RefCell<TreeNode>>>) -> Ordering {
+pub fn compare_tree(
+    lhs: &Option<Rc<RefCell<TreeNode>>>,
+    rhs: &Option<Rc<RefCell<TreeNode>>>,
+) -> Ordering {
     fn inner(lhs: Option<&RefCell<TreeNode>>, rhs: Option<&RefCell<TreeNode>>) -> Ordering {
         match (lhs, rhs) {
             (None, None) => Ordering::Equal,
@@ -117,7 +120,10 @@ pub fn is_full_stack_operations(operations: impl IntoIterator<Item = bool>) -> b
     depth == 0
 }
 
-pub fn is_subsequence<T, U>(lhs: impl IntoIterator<Item = T>, rhs: impl IntoIterator<Item = U>) -> bool
+pub fn is_subsequence<T, U>(
+    lhs: impl IntoIterator<Item = T>,
+    rhs: impl IntoIterator<Item = U>,
+) -> bool
 where
     T: PartialEq<U>,
 {
@@ -281,7 +287,10 @@ pub fn make_tree<I: IntoIterator<Item = Option<i32>>>(values: I) -> Option<Rc<Re
     })
 }
 
-pub fn unstable_sorted_by<T>(iter: impl IntoIterator<Item = T>, compare: impl FnMut(&T, &T) -> Ordering) -> Vec<T> {
+pub fn unstable_sorted_by<T>(
+    iter: impl IntoIterator<Item = T>,
+    compare: impl FnMut(&T, &T) -> Ordering,
+) -> Vec<T> {
     let mut result = iter.into_iter().collect::<Vec<_>>();
 
     result.sort_unstable_by(compare);
@@ -289,7 +298,10 @@ pub fn unstable_sorted_by<T>(iter: impl IntoIterator<Item = T>, compare: impl Fn
     result
 }
 
-pub fn unstable_sorted_by_key<T, K: Ord>(iter: impl IntoIterator<Item = T>, f: impl FnMut(&T) -> K) -> Vec<T> {
+pub fn unstable_sorted_by_key<T, K: Ord>(
+    iter: impl IntoIterator<Item = T>,
+    f: impl FnMut(&T) -> K,
+) -> Vec<T> {
     let mut result = iter.into_iter().collect::<Vec<_>>();
 
     result.sort_unstable_by_key(f);
@@ -314,7 +326,10 @@ mod tests {
             ((&[Some(1)] as &[_], &[Some(1)] as &[_]), Ordering::Equal),
             ((&[], &[]), Ordering::Equal),
             ((&[Some(1), Some(2)], &[Some(1), Some(2)]), Ordering::Equal),
-            ((&[Some(1), None, Some(2)], &[Some(1), None, Some(2)]), Ordering::Equal),
+            (
+                (&[Some(1), None, Some(2)], &[Some(1), None, Some(2)]),
+                Ordering::Equal,
+            ),
             (
                 (&[Some(1), Some(2), Some(3)], &[Some(1), Some(2), Some(3)]),
                 Ordering::Equal,
@@ -392,7 +407,8 @@ mod tests {
 
         for (root, expected) in test_cases {
             assert_eq!(
-                super::iter_tree_post_order(super::make_tree(root.iter().copied())).collect::<Vec<_>>(),
+                super::iter_tree_post_order(super::make_tree(root.iter().copied()))
+                    .collect::<Vec<_>>(),
                 expected
             );
         }

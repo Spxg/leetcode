@@ -22,7 +22,9 @@ impl Solution {
                 let mut pointer2 = nums.len() - 1;
 
                 while pointer1 < pointer2 {
-                    let sum = i64::from(nums[idx]) + i64::from(nums[pointer1]) + i64::from(nums[pointer2]);
+                    let sum = i64::from(nums[idx])
+                        + i64::from(nums[pointer1])
+                        + i64::from(nums[pointer2]);
                     match sum.cmp(&new_target) {
                         std::cmp::Ordering::Less => pointer1 += 1,
                         std::cmp::Ordering::Equal => {

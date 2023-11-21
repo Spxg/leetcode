@@ -11,9 +11,12 @@ impl Solution {
             }
         }
 
-        remove_idxs.iter().enumerate().for_each(|(idx, remove_idx)| {
-            nums.remove(remove_idx - idx);
-        });
+        remove_idxs
+            .iter()
+            .enumerate()
+            .for_each(|(idx, remove_idx)| {
+                nums.remove(remove_idx - idx);
+            });
 
         nums.len() as i32
     }

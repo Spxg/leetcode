@@ -5,7 +5,10 @@ impl Solution {
         fn helper(board: &mut Vec<Vec<char>>, word: &[u8], start: (usize, usize)) -> bool {
             let mut exist = |x, y, ch, rest| {
                 let mut result = false;
-                if (0..board.len()).contains(&x) && (0..board[0].len()).contains(&y) && board[x][y] as u8 == ch {
+                if (0..board.len()).contains(&x)
+                    && (0..board[0].len()).contains(&y)
+                    && board[x][y] as u8 == ch
+                {
                     board[x][y] = '.';
                     result |= helper(board, rest, (x, y));
                     board[x][y] = char::from(ch);

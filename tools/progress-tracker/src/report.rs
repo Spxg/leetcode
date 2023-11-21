@@ -24,7 +24,9 @@ fn make_solution_map(tree: &Tree) -> HashMap<String, Vec<Solution>> {
 }
 
 fn write_hyper_link<W: Write>(writer: &mut ElementWriter<W>, href: &str, text: &str) {
-    writer.add_element_with_attributes("a", [("href", href)]).add_text(text);
+    writer
+        .add_element_with_attributes("a", [("href", href)])
+        .add_text(text);
 }
 
 fn write_problem_link<W: Write>(writer: &mut ElementWriter<W>, problem: &Problem) {
@@ -102,7 +104,10 @@ figure { display: flex; justify-content: center; }
     body.add_element("h2").add_text("Progress Chart");
 
     body.add_element("figure")
-        .add_empty_element_with_attributes("img", [("src", progress_chart), ("alt", "Progress Chart")]);
+        .add_empty_element_with_attributes(
+            "img",
+            [("src", progress_chart), ("alt", "Progress Chart")],
+        );
 
     body.add_element("h2").add_text("Detail");
 

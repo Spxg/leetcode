@@ -3,7 +3,11 @@ use crate::data_structures::ListNode;
 pub struct Solution;
 
 impl Solution {
-    pub fn reverse_between(head: Option<Box<ListNode>>, left: i32, right: i32) -> Option<Box<ListNode>> {
+    pub fn reverse_between(
+        head: Option<Box<ListNode>>,
+        left: i32,
+        right: i32,
+    ) -> Option<Box<ListNode>> {
         let mut head = head;
         let mut reverse = None;
         let mut pointer = &mut head;

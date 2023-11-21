@@ -121,7 +121,8 @@ fn draw_chart(data: &[(DateTime<Utc>, usize)], total: usize, output: &Path) {
 
         chart
             .draw_series(LineSeries::new(
-                data.iter().map(|&(date, hits)| (date, get_progress(hits, total))),
+                data.iter()
+                    .map(|&(date, hits)| (date, get_progress(hits, total))),
                 ShapeStyle::from(&colors::RED).stroke_width(ZOOM),
             ))
             .unwrap();

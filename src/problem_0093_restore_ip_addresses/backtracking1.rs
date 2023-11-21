@@ -27,7 +27,11 @@ impl Solution {
             }
         }
 
-        let s = s.as_bytes().iter().map(|x| i32::from(*x - b'0')).collect::<Vec<_>>();
+        let s = s
+            .as_bytes()
+            .iter()
+            .map(|x| i32::from(*x - b'0'))
+            .collect::<Vec<_>>();
         let mut result = vec![];
         helper(&s, &mut Vec::new(), &mut result);
         result

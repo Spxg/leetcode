@@ -22,7 +22,10 @@ mod tests {
         ];
 
         for ((haystack, needle), expected) in test_cases {
-            assert_eq!(S::str_str(haystack.to_string(), needle.to_string()), expected);
+            assert_eq!(
+                S::str_str(haystack.to_string(), needle.to_string()),
+                expected
+            );
         }
     }
 }

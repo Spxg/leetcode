@@ -10,10 +10,16 @@ mod tests {
 
     pub fn run<S: Solution>() {
         let test_cases = [
-            ("23", &["ad", "ae", "af", "bd", "be", "bf", "cd", "ce", "cf"] as &[_]),
+            (
+                "23",
+                &["ad", "ae", "af", "bd", "be", "bf", "cd", "ce", "cf"] as &[_],
+            ),
             ("", &[]),
             ("2", &["a", "b", "c"]),
-            ("34", &["dg", "dh", "di", "eg", "eh", "ei", "fg", "fh", "fi"]),
+            (
+                "34",
+                &["dg", "dh", "di", "eg", "eh", "ei", "fg", "fh", "fi"],
+            ),
             ("5", &["j", "k", "l"]),
             ("6", &["m", "n", "o"]),
             ("7", &["p", "q", "r", "s"]),

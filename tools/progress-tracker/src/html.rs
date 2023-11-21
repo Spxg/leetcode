@@ -61,7 +61,13 @@ where
         write!(writer, "<{name}").unwrap();
 
         for (name, value) in attributes {
-            write!(writer, " {}=\"{}\"", name.as_ref(), AttributeValue(value.as_ref())).unwrap();
+            write!(
+                writer,
+                " {}=\"{}\"",
+                name.as_ref(),
+                AttributeValue(value.as_ref())
+            )
+            .unwrap();
         }
 
         write!(writer, ">").unwrap();
@@ -81,7 +87,13 @@ where
         write!(self.writer, "<{name}").unwrap();
 
         for (name, value) in attributes {
-            write!(self.writer, " {}=\"{}\"", name.as_ref(), AttributeValue(value.as_ref())).unwrap();
+            write!(
+                self.writer,
+                " {}=\"{}\"",
+                name.as_ref(),
+                AttributeValue(value.as_ref())
+            )
+            .unwrap();
         }
 
         write!(self.writer, "/>").unwrap();

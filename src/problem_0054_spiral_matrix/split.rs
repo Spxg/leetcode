@@ -16,9 +16,15 @@ impl Solution {
                             result.push(x);
                         }
                     }
-                    last[col..n - col].iter().rev().for_each(|&x| result.push(x));
+                    last[col..n - col]
+                        .iter()
+                        .rev()
+                        .for_each(|&x| result.push(x));
                     for mid in mids.iter().rev() {
-                        if let Some(&x) = mid[col..n - col].split_last().and_then(|(_, ele)| ele.first()) {
+                        if let Some(&x) = mid[col..n - col]
+                            .split_last()
+                            .and_then(|(_, ele)| ele.first())
+                        {
                             result.push(x);
                         }
                     }

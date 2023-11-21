@@ -10,7 +10,9 @@ impl Solution {
         for chars in s.as_bytes().chunks(num_rows + num_rows - 2) {
             let mut chunk = chars.chunks(num_rows);
             if let Some(chunk1) = chunk.next() {
-                (0..num_rows).zip(chunk1).for_each(|(idx, char)| parts[idx].push(*char));
+                (0..num_rows)
+                    .zip(chunk1)
+                    .for_each(|(idx, char)| parts[idx].push(*char));
             }
             if let Some(chunk2) = chunk.next() {
                 (1..num_rows - 1)

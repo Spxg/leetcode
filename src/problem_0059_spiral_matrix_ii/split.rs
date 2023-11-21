@@ -23,7 +23,10 @@ impl Solution {
                         count += 1;
                     }
                     for mid in mids.iter_mut().rev() {
-                        if let Some(x) = mid[idx..n - idx].split_last_mut().and_then(|(_, ele)| ele.first_mut()) {
+                        if let Some(x) = mid[idx..n - idx]
+                            .split_last_mut()
+                            .and_then(|(_, ele)| ele.first_mut())
+                        {
                             *x = count;
                             count += 1;
                         }

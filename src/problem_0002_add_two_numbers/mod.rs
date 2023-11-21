@@ -3,7 +3,10 @@ pub mod zip;
 use crate::data_structures::ListNode;
 
 pub trait Solution {
-    fn add_two_numbers(l1: Option<Box<ListNode>>, l2: Option<Box<ListNode>>) -> Option<Box<ListNode>>;
+    fn add_two_numbers(
+        l1: Option<Box<ListNode>>,
+        l2: Option<Box<ListNode>>,
+    ) -> Option<Box<ListNode>>;
 }
 
 #[cfg(test)]
@@ -15,8 +18,14 @@ mod tests {
         let test_cases = [
             ((&[2, 4, 3] as &[_], &[5, 6, 4] as &[_]), &[7, 0, 8] as &[_]),
             ((&[0], &[0]), &[0]),
-            ((&[9, 9, 9, 9, 9, 9, 9], &[9, 9, 9, 9]), &[8, 9, 9, 9, 0, 0, 0, 1]),
-            ((&[9, 9, 9, 9], &[9, 9, 9, 9, 9, 9, 9]), &[8, 9, 9, 9, 0, 0, 0, 1]),
+            (
+                (&[9, 9, 9, 9, 9, 9, 9], &[9, 9, 9, 9]),
+                &[8, 9, 9, 9, 0, 0, 0, 1],
+            ),
+            (
+                (&[9, 9, 9, 9], &[9, 9, 9, 9, 9, 9, 9]),
+                &[8, 9, 9, 9, 0, 0, 0, 1],
+            ),
         ];
 
         for ((l1, l2), expected) in test_cases {
