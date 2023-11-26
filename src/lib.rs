@@ -202,6 +202,7 @@ pub mod problem_0096_unique_binary_search_trees;
 pub mod problem_0098_validate_binary_search_tree;
 pub mod problem_0100_same_tree;
 pub mod problem_0101_symmetric_tree;
+pub mod problem_0102_binary_tree_level_order_traversal;
 pub mod problem_0112_path_sum;
 pub mod problem_0206_reverse_linked_list;
 
