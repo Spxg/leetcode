@@ -97,7 +97,7 @@ figure { display: flex; justify-content: center; }
 
     write_hyper_link(
         &mut body.add_element_with_attributes("div", [("style", "text-align: center;")]),
-        "https://github.com/EFanZh/LeetCode",
+        "https://srv.hdr.ink/gitlab/Spxg/leetcode",
         "Source code",
     );
 
