@@ -209,6 +209,7 @@ pub mod problem_0105_construct_binary_tree_from_preorder_and_inorder_traversal;
 pub mod problem_0106_construct_binary_tree_from_inorder_and_postorder_traversal;
 pub mod problem_0107_binary_tree_level_order_traversal_ii;
 pub mod problem_0112_path_sum;
+pub mod problem_0113_path_sum_ii;
 pub mod problem_0206_reverse_linked_list;
 
 #[cfg(test)]
