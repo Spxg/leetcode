@@ -1,0 +1,81 @@
+pub mod recursive;
+
+use crate::data_structures::TreeNode;
+
+use std::cell::RefCell;
+use std::rc::Rc;
+
+pub trait Solution {
+    fn is_balanced(root: Option<Rc<RefCell<TreeNode>>>) -> bool;
+}
+
+#[cfg(test)]
+mod tests {
+    use super::Solution;
+    use crate::test_utilities;
+
+    pub fn run<S: Solution>() {
+        let test_cases = [
+            (
+                &[Some(3), Some(9), Some(20), None, None, Some(15), Some(7)] as &[_],
+                true,
+            ),
+            (
+                &[
+                    Some(1),
+                    Some(2),
+                    Some(2),
+                    Some(3),
+                    Some(3),
+                    None,
+                    None,
+                    Some(4),
+                    Some(4),
+                ],
+                false,
+            ),
+            (&[], true),
+            (
+                &[
+                    Some(1),
+                    Some(2),
+                    Some(2),
+                    Some(3),
+                    None,
+                    None,
+                    Some(3),
+                    Some(4),
+                    None,
+                    None,
+                    Some(4),
+                ],
+                false,
+            ),
+            (
+                &[
+                    Some(1),
+                    Some(2),
+                    Some(3),
+                    Some(4),
+                    Some(5),
+                    None,
+                    Some(6),
+                    Some(7),
+                    None,
+                    None,
+                    None,
+                    None,
+                    Some(8),
+                ],
+                false,
+            ),
+        ];
+
+        for (root, expected) in test_cases {
+            assert_eq!(
+                S::is_balanced(test_utilities::make_tree(root.iter().copied())),
+                expected
+            );
+        }
+    }
+}
