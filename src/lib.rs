@@ -215,6 +215,7 @@ pub mod problem_0111_minimum_depth_of_binary_tree;
 pub mod problem_0112_path_sum;
 pub mod problem_0113_path_sum_ii;
 pub mod problem_0118_pascals_triangle;
+pub mod problem_0119_pascals_triangle_ii;
 pub mod problem_0206_reverse_linked_list;
 
 #[cfg(test)]
