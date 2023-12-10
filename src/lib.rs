@@ -217,6 +217,7 @@ pub mod problem_0113_path_sum_ii;
 pub mod problem_0114_flatten_binary_tree_to_linked_list;
 pub mod problem_0118_pascals_triangle;
 pub mod problem_0119_pascals_triangle_ii;
+pub mod problem_0121_best_time_to_buy_and_sell_stock;
 pub mod problem_0206_reverse_linked_list;
 
 #[cfg(test)]
