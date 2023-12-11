@@ -199,6 +199,7 @@ pub mod problem_0093_restore_ip_addresses;
 pub mod problem_0094_binary_tree_inorder_traversal;
 pub mod problem_0095_unique_binary_search_trees_ii;
 pub mod problem_0096_unique_binary_search_trees;
+pub mod problem_0097_interleaving_string;
 pub mod problem_0098_validate_binary_search_tree;
 pub mod problem_0100_same_tree;
 pub mod problem_0101_symmetric_tree;
