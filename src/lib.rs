@@ -224,6 +224,7 @@ pub mod problem_0122_best_time_to_buy_and_sell_stock_ii;
 pub mod problem_0125_valid_palindrome;
 pub mod problem_0129_sum_root_to_leaf_numbers;
 pub mod problem_0131_palindrome_partitioning;
+pub mod problem_0132_palindrome_partitioning_ii;
 pub mod problem_0206_reverse_linked_list;
 
 #[cfg(test)]
