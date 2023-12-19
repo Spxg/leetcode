@@ -226,6 +226,7 @@ pub mod problem_0129_sum_root_to_leaf_numbers;
 pub mod problem_0131_palindrome_partitioning;
 pub mod problem_0132_palindrome_partitioning_ii;
 pub mod problem_0136_single_number;
+pub mod problem_0144_binary_tree_preorder_traversal;
 pub mod problem_0206_reverse_linked_list;
 
 #[cfg(test)]
