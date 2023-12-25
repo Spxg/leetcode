@@ -233,6 +233,7 @@ pub mod problem_0145_binary_tree_postorder_traversal;
 pub mod problem_0150_evaluate_reverse_polish_notation;
 pub mod problem_0151_reverse_words_in_a_string;
 pub mod problem_0206_reverse_linked_list;
+pub mod problem_0394_decode_string;
 
 #[cfg(test)]
 pub mod test_utilities;
