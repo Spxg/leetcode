@@ -234,6 +234,7 @@ pub mod problem_0150_evaluate_reverse_polish_notation;
 pub mod problem_0151_reverse_words_in_a_string;
 pub mod problem_0152_maximum_product_subarray;
 pub mod problem_0153_find_minimum_in_rotated_sorted_array;
+pub mod problem_0154_find_minimum_in_rotated_sorted_array_ii;
 pub mod problem_0206_reverse_linked_list;
 pub mod problem_0394_decode_string;
 
