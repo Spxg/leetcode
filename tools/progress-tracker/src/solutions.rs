@@ -2,9 +2,9 @@ use git2::{Tree, TreeWalkMode, TreeWalkResult};
 
 pub struct Solution {
     pub problem_id: String,
-    pub solution_id: String,
-    pub solution_root: String,
-    pub solution_file: String,
+    pub id: String,
+    pub root: String,
+    pub file: String,
 }
 
 pub fn list(tree: &Tree, mut f: impl FnMut(Solution)) {
@@ -19,9 +19,9 @@ pub fn list(tree: &Tree, mut f: impl FnMut(Solution)) {
                 if name != "mod.rs" {
                     f(Solution {
                         problem_id: problem_id.replace('_', "-"),
-                        solution_id: solution_id.to_string(),
-                        solution_root: root.to_string(),
-                        solution_file: name.to_string(),
+                        id: solution_id.to_string(),
+                        root: root.to_string(),
+                        file: name.to_string(),
                     });
                 }
             }
