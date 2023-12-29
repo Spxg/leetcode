@@ -74,10 +74,15 @@ mod report;
 mod solutions;
 
 fn get_all_problems() -> Problems {
-    blocking::get("https://leetcode.com/api/problems/algorithms/")
-        .unwrap()
-        .json()
-        .unwrap()
+    match blocking::get("https://leetcode.com/api/problems/algorithms/")
+        .and_then(reqwest::blocking::Response::json)
+    {
+        Ok(problems) => {
+            fs::write("problems", serde_json::to_vec_pretty(&problems).unwrap()).unwrap();
+            problems
+        }
+        Err(_) => serde_json::from_slice(&fs::read("problems").unwrap()).unwrap(),
+    }
 }
 
 fn generate_report(repository: &Path, target: &Path) {

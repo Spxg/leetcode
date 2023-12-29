@@ -46,11 +46,18 @@ test:
 pages:
   stage: deploy
   script:
-    - cargo run --package progress-tracker --release -- . public
+    - cargo run --package progress-tracker --release -- . target/public
+    - git config user.email "unsafe@outlook.es"
+    - git config user.name "Spxg"
+    - git remote add ci https://$TOKEN_NAME:$ACCESS_TOKEN@srv.hdr.ink/gitlab/Spxg/leetcode.git
+    - git add .
+    - git commit -m "Update problems [skip ci]" || true
+    - git push ci HEAD:$CI_DEFAULT_BRANCH || true
   artifacts:
     paths:
       # The folder that contains the files to be exposed at the Page URL
-      - public
+      - target/public
+  publish: target/public
   rules:
     # This ensures that only pushes to the default branch will trigger
     # a pages deploy

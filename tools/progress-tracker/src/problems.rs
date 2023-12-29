@@ -1,6 +1,6 @@
-use serde::Deserialize;
+use serde::{Deserialize, Serialize};
 
-#[derive(Deserialize)]
+#[derive(Deserialize, Serialize)]
 pub struct Stat {
     #[serde(rename = "question__title")]
     pub title: String,
@@ -9,12 +9,12 @@ pub struct Stat {
     pub frontend_question_id: u16,
 }
 
-#[derive(Deserialize)]
+#[derive(Deserialize, Serialize)]
 pub struct Difficulty {
     pub level: u8,
 }
 
-#[derive(Deserialize)]
+#[derive(Deserialize, Serialize)]
 pub struct Problem {
     pub stat: Stat,
     pub difficulty: Difficulty,
@@ -30,7 +30,7 @@ impl Problem {
     }
 }
 
-#[derive(Deserialize)]
+#[derive(Deserialize, Serialize)]
 pub struct Problems {
     #[serde(rename = "stat_status_pairs")]
     pub problems: Vec<Problem>,
