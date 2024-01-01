@@ -24,6 +24,28 @@
     },
     {
       "stat": {
+        "question__title": "Find Longest Special Substring That Occurs Thrice I",
+        "question__title_slug": "find-longest-special-substring-that-occurs-thrice-i",
+        "frontend_question_id": 2981
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Find Longest Special Substring That Occurs Thrice II",
+        "question__title_slug": "find-longest-special-substring-that-occurs-thrice-ii",
+        "frontend_question_id": 2982
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
         "question__title": "Find Polygon With the Largest Perimeter",
         "question__title_slug": "find-polygon-with-the-largest-perimeter",
         "frontend_question_id": 2971
@@ -87,6 +109,17 @@
         "level": 2
       },
       "paid_only": true
+    },
+    {
+      "stat": {
+        "question__title": "Check if Bitwise OR Has Trailing Zeros",
+        "question__title_slug": "check-if-bitwise-or-has-trailing-zeros",
+        "frontend_question_id": 2980
+      },
+      "difficulty": {
+        "level": 1
+      },
+      "paid_only": false
     },
     {
       "stat": {
@@ -439,6 +472,17 @@
         "level": 3
       },
       "paid_only": true
+    },
+    {
+      "stat": {
+        "question__title": "Palindrome Rearrangement Queries",
+        "question__title_slug": "palindrome-rearrangement-queries",
+        "frontend_question_id": 2983
+      },
+      "difficulty": {
+        "level": 3
+      },
+      "paid_only": false
     },
     {
       "stat": {
