@@ -2,6 +2,17 @@
   "stat_status_pairs": [
     {
       "stat": {
+        "question__title": "Number of Self-Divisible Permutations",
+        "question__title_slug": "number-of-self-divisible-permutations",
+        "frontend_question_id": 2992
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": true
+    },
+    {
+      "stat": {
         "question__title": "Most Expensive Item That Can Not Be Bought",
         "question__title_slug": "most-expensive-item-that-can-not-be-bought",
         "frontend_question_id": 2979
