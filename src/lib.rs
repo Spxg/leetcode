@@ -241,6 +241,7 @@ pub mod problem_0168_excel_sheet_column_title;
 pub mod problem_0169_majority_element;
 pub mod problem_0171_excel_sheet_column_number;
 pub mod problem_0179_largest_number;
+pub mod problem_0190_reverse_bits;
 pub mod problem_0199_binary_tree_right_side_view;
 pub mod problem_0206_reverse_linked_list;
 pub mod problem_0394_decode_string;
