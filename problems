@@ -101,6 +101,17 @@
     },
     {
       "stat": {
+        "question__title": "Minimum Number of Operations to Make Array XOR Equal to K",
+        "question__title_slug": "minimum-number-of-operations-to-make-array-xor-equal-to-k",
+        "frontend_question_id": 10032
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
         "question__title": "Count the Number of Incremovable Subarrays II",
         "question__title_slug": "count-the-number-of-incremovable-subarrays-ii",
         "frontend_question_id": 2972
@@ -134,9 +145,31 @@
     },
     {
       "stat": {
+        "question__title": "Count the Number of Powerful Integers",
+        "question__title_slug": "count-the-number-of-powerful-integers",
+        "frontend_question_id": 10034
+      },
+      "difficulty": {
+        "level": 3
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
         "question__title": "Divide Array Into Arrays With Max Difference",
         "question__title_slug": "divide-array-into-arrays-with-max-difference",
         "frontend_question_id": 2966
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Minimum Number of Operations to Make X and Y Equal",
+        "question__title_slug": "minimum-number-of-operations-to-make-x-and-y-equal",
+        "frontend_question_id": 10033
       },
       "difficulty": {
         "level": 2
@@ -164,6 +197,17 @@
         "level": 2
       },
       "paid_only": true
+    },
+    {
+      "stat": {
+        "question__title": "Smallest Missing Integer Greater Than Sequential Prefix Sum",
+        "question__title_slug": "smallest-missing-integer-greater-than-sequential-prefix-sum",
+        "frontend_question_id": 10031
+      },
+      "difficulty": {
+        "level": 1
+      },
+      "paid_only": false
     },
     {
       "stat": {
