@@ -241,6 +241,7 @@ pub mod problem_0167_two_sum_ii_input_array_is_sorted;
 pub mod problem_0168_excel_sheet_column_title;
 pub mod problem_0169_majority_element;
 pub mod problem_0171_excel_sheet_column_number;
+pub mod problem_0173_binary_search_tree_iterator;
 pub mod problem_0179_largest_number;
 pub mod problem_0190_reverse_bits;
 pub mod problem_0191_number_of_1_bits;
