@@ -26,7 +26,7 @@
       "stat": {
         "question__title": "Minimum Moves to Capture The Queen",
         "question__title_slug": "minimum-moves-to-capture-the-queen",
-        "frontend_question_id": 10036
+        "frontend_question_id": 3001
       },
       "difficulty": {
         "level": 2
@@ -103,7 +103,7 @@
       "stat": {
         "question__title": "Maximum Area of Longest Diagonal Rectangle",
         "question__title_slug": "maximum-area-of-longest-diagonal-rectangle",
-        "frontend_question_id": 10035
+        "frontend_question_id": 3000
       },
       "difficulty": {
         "level": 1
@@ -125,7 +125,7 @@
       "stat": {
         "question__title": "Minimum Number of Operations to Make Array XOR Equal to K",
         "question__title_slug": "minimum-number-of-operations-to-make-array-xor-equal-to-k",
-        "frontend_question_id": 10032
+        "frontend_question_id": 2997
       },
       "difficulty": {
         "level": 2
@@ -169,7 +169,7 @@
       "stat": {
         "question__title": "Count the Number of Powerful Integers",
         "question__title_slug": "count-the-number-of-powerful-integers",
-        "frontend_question_id": 10034
+        "frontend_question_id": 2999
       },
       "difficulty": {
         "level": 3
@@ -191,7 +191,7 @@
       "stat": {
         "question__title": "Minimum Number of Operations to Make X and Y Equal",
         "question__title_slug": "minimum-number-of-operations-to-make-x-and-y-equal",
-        "frontend_question_id": 10033
+        "frontend_question_id": 2998
       },
       "difficulty": {
         "level": 2
@@ -224,7 +224,7 @@
       "stat": {
         "question__title": "Smallest Missing Integer Greater Than Sequential Prefix Sum",
         "question__title_slug": "smallest-missing-integer-greater-than-sequential-prefix-sum",
-        "frontend_question_id": 10031
+        "frontend_question_id": 2996
       },
       "difficulty": {
         "level": 1
@@ -257,7 +257,7 @@
       "stat": {
         "question__title": "Maximize the Number of Partitions After Operations",
         "question__title_slug": "maximize-the-number-of-partitions-after-operations",
-        "frontend_question_id": 10038
+        "frontend_question_id": 3003
       },
       "difficulty": {
         "level": 3
@@ -312,7 +312,7 @@
       "stat": {
         "question__title": "Maximum Size of a Set After Removals",
         "question__title_slug": "maximum-size-of-a-set-after-removals",
-        "frontend_question_id": 10037
+        "frontend_question_id": 3002
       },
       "difficulty": {
         "level": 2
