@@ -250,6 +250,7 @@ pub mod problem_0199_binary_tree_right_side_view;
 pub mod problem_0205_isomorphic_strings;
 pub mod problem_0206_reverse_linked_list;
 pub mod problem_0216_combination_sum_iii;
+pub mod problem_0217_contains_duplicate;
 pub mod problem_0394_decode_string;
 
 #[cfg(test)]
