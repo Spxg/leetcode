@@ -13,6 +13,17 @@
     },
     {
       "stat": {
+        "question__title": "Find Beautiful Indices in the Given Array II",
+        "question__title_slug": "find-beautiful-indices-in-the-given-array-ii",
+        "frontend_question_id": 3008
+      },
+      "difficulty": {
+        "level": 3
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
         "question__title": "Number of Self-Divisible Permutations",
         "question__title_slug": "number-of-self-divisible-permutations",
         "frontend_question_id": 2992
@@ -178,6 +189,17 @@
     },
     {
       "stat": {
+        "question__title": "Find Beautiful Indices in the Given Array I",
+        "question__title_slug": "find-beautiful-indices-in-the-given-array-i",
+        "frontend_question_id": 3006
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
         "question__title": "Count the Number of Powerful Integers",
         "question__title_slug": "count-the-number-of-powerful-integers",
         "frontend_question_id": 2999
@@ -189,9 +211,31 @@
     },
     {
       "stat": {
+        "question__title": "Count Elements With Maximum Frequency",
+        "question__title_slug": "count-elements-with-maximum-frequency",
+        "frontend_question_id": 3005
+      },
+      "difficulty": {
+        "level": 1
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
         "question__title": "Divide Array Into Arrays With Max Difference",
         "question__title_slug": "divide-array-into-arrays-with-max-difference",
         "frontend_question_id": 2966
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Maximum Number That Sum of the Prices Is Less Than or Equal to K",
+        "question__title_slug": "maximum-number-that-sum-of-the-prices-is-less-than-or-equal-to-k",
+        "frontend_question_id": 3007
       },
       "difficulty": {
         "level": 2
