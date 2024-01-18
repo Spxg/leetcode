@@ -2,6 +2,17 @@
   "stat_status_pairs": [
     {
       "stat": {
+        "question__title": "Maximum Number of Intersections on the Chart",
+        "question__title_slug": "maximum-number-of-intersections-on-the-chart",
+        "frontend_question_id": 3009
+      },
+      "difficulty": {
+        "level": 3
+      },
+      "paid_only": true
+    },
+    {
+      "stat": {
         "question__title": "Maximum Subtree of the Same Color",
         "question__title_slug": "maximum-subtree-of-the-same-color",
         "frontend_question_id": 3004
