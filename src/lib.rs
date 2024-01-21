@@ -249,6 +249,7 @@ pub mod problem_0191_number_of_1_bits;
 pub mod problem_0199_binary_tree_right_side_view;
 pub mod problem_0205_isomorphic_strings;
 pub mod problem_0206_reverse_linked_list;
+pub mod problem_0208_implement_trie_prefix_tree;
 pub mod problem_0211_design_add_and_search_words_data_structure;
 pub mod problem_0216_combination_sum_iii;
 pub mod problem_0217_contains_duplicate;
