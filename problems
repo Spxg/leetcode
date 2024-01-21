@@ -13,6 +13,17 @@
     },
     {
       "stat": {
+        "question__title": "Count the Number of Houses at a Certain Distance II",
+        "question__title_slug": "count-the-number-of-houses-at-a-certain-distance-ii",
+        "frontend_question_id": 3017
+      },
+      "difficulty": {
+        "level": 3
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
         "question__title": "Maximum Subtree of the Same Color",
         "question__title_slug": "maximum-subtree-of-the-same-color",
         "frontend_question_id": 3004
@@ -46,6 +57,39 @@
     },
     {
       "stat": {
+        "question__title": "Find if Array Can Be Sorted",
+        "question__title_slug": "find-if-array-can-be-sorted",
+        "frontend_question_id": 3011
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Minimum Number of Pushes to Type Word II",
+        "question__title_slug": "minimum-number-of-pushes-to-type-word-ii",
+        "frontend_question_id": 3016
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Minimum Number of Pushes to Type Word I",
+        "question__title_slug": "minimum-number-of-pushes-to-type-word-i",
+        "frontend_question_id": 3014
+      },
+      "difficulty": {
+        "level": 1
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
         "question__title": "Most Expensive Item That Can Not Be Bought",
         "question__title_slug": "most-expensive-item-that-can-not-be-bought",
         "frontend_question_id": 2979
@@ -54,6 +98,17 @@
         "level": 2
       },
       "paid_only": true
+    },
+    {
+      "stat": {
+        "question__title": "Count the Number of Houses at a Certain Distance I",
+        "question__title_slug": "count-the-number-of-houses-at-a-certain-distance-i",
+        "frontend_question_id": 3015
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": false
     },
     {
       "stat": {
@@ -101,12 +156,34 @@
     },
     {
       "stat": {
+        "question__title": "Divide an Array Into Subarrays With Minimum Cost I",
+        "question__title_slug": "divide-an-array-into-subarrays-with-minimum-cost-i",
+        "frontend_question_id": 3010
+      },
+      "difficulty": {
+        "level": 1
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
         "question__title": "Find Polygon With the Largest Perimeter",
         "question__title_slug": "find-polygon-with-the-largest-perimeter",
         "frontend_question_id": 2971
       },
       "difficulty": {
         "level": 2
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Divide an Array Into Subarrays With Minimum Cost II",
+        "question__title_slug": "divide-an-array-into-subarrays-with-minimum-cost-ii",
+        "frontend_question_id": 3013
+      },
+      "difficulty": {
+        "level": 3
       },
       "paid_only": false
     },
@@ -203,6 +280,17 @@
         "question__title": "Find Beautiful Indices in the Given Array I",
         "question__title_slug": "find-beautiful-indices-in-the-given-array-i",
         "frontend_question_id": 3006
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Minimize Length of Array Using Operations",
+        "question__title_slug": "minimize-length-of-array-using-operations",
+        "frontend_question_id": 3012
       },
       "difficulty": {
         "level": 2
