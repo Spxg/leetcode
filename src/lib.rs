@@ -259,6 +259,7 @@ pub mod problem_0228_summary_ranges;
 pub mod problem_0257_binary_tree_paths;
 pub mod problem_0274_h_index;
 pub mod problem_0275_h_index_ii;
+pub mod problem_0338_counting_bits;
 pub mod problem_0394_decode_string;
 pub mod problem_0398_random_pick_index;
 pub mod problem_2348_number_of_zero_filled_subarrays;
