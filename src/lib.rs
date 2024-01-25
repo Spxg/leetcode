@@ -263,6 +263,7 @@ pub mod problem_0338_counting_bits;
 pub mod problem_0349_intersection_of_two_arrays;
 pub mod problem_0394_decode_string;
 pub mod problem_0398_random_pick_index;
+pub mod problem_0437_path_sum_iii;
 pub mod problem_2348_number_of_zero_filled_subarrays;
 
 #[cfg(test)]
