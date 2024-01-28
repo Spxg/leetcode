@@ -24,6 +24,17 @@
     },
     {
       "stat": {
+        "question__title": "Number of Changing Keys",
+        "question__title_slug": "number-of-changing-keys",
+        "frontend_question_id": 3019
+      },
+      "difficulty": {
+        "level": 1
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
         "question__title": "Count the Number of Houses at a Certain Distance II",
         "question__title_slug": "count-the-number-of-houses-at-a-certain-distance-ii",
         "frontend_question_id": 3017
@@ -57,6 +68,17 @@
     },
     {
       "stat": {
+        "question__title": "Find the Maximum Number of Elements in Subset",
+        "question__title_slug": "find-the-maximum-number-of-elements-in-subset",
+        "frontend_question_id": 3020
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
         "question__title": "Number of Self-Divisible Permutations",
         "question__title_slug": "number-of-self-divisible-permutations",
         "frontend_question_id": 2992
@@ -71,6 +93,17 @@
         "question__title": "Find if Array Can Be Sorted",
         "question__title_slug": "find-if-array-can-be-sorted",
         "frontend_question_id": 3011
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Alice and Bob Playing Flower Game",
+        "question__title_slug": "alice-and-bob-playing-flower-game",
+        "frontend_question_id": 3021
       },
       "difficulty": {
         "level": 2
@@ -184,6 +217,17 @@
       },
       "difficulty": {
         "level": 2
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Minimize OR of Remaining Elements Using Operations",
+        "question__title_slug": "minimize-or-of-remaining-elements-using-operations",
+        "frontend_question_id": 3022
+      },
+      "difficulty": {
+        "level": 3
       },
       "paid_only": false
     },
