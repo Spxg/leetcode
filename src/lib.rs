@@ -266,6 +266,7 @@ pub mod problem_0398_random_pick_index;
 pub mod problem_0437_path_sum_iii;
 pub mod problem_0443_string_compression;
 pub mod problem_0451_sort_characters_by_frequency;
+pub mod problem_0455_assign_cookies;
 pub mod problem_0468_validate_ip_address;
 pub mod problem_2348_number_of_zero_filled_subarrays;
 
