@@ -265,6 +265,7 @@ pub mod problem_0394_decode_string;
 pub mod problem_0398_random_pick_index;
 pub mod problem_0413_arithmetic_slices;
 pub mod problem_0437_path_sum_iii;
+pub mod problem_0438_find_all_anagrams_in_a_string;
 pub mod problem_0443_string_compression;
 pub mod problem_0451_sort_characters_by_frequency;
 pub mod problem_0455_assign_cookies;
