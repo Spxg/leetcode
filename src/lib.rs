@@ -271,6 +271,7 @@ pub mod problem_0443_string_compression;
 pub mod problem_0451_sort_characters_by_frequency;
 pub mod problem_0455_assign_cookies;
 pub mod problem_0468_validate_ip_address;
+pub mod problem_0623_add_one_row_to_tree;
 pub mod problem_2348_number_of_zero_filled_subarrays;
 
 #[cfg(test)]
