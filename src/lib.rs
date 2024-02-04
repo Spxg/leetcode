@@ -256,6 +256,7 @@ pub mod problem_0217_contains_duplicate;
 pub mod problem_0219_contains_duplicate_ii;
 pub mod problem_0226_invert_binary_tree;
 pub mod problem_0228_summary_ranges;
+pub mod problem_0231_power_of_two;
 pub mod problem_0257_binary_tree_paths;
 pub mod problem_0274_h_index;
 pub mod problem_0275_h_index_ii;
