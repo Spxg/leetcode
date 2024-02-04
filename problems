@@ -24,6 +24,17 @@
     },
     {
       "stat": {
+        "question__title": "Type of Triangle II",
+        "question__title_slug": "type-of-triangle-ii",
+        "frontend_question_id": 3024
+      },
+      "difficulty": {
+        "level": 1
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
         "question__title": "Maximum Number of Intersections on the Chart",
         "question__title_slug": "maximum-number-of-intersections-on-the-chart",
         "frontend_question_id": 3009
@@ -38,6 +49,17 @@
         "question__title": "Number of Changing Keys",
         "question__title_slug": "number-of-changing-keys",
         "frontend_question_id": 3019
+      },
+      "difficulty": {
+        "level": 1
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Ant on the Boundary",
+        "question__title_slug": "ant-on-the-boundary",
+        "frontend_question_id": 3028
       },
       "difficulty": {
         "level": 1
@@ -90,6 +112,28 @@
     },
     {
       "stat": {
+        "question__title": "Minimum Time to Revert Word to Initial State I",
+        "question__title_slug": "minimum-time-to-revert-word-to-initial-state-i",
+        "frontend_question_id": 3029
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Minimum Time to Revert Word to Initial State II",
+        "question__title_slug": "minimum-time-to-revert-word-to-initial-state-ii",
+        "frontend_question_id": 3031
+      },
+      "difficulty": {
+        "level": 3
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
         "question__title": "Number of Self-Divisible Permutations",
         "question__title_slug": "number-of-self-divisible-permutations",
         "frontend_question_id": 2992
@@ -118,6 +162,28 @@
       },
       "difficulty": {
         "level": 2
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Find the Number of Ways to Place People I",
+        "question__title_slug": "find-the-number-of-ways-to-place-people-i",
+        "frontend_question_id": 3025
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Find the Number of Ways to Place People II",
+        "question__title_slug": "find-the-number-of-ways-to-place-people-ii",
+        "frontend_question_id": 3027
+      },
+      "difficulty": {
+        "level": 3
       },
       "paid_only": false
     },
@@ -153,6 +219,17 @@
         "level": 2
       },
       "paid_only": true
+    },
+    {
+      "stat": {
+        "question__title": "Find the Grid of Region Average",
+        "question__title_slug": "find-the-grid-of-region-average",
+        "frontend_question_id": 3030
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": false
     },
     {
       "stat": {
@@ -203,6 +280,17 @@
         "question__title": "Find Longest Special Substring That Occurs Thrice II",
         "question__title_slug": "find-longest-special-substring-that-occurs-thrice-ii",
         "frontend_question_id": 2982
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Maximum Good Subarray Sum",
+        "question__title_slug": "maximum-good-subarray-sum",
+        "frontend_question_id": 3026
       },
       "difficulty": {
         "level": 2
