@@ -263,6 +263,7 @@ pub mod problem_0275_h_index_ii;
 pub mod problem_0338_counting_bits;
 pub mod problem_0349_intersection_of_two_arrays;
 pub mod problem_0394_decode_string;
+pub mod problem_0397_integer_replacement;
 pub mod problem_0398_random_pick_index;
 pub mod problem_0413_arithmetic_slices;
 pub mod problem_0437_path_sum_iii;
