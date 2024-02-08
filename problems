@@ -2,6 +2,17 @@
   "stat_status_pairs": [
     {
       "stat": {
+        "question__title": "Count Numbers With Unique Digits II",
+        "question__title_slug": "count-numbers-with-unique-digits-ii",
+        "frontend_question_id": 3032
+      },
+      "difficulty": {
+        "level": 1
+      },
+      "paid_only": true
+    },
+    {
+      "stat": {
         "question__title": "Find Pattern in Infinite Stream I",
         "question__title_slug": "find-pattern-in-infinite-stream-i",
         "frontend_question_id": 3023
