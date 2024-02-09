@@ -1,7 +1,7 @@
 pub struct Solution;
 
 impl Solution {
-    pub fn next_permutation(nums: &mut Vec<i32>) {
+    pub fn next_permutation(nums: &mut [i32]) {
         for idx1 in (0..nums.len()).rev() {
             let slice = &mut nums[idx1..];
             for last in (0..slice.len()).rev() {

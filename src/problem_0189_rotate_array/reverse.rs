@@ -1,7 +1,7 @@
 pub struct Solution;
 
 impl Solution {
-    pub fn rotate(nums: &mut Vec<i32>, k: i32) {
+    pub fn rotate(nums: &mut [i32], k: i32) {
         let idx = k as usize % nums.len();
         if idx == 0 {
             return;
