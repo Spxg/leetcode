@@ -24,6 +24,17 @@
     },
     {
       "stat": {
+        "question__title": "Modify the Matrix",
+        "question__title_slug": "modify-the-matrix",
+        "frontend_question_id": 3033
+      },
+      "difficulty": {
+        "level": 1
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
         "question__title": "Maximum Number of Removal Queries That Can Be Processed I",
         "question__title_slug": "maximum-number-of-removal-queries-that-can-be-processed-i",
         "frontend_question_id": 3018
@@ -35,12 +46,23 @@
     },
     {
       "stat": {
-        "question__title": "Type of Triangle II",
-        "question__title_slug": "type-of-triangle-ii",
+        "question__title": "Type of Triangle",
+        "question__title_slug": "type-of-triangle",
         "frontend_question_id": 3024
       },
       "difficulty": {
         "level": 1
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Maximum Palindromes After Operations",
+        "question__title_slug": "maximum-palindromes-after-operations",
+        "frontend_question_id": 3035
+      },
+      "difficulty": {
+        "level": 2
       },
       "paid_only": false
     },
@@ -167,6 +189,17 @@
     },
     {
       "stat": {
+        "question__title": "Number of Subarrays That Match a Pattern II",
+        "question__title_slug": "number-of-subarrays-that-match-a-pattern-ii",
+        "frontend_question_id": 3036
+      },
+      "difficulty": {
+        "level": 3
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
         "question__title": "Alice and Bob Playing Flower Game",
         "question__title_slug": "alice-and-bob-playing-flower-game",
         "frontend_question_id": 3021
@@ -258,6 +291,17 @@
         "question__title": "Minimum Moves to Capture The Queen",
         "question__title_slug": "minimum-moves-to-capture-the-queen",
         "frontend_question_id": 3001
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Number of Subarrays That Match a Pattern I",
+        "question__title_slug": "number-of-subarrays-that-match-a-pattern-i",
+        "frontend_question_id": 3034
       },
       "difficulty": {
         "level": 2
