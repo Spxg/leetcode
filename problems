@@ -46,6 +46,17 @@
     },
     {
       "stat": {
+        "question__title": "Find the Length of the Longest Common Prefix",
+        "question__title_slug": "find-the-length-of-the-longest-common-prefix",
+        "frontend_question_id": 3043
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
         "question__title": "Maximum Number of Removal Queries That Can Be Processed I",
         "question__title_slug": "maximum-number-of-removal-queries-that-can-be-processed-i",
         "frontend_question_id": 3018
@@ -63,6 +74,28 @@
       },
       "difficulty": {
         "level": 1
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Maximum Number of Operations With the Same Score I",
+        "question__title_slug": "maximum-number-of-operations-with-the-same-score-i",
+        "frontend_question_id": 3038
+      },
+      "difficulty": {
+        "level": 1
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Maximum Number of Operations With the Same Score II",
+        "question__title_slug": "maximum-number-of-operations-with-the-same-score-ii",
+        "frontend_question_id": 3040
+      },
+      "difficulty": {
+        "level": 2
       },
       "paid_only": false
     },
@@ -87,6 +120,17 @@
         "level": 3
       },
       "paid_only": true
+    },
+    {
+      "stat": {
+        "question__title": "Most Frequent Prime",
+        "question__title_slug": "most-frequent-prime",
+        "frontend_question_id": 3044
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": false
     },
     {
       "stat": {
@@ -123,6 +167,39 @@
     },
     {
       "stat": {
+        "question__title": "Count Prefix and Suffix Pairs I",
+        "question__title_slug": "count-prefix-and-suffix-pairs-i",
+        "frontend_question_id": 3042
+      },
+      "difficulty": {
+        "level": 1
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Apply Operations to Make String Empty",
+        "question__title_slug": "apply-operations-to-make-string-empty",
+        "frontend_question_id": 3039
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Count Prefix and Suffix Pairs II",
+        "question__title_slug": "count-prefix-and-suffix-pairs-ii",
+        "frontend_question_id": 3045
+      },
+      "difficulty": {
+        "level": 3
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
         "question__title": "Maximum Subtree of the Same Color",
         "question__title_slug": "maximum-subtree-of-the-same-color",
         "frontend_question_id": 3004
@@ -151,6 +228,17 @@
       },
       "difficulty": {
         "level": 2
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Maximize Consecutive Elements in an Array After Modification",
+        "question__title_slug": "maximize-consecutive-elements-in-an-array-after-modification",
+        "frontend_question_id": 3041
+      },
+      "difficulty": {
+        "level": 3
       },
       "paid_only": false
     },
