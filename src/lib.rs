@@ -285,6 +285,7 @@ pub mod problem_0513_find_bottom_left_tree_value;
 pub mod problem_0515_find_largest_value_in_each_tree_row;
 pub mod problem_0540_single_element_in_a_sorted_array;
 pub mod problem_0623_add_one_row_to_tree;
+pub mod problem_0720_longest_word_in_dictionary;
 pub mod problem_0791_custom_sort_string;
 pub mod problem_0795_number_of_subarrays_with_bounded_maximum;
 pub mod problem_0844_backspace_string_compare;
