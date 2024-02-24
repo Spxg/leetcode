@@ -282,6 +282,7 @@ pub mod problem_0448_find_all_numbers_disappeared_in_an_array;
 pub mod problem_0451_sort_characters_by_frequency;
 pub mod problem_0455_assign_cookies;
 pub mod problem_0468_validate_ip_address;
+pub mod problem_0503_next_greater_element_ii;
 pub mod problem_0513_find_bottom_left_tree_value;
 pub mod problem_0515_find_largest_value_in_each_tree_row;
 pub mod problem_0540_single_element_in_a_sorted_array;
