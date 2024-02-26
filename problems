@@ -57,6 +57,28 @@
     },
     {
       "stat": {
+        "question__title": "Find the Largest Area of Square Inside Two Rectangles",
+        "question__title_slug": "find-the-largest-area-of-square-inside-two-rectangles",
+        "frontend_question_id": 3047
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Split the Array",
+        "question__title_slug": "split-the-array",
+        "frontend_question_id": 3046
+      },
+      "difficulty": {
+        "level": 1
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
         "question__title": "Maximum Number of Removal Queries That Can Be Processed I",
         "question__title_slug": "maximum-number-of-removal-queries-that-can-be-processed-i",
         "frontend_question_id": 3018
@@ -277,6 +299,17 @@
     },
     {
       "stat": {
+        "question__title": "Earliest Second to Mark Indices I",
+        "question__title_slug": "earliest-second-to-mark-indices-i",
+        "frontend_question_id": 3048
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
         "question__title": "Find if Array Can Be Sorted",
         "question__title_slug": "find-if-array-can-be-sorted",
         "frontend_question_id": 3011
@@ -291,6 +324,17 @@
         "question__title": "Number of Subarrays That Match a Pattern II",
         "question__title_slug": "number-of-subarrays-that-match-a-pattern-ii",
         "frontend_question_id": 3036
+      },
+      "difficulty": {
+        "level": 3
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Earliest Second to Mark Indices II",
+        "question__title_slug": "earliest-second-to-mark-indices-ii",
+        "frontend_question_id": 3049
       },
       "difficulty": {
         "level": 3
