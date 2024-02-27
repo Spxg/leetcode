@@ -269,6 +269,7 @@ pub mod problem_0349_intersection_of_two_arrays;
 pub mod problem_0386_lexicographical_numbers;
 pub mod problem_0387_first_unique_character_in_a_string;
 pub mod problem_0389_find_the_difference;
+pub mod problem_0392_is_subsequence;
 pub mod problem_0394_decode_string;
 pub mod problem_0397_integer_replacement;
 pub mod problem_0398_random_pick_index;
