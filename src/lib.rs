@@ -266,6 +266,7 @@ pub mod problem_0275_h_index_ii;
 pub mod problem_0290_word_pattern;
 pub mod problem_0338_counting_bits;
 pub mod problem_0349_intersection_of_two_arrays;
+pub mod problem_0367_valid_perfect_square;
 pub mod problem_0386_lexicographical_numbers;
 pub mod problem_0387_first_unique_character_in_a_string;
 pub mod problem_0389_find_the_difference;
