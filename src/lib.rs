@@ -278,6 +278,7 @@ pub mod problem_0404_sum_of_left_leaves;
 pub mod problem_0413_arithmetic_slices;
 pub mod problem_0415_add_strings;
 pub mod problem_0416_partition_equal_subset_sum;
+pub mod problem_0434_number_of_segments_in_a_string;
 pub mod problem_0437_path_sum_iii;
 pub mod problem_0438_find_all_anagrams_in_a_string;
 pub mod problem_0442_find_all_duplicates_in_an_array;
