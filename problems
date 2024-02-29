@@ -2,6 +2,39 @@
   "stat_status_pairs": [
     {
       "stat": {
+        "question__title": "Guess the Number Using Bitwise Questions I",
+        "question__title_slug": "guess-the-number-using-bitwise-questions-i",
+        "frontend_question_id": 3064
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": true
+    },
+    {
+      "stat": {
+        "question__title": "Winner of the Linked List Game",
+        "question__title_slug": "winner-of-the-linked-list-game",
+        "frontend_question_id": 3062
+      },
+      "difficulty": {
+        "level": 1
+      },
+      "paid_only": true
+    },
+    {
+      "stat": {
+        "question__title": "Linked List Frequency",
+        "question__title_slug": "linked-list-frequency",
+        "frontend_question_id": 3063
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": true
+    },
+    {
+      "stat": {
         "question__title": "Find Pattern in Infinite Stream II",
         "question__title_slug": "find-pattern-in-infinite-stream-ii",
         "frontend_question_id": 3037
