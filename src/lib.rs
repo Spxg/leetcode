@@ -264,6 +264,7 @@ pub mod problem_0268_missing_number;
 pub mod problem_0274_h_index;
 pub mod problem_0275_h_index_ii;
 pub mod problem_0290_word_pattern;
+pub mod problem_0316_remove_duplicate_letters;
 pub mod problem_0338_counting_bits;
 pub mod problem_0349_intersection_of_two_arrays;
 pub mod problem_0367_valid_perfect_square;
