@@ -294,6 +294,7 @@ pub mod problem_0515_find_largest_value_in_each_tree_row;
 pub mod problem_0530_minimum_absolute_difference_in_bst;
 pub mod problem_0540_single_element_in_a_sorted_array;
 pub mod problem_0551_student_attendance_record_i;
+pub mod problem_0557_reverse_words_in_a_string_iii;
 pub mod problem_0623_add_one_row_to_tree;
 pub mod problem_0653_two_sum_iv_input_is_a_bst;
 pub mod problem_0720_longest_word_in_dictionary;
