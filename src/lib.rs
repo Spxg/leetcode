@@ -293,6 +293,7 @@ pub mod problem_0513_find_bottom_left_tree_value;
 pub mod problem_0515_find_largest_value_in_each_tree_row;
 pub mod problem_0530_minimum_absolute_difference_in_bst;
 pub mod problem_0540_single_element_in_a_sorted_array;
+pub mod problem_0541_reverse_string_ii;
 pub mod problem_0551_student_attendance_record_i;
 pub mod problem_0557_reverse_words_in_a_string_iii;
 pub mod problem_0623_add_one_row_to_tree;
