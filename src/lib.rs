@@ -275,6 +275,7 @@ pub mod problem_0367_valid_perfect_square;
 pub mod problem_0386_lexicographical_numbers;
 pub mod problem_0387_first_unique_character_in_a_string;
 pub mod problem_0389_find_the_difference;
+pub mod problem_0390_elimination_game;
 pub mod problem_0392_is_subsequence;
 pub mod problem_0394_decode_string;
 pub mod problem_0397_integer_replacement;
