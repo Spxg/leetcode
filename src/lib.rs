@@ -308,6 +308,7 @@ pub mod problem_0567_permutation_in_string;
 pub mod problem_0623_add_one_row_to_tree;
 pub mod problem_0653_two_sum_iv_input_is_a_bst;
 pub mod problem_0665_non_decreasing_array;
+pub mod problem_0674_longest_continuous_increasing_subsequence;
 pub mod problem_0720_longest_word_in_dictionary;
 pub mod problem_0791_custom_sort_string;
 pub mod problem_0795_number_of_subarrays_with_bounded_maximum;
