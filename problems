@@ -2,6 +2,28 @@
   "stat_status_pairs": [
     {
       "stat": {
+        "question__title": "Match Alphanumerical Pattern in Matrix I",
+        "question__title_slug": "match-alphanumerical-pattern-in-matrix-i",
+        "frontend_question_id": 3078
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": true
+    },
+    {
+      "stat": {
+        "question__title": "Maximum Increasing Triplet Value",
+        "question__title_slug": "maximum-increasing-triplet-value",
+        "frontend_question_id": 3073
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": true
+    },
+    {
+      "stat": {
         "question__title": "Guess the Number Using Bitwise Questions I",
         "question__title_slug": "guess-the-number-using-bitwise-questions-i",
         "frontend_question_id": 3064
@@ -24,14 +46,69 @@
     },
     {
       "stat": {
+        "question__title": "Find the Sum of Encrypted Integers",
+        "question__title_slug": "find-the-sum-of-encrypted-integers",
+        "frontend_question_id": 3079
+      },
+      "difficulty": {
+        "level": 1
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Minimum Deletions to Make String K-Special",
+        "question__title_slug": "minimum-deletions-to-make-string-k-special",
+        "frontend_question_id": 3085
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
         "question__title": "Linked List Frequency",
         "question__title_slug": "linked-list-frequency",
         "frontend_question_id": 3063
       },
       "difficulty": {
-        "level": 2
+        "level": 1
       },
       "paid_only": true
+    },
+    {
+      "stat": {
+        "question__title": "Shortest Uncommon Substring in an Array",
+        "question__title_slug": "shortest-uncommon-substring-in-an-array",
+        "frontend_question_id": 3076
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Replace Question Marks in String to Minimize Its Value",
+        "question__title_slug": "replace-question-marks-in-string-to-minimize-its-value",
+        "frontend_question_id": 3081
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Existence of a Substring in a String and Its Reverse",
+        "question__title_slug": "existence-of-a-substring-in-a-string-and-its-reverse",
+        "frontend_question_id": 3083
+      },
+      "difficulty": {
+        "level": 1
+      },
+      "paid_only": false
     },
     {
       "stat": {
@@ -43,6 +120,17 @@
         "level": 3
       },
       "paid_only": true
+    },
+    {
+      "stat": {
+        "question__title": "Maximize Happiness of Selected Children",
+        "question__title_slug": "maximize-happiness-of-selected-children",
+        "frontend_question_id": 3075
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": false
     },
     {
       "stat": {
@@ -63,6 +151,17 @@
       },
       "difficulty": {
         "level": 1
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Find the Sum of the Power of All Subsequences",
+        "question__title_slug": "find-the-sum-of-the-power-of-all-subsequences",
+        "frontend_question_id": 3082
+      },
+      "difficulty": {
+        "level": 3
       },
       "paid_only": false
     },
@@ -90,12 +189,34 @@
     },
     {
       "stat": {
+        "question__title": "Count Substrings Starting and Ending with Given Character",
+        "question__title_slug": "count-substrings-starting-and-ending-with-given-character",
+        "frontend_question_id": 3084
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
         "question__title": "Minimum Operations to Write the Letter Y on a Grid",
         "question__title_slug": "minimum-operations-to-write-the-letter-y-on-a-grid",
         "frontend_question_id": 3071
       },
       "difficulty": {
         "level": 2
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Apple Redistribution into Boxes",
+        "question__title_slug": "apple-redistribution-into-boxes",
+        "frontend_question_id": 3074
+      },
+      "difficulty": {
+        "level": 1
       },
       "paid_only": false
     },
@@ -151,6 +272,17 @@
       },
       "difficulty": {
         "level": 2
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Minimum Moves to Pick K Ones",
+        "question__title_slug": "minimum-moves-to-pick-k-ones",
+        "frontend_question_id": 3086
+      },
+      "difficulty": {
+        "level": 3
       },
       "paid_only": false
     },
@@ -266,6 +398,17 @@
     },
     {
       "stat": {
+        "question__title": "Maximum Strength of K Disjoint Subarrays",
+        "question__title_slug": "maximum-strength-of-k-disjoint-subarrays",
+        "frontend_question_id": 3077
+      },
+      "difficulty": {
+        "level": 3
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
         "question__title": "Number of Changing Keys",
         "question__title_slug": "number-of-changing-keys",
         "frontend_question_id": 3019
@@ -327,6 +470,17 @@
       },
       "difficulty": {
         "level": 3
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Mark Elements on Array by Performing Queries",
+        "question__title_slug": "mark-elements-on-array-by-performing-queries",
+        "frontend_question_id": 3080
+      },
+      "difficulty": {
+        "level": 2
       },
       "paid_only": false
     },
