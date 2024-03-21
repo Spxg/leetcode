@@ -2,6 +2,17 @@
   "stat_status_pairs": [
     {
       "stat": {
+        "question__title": "Make String Anti-palindrome",
+        "question__title_slug": "make-string-anti-palindrome",
+        "frontend_question_id": 3088
+      },
+      "difficulty": {
+        "level": 3
+      },
+      "paid_only": true
+    },
+    {
+      "stat": {
         "question__title": "Match Alphanumerical Pattern in Matrix I",
         "question__title_slug": "match-alphanumerical-pattern-in-matrix-i",
         "frontend_question_id": 3078
