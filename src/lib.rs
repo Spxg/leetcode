@@ -19,7 +19,7 @@
     unused_lifetimes,
     unused_macro_rules,
     unused_qualifications,
-    unused_tuple_struct_fields,
+    dead_code,
     variant_size_differences,
     clippy::alloc_instead_of_core,
     clippy::allow_attributes_without_reason,

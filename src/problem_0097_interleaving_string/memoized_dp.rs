@@ -17,13 +17,11 @@ impl Solution {
             let result = if let Some((first, rest)) = s3.split_first() {
                 s1.split_first()
                     .filter(|x| x.0 == first)
-                    .map(|x| helper(x.1, s2, rest, map))
-                    .unwrap_or_default()
+                    .is_some_and(|x| helper(x.1, s2, rest, map))
                     || s2
                         .split_first()
                         .filter(|x| x.0 == first)
-                        .map(|x| helper(s1, x.1, rest, map))
-                        .unwrap_or_default()
+                        .is_some_and(|x| helper(s1, x.1, rest, map))
             } else {
                 true
             };
