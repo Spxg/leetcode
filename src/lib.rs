@@ -309,6 +309,7 @@ pub mod problem_0560_subarray_sum_equals_k;
 pub mod problem_0567_permutation_in_string;
 pub mod problem_0623_add_one_row_to_tree;
 pub mod problem_0643_maximum_average_subarray_i;
+pub mod problem_0648_replace_words;
 pub mod problem_0653_two_sum_iv_input_is_a_bst;
 pub mod problem_0665_non_decreasing_array;
 pub mod problem_0674_longest_continuous_increasing_subsequence;
