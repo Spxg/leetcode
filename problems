@@ -35,6 +35,17 @@
     },
     {
       "stat": {
+        "question__title": "Longest Common Suffix Queries",
+        "question__title_slug": "longest-common-suffix-queries",
+        "frontend_question_id": 3093
+      },
+      "difficulty": {
+        "level": 3
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
         "question__title": "Guess the Number Using Bitwise Questions I",
         "question__title_slug": "guess-the-number-using-bitwise-questions-i",
         "frontend_question_id": 3064
@@ -63,6 +74,17 @@
       },
       "difficulty": {
         "level": 1
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Most Frequent IDs",
+        "question__title_slug": "most-frequent-ids",
+        "frontend_question_id": 3092
+      },
+      "difficulty": {
+        "level": 2
       },
       "paid_only": false
     },
@@ -151,6 +173,17 @@
       },
       "difficulty": {
         "level": 3
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Maximum Length Substring With Two Occurrences",
+        "question__title_slug": "maximum-length-substring-with-two-occurrences",
+        "frontend_question_id": 3090
+      },
+      "difficulty": {
+        "level": 1
       },
       "paid_only": false
     },
@@ -280,6 +313,17 @@
         "question__title": "Find the Length of the Longest Common Prefix",
         "question__title_slug": "find-the-length-of-the-longest-common-prefix",
         "frontend_question_id": 3043
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Apply Operations to Make Sum of Array Greater Than or Equal to k",
+        "question__title_slug": "apply-operations-to-make-sum-of-array-greater-than-or-equal-to-k",
+        "frontend_question_id": 3091
       },
       "difficulty": {
         "level": 2
