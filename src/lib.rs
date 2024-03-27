@@ -318,6 +318,7 @@ pub mod problem_0674_longest_continuous_increasing_subsequence;
 pub mod problem_0677_map_sum_pairs;
 pub mod problem_0717_1_bit_and_2_bit_characters;
 pub mod problem_0720_longest_word_in_dictionary;
+pub mod problem_0738_monotone_increasing_digits;
 pub mod problem_0791_custom_sort_string;
 pub mod problem_0795_number_of_subarrays_with_bounded_maximum;
 pub mod problem_0814_binary_tree_pruning;
