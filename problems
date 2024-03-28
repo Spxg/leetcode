@@ -2,6 +2,17 @@
   "stat_status_pairs": [
     {
       "stat": {
+        "question__title": "Guess the Number Using Bitwise Questions II",
+        "question__title_slug": "guess-the-number-using-bitwise-questions-ii",
+        "frontend_question_id": 3094
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": true
+    },
+    {
+      "stat": {
         "question__title": "Make String Anti-palindrome",
         "question__title_slug": "make-string-anti-palindrome",
         "frontend_question_id": 3088
