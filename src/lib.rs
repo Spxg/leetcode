@@ -259,6 +259,7 @@ pub mod problem_0226_invert_binary_tree;
 pub mod problem_0228_summary_ranges;
 pub mod problem_0230_kth_smallest_element_in_a_bst;
 pub mod problem_0231_power_of_two;
+pub mod problem_0232_implement_queue_using_stacks;
 pub mod problem_0257_binary_tree_paths;
 pub mod problem_0258_add_digits;
 pub mod problem_0260_single_number_iii;
