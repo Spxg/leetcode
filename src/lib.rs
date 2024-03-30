@@ -324,6 +324,7 @@ pub mod problem_0791_custom_sort_string;
 pub mod problem_0795_number_of_subarrays_with_bounded_maximum;
 pub mod problem_0814_binary_tree_pruning;
 pub mod problem_0821_shortest_distance_to_a_character;
+pub mod problem_0831_masking_personal_information;
 pub mod problem_0844_backspace_string_compare;
 pub mod problem_0845_longest_mountain_in_array;
 pub mod problem_0859_buddy_strings;
