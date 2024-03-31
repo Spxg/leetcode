@@ -35,6 +35,28 @@
     },
     {
       "stat": {
+        "question__title": "Shortest Subarray With OR at Least K I",
+        "question__title_slug": "shortest-subarray-with-or-at-least-k-i",
+        "frontend_question_id": 3095
+      },
+      "difficulty": {
+        "level": 1
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Shortest Subarray With OR at Least K II",
+        "question__title_slug": "shortest-subarray-with-or-at-least-k-ii",
+        "frontend_question_id": 3097
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
         "question__title": "Maximum Increasing Triplet Value",
         "question__title_slug": "maximum-increasing-triplet-value",
         "frontend_question_id": 3073
@@ -52,6 +74,28 @@
       },
       "difficulty": {
         "level": 3
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Count Alternating Subarrays",
+        "question__title_slug": "count-alternating-subarrays",
+        "frontend_question_id": 3101
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Harshad Number",
+        "question__title_slug": "harshad-number",
+        "frontend_question_id": 3099
+      },
+      "difficulty": {
+        "level": 1
       },
       "paid_only": false
     },
@@ -126,6 +170,17 @@
         "question__title": "Shortest Uncommon Substring in an Array",
         "question__title_slug": "shortest-uncommon-substring-in-an-array",
         "frontend_question_id": 3076
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Minimum Levels to Gain More Points",
+        "question__title_slug": "minimum-levels-to-gain-more-points",
+        "frontend_question_id": 3096
       },
       "difficulty": {
         "level": 2
@@ -222,6 +277,17 @@
     },
     {
       "stat": {
+        "question__title": "Minimize Manhattan Distances",
+        "question__title_slug": "minimize-manhattan-distances",
+        "frontend_question_id": 3102
+      },
+      "difficulty": {
+        "level": 3
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
         "question__title": "Count Numbers With Unique Digits II",
         "question__title_slug": "count-numbers-with-unique-digits-ii",
         "frontend_question_id": 3032
@@ -247,6 +313,17 @@
         "question__title": "Count Substrings Starting and Ending with Given Character",
         "question__title_slug": "count-substrings-starting-and-ending-with-given-character",
         "frontend_question_id": 3084
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Water Bottles II",
+        "question__title_slug": "water-bottles-ii",
+        "frontend_question_id": 3100
       },
       "difficulty": {
         "level": 2
@@ -437,6 +514,17 @@
       },
       "difficulty": {
         "level": 2
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Find the Sum of Subsequence Powers",
+        "question__title_slug": "find-the-sum-of-subsequence-powers",
+        "frontend_question_id": 3098
+      },
+      "difficulty": {
+        "level": 3
       },
       "paid_only": false
     },
