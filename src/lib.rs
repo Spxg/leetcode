@@ -323,6 +323,7 @@ pub mod problem_0738_monotone_increasing_digits;
 pub mod problem_0784_letter_case_permutation;
 pub mod problem_0791_custom_sort_string;
 pub mod problem_0795_number_of_subarrays_with_bounded_maximum;
+pub mod problem_0811_subdomain_visit_count;
 pub mod problem_0814_binary_tree_pruning;
 pub mod problem_0821_shortest_distance_to_a_character;
 pub mod problem_0831_masking_personal_information;
