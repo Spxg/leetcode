@@ -2,6 +2,17 @@
   "stat_status_pairs": [
     {
       "stat": {
+        "question__title": "Find Longest Self-Contained Substring",
+        "question__title_slug": "find-longest-self-contained-substring",
+        "frontend_question_id": 3104
+      },
+      "difficulty": {
+        "level": 3
+      },
+      "paid_only": true
+    },
+    {
+      "stat": {
         "question__title": "Guess the Number Using Bitwise Questions II",
         "question__title_slug": "guess-the-number-using-bitwise-questions-ii",
         "frontend_question_id": 3094
