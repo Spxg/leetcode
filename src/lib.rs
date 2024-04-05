@@ -272,6 +272,7 @@ pub mod problem_0316_remove_duplicate_letters;
 pub mod problem_0322_coin_change;
 pub mod problem_0338_counting_bits;
 pub mod problem_0341_flatten_nested_list_iterator;
+pub mod problem_0344_reverse_string;
 pub mod problem_0349_intersection_of_two_arrays;
 pub mod problem_0367_valid_perfect_square;
 pub mod problem_0386_lexicographical_numbers;
