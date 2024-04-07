@@ -35,6 +35,17 @@
     },
     {
       "stat": {
+        "question__title": "Minimum Operations to Make Median of Array Equal to K",
+        "question__title_slug": "minimum-operations-to-make-median-of-array-equal-to-k",
+        "frontend_question_id": 3107
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
         "question__title": "Match Alphanumerical Pattern in Matrix I",
         "question__title_slug": "match-alphanumerical-pattern-in-matrix-i",
         "frontend_question_id": 3078
@@ -96,6 +107,17 @@
       },
       "difficulty": {
         "level": 2
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Longest Strictly Increasing or Strictly Decreasing Subarray",
+        "question__title_slug": "longest-strictly-increasing-or-strictly-decreasing-subarray",
+        "frontend_question_id": 3105
+      },
+      "difficulty": {
+        "level": 1
       },
       "paid_only": false
     },
@@ -266,12 +288,34 @@
     },
     {
       "stat": {
+        "question__title": "Minimum Cost Walk in Weighted Graph",
+        "question__title_slug": "minimum-cost-walk-in-weighted-graph",
+        "frontend_question_id": 3108
+      },
+      "difficulty": {
+        "level": 3
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
         "question__title": "Distribute Elements Into Two Arrays I",
         "question__title_slug": "distribute-elements-into-two-arrays-i",
         "frontend_question_id": 3069
       },
       "difficulty": {
         "level": 1
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Lexicographically Smallest String After Operations With Constraint",
+        "question__title_slug": "lexicographically-smallest-string-after-operations-with-constraint",
+        "frontend_question_id": 3106
+      },
+      "difficulty": {
+        "level": 2
       },
       "paid_only": false
     },
