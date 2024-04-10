@@ -286,6 +286,7 @@ pub mod problem_0392_is_subsequence;
 pub mod problem_0394_decode_string;
 pub mod problem_0397_integer_replacement;
 pub mod problem_0398_random_pick_index;
+pub mod problem_0400_nth_digit;
 pub mod problem_0404_sum_of_left_leaves;
 pub mod problem_0413_arithmetic_slices;
 pub mod problem_0415_add_strings;
