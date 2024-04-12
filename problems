@@ -2,6 +2,17 @@
   "stat_status_pairs": [
     {
       "stat": {
+        "question__title": "Find the Index of Permutation",
+        "question__title_slug": "find-the-index-of-permutation",
+        "frontend_question_id": 3109
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": true
+    },
+    {
+      "stat": {
         "question__title": "Find Longest Self-Contained Substring",
         "question__title_slug": "find-longest-self-contained-substring",
         "frontend_question_id": 3104
