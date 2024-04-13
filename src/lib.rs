@@ -276,6 +276,7 @@ pub mod problem_0322_coin_change;
 pub mod problem_0331_verify_preorder_serialization_of_a_binary_tree;
 pub mod problem_0338_counting_bits;
 pub mod problem_0341_flatten_nested_list_iterator;
+pub mod problem_0343_integer_break;
 pub mod problem_0344_reverse_string;
 pub mod problem_0345_reverse_vowels_of_a_string;
 pub mod problem_0349_intersection_of_two_arrays;
