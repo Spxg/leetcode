@@ -251,6 +251,7 @@ pub mod problem_0191_number_of_1_bits;
 pub mod problem_0199_binary_tree_right_side_view;
 pub mod problem_0205_isomorphic_strings;
 pub mod problem_0206_reverse_linked_list;
+pub mod problem_0207_course_schedule;
 pub mod problem_0208_implement_trie_prefix_tree;
 pub mod problem_0209_minimum_size_subarray_sum;
 pub mod problem_0210_course_schedule_ii;
