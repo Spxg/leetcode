@@ -273,6 +273,7 @@ pub mod problem_0268_missing_number;
 pub mod problem_0274_h_index;
 pub mod problem_0275_h_index_ii;
 pub mod problem_0290_word_pattern;
+pub mod problem_0299_bulls_and_cows;
 pub mod problem_0316_remove_duplicate_letters;
 pub mod problem_0322_coin_change;
 pub mod problem_0331_verify_preorder_serialization_of_a_binary_tree;
