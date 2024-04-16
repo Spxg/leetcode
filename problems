@@ -46,6 +46,28 @@
     },
     {
       "stat": {
+        "question__title": "Minimum Rectangles to Cover Points",
+        "question__title_slug": "minimum-rectangles-to-cover-points",
+        "frontend_question_id": 3111
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Minimum Time to Visit Disappearing Nodes",
+        "question__title_slug": "minimum-time-to-visit-disappearing-nodes",
+        "frontend_question_id": 3112
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
         "question__title": "Minimum Operations to Make Median of Array Equal to K",
         "question__title_slug": "minimum-operations-to-make-median-of-array-equal-to-k",
         "frontend_question_id": 3107
@@ -68,6 +90,17 @@
     },
     {
       "stat": {
+        "question__title": "Find the Number of Subarrays Where Boundary Elements Are Maximum",
+        "question__title_slug": "find-the-number-of-subarrays-where-boundary-elements-are-maximum",
+        "frontend_question_id": 3113
+      },
+      "difficulty": {
+        "level": 3
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
         "question__title": "Shortest Subarray With OR at Least K I",
         "question__title_slug": "shortest-subarray-with-or-at-least-k-i",
         "frontend_question_id": 3095
@@ -85,6 +118,17 @@
       },
       "difficulty": {
         "level": 2
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Score of a String",
+        "question__title_slug": "score-of-a-string",
+        "frontend_question_id": 3110
+      },
+      "difficulty": {
+        "level": 1
       },
       "paid_only": false
     },
@@ -112,9 +156,31 @@
     },
     {
       "stat": {
+        "question__title": "Kth Smallest Amount With Single Denomination Combination",
+        "question__title_slug": "kth-smallest-amount-with-single-denomination-combination",
+        "frontend_question_id": 3116
+      },
+      "difficulty": {
+        "level": 3
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
         "question__title": "Count Alternating Subarrays",
         "question__title_slug": "count-alternating-subarrays",
         "frontend_question_id": 3101
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Maximum Prime Difference",
+        "question__title_slug": "maximum-prime-difference",
+        "frontend_question_id": 3115
       },
       "difficulty": {
         "level": 2
@@ -178,12 +244,34 @@
     },
     {
       "stat": {
+        "question__title": "Minimum Sum of Values by Dividing Array",
+        "question__title_slug": "minimum-sum-of-values-by-dividing-array",
+        "frontend_question_id": 3117
+      },
+      "difficulty": {
+        "level": 3
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
         "question__title": "Most Frequent IDs",
         "question__title_slug": "most-frequent-ids",
         "frontend_question_id": 3092
       },
       "difficulty": {
         "level": 2
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Latest Time You Can Obtain After Replacing Characters",
+        "question__title_slug": "latest-time-you-can-obtain-after-replacing-characters",
+        "frontend_question_id": 3114
+      },
+      "difficulty": {
+        "level": 1
       },
       "paid_only": false
     },
