@@ -284,6 +284,7 @@ pub mod problem_0343_integer_break;
 pub mod problem_0344_reverse_string;
 pub mod problem_0345_reverse_vowels_of_a_string;
 pub mod problem_0349_intersection_of_two_arrays;
+pub mod problem_0355_design_twitter;
 pub mod problem_0367_valid_perfect_square;
 pub mod problem_0386_lexicographical_numbers;
 pub mod problem_0387_first_unique_character_in_a_string;
