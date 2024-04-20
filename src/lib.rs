@@ -274,6 +274,7 @@ pub mod problem_0274_h_index;
 pub mod problem_0275_h_index_ii;
 pub mod problem_0290_word_pattern;
 pub mod problem_0299_bulls_and_cows;
+pub mod problem_0303_range_sum_query_immutable;
 pub mod problem_0304_range_sum_query_2d_immutable;
 pub mod problem_0316_remove_duplicate_letters;
 pub mod problem_0322_coin_change;
