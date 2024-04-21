@@ -35,6 +35,39 @@
     },
     {
       "stat": {
+        "question__title": "Count the Number of Special Characters I",
+        "question__title_slug": "count-the-number-of-special-characters-i",
+        "frontend_question_id": 3120
+      },
+      "difficulty": {
+        "level": 1
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Count the Number of Special Characters II",
+        "question__title_slug": "count-the-number-of-special-characters-ii",
+        "frontend_question_id": 3121
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Minimum Number of Operations to Satisfy Conditions",
+        "question__title_slug": "minimum-number-of-operations-to-satisfy-conditions",
+        "frontend_question_id": 3122
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
         "question__title": "Guess the Number Using Bitwise Questions II",
         "question__title_slug": "guess-the-number-using-bitwise-questions-ii",
         "frontend_question_id": 3094
@@ -85,6 +118,17 @@
       },
       "difficulty": {
         "level": 2
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Find Edges in Shortest Paths",
+        "question__title_slug": "find-edges-in-shortest-paths",
+        "frontend_question_id": 3123
+      },
+      "difficulty": {
+        "level": 3
       },
       "paid_only": false
     },
