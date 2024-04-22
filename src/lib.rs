@@ -277,6 +277,7 @@ pub mod problem_0290_word_pattern;
 pub mod problem_0299_bulls_and_cows;
 pub mod problem_0303_range_sum_query_immutable;
 pub mod problem_0304_range_sum_query_2d_immutable;
+pub mod problem_0307_range_sum_query_mutable;
 pub mod problem_0316_remove_duplicate_letters;
 pub mod problem_0322_coin_change;
 pub mod problem_0331_verify_preorder_serialization_of_a_binary_tree;
