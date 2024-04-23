@@ -1,5 +1,5 @@
 #[derive(Default)]
-pub struct Trie {
+struct Trie {
     trie: [Option<Box<Trie>>; 26],
     end: bool,
 }

@@ -1,7 +1,7 @@
 use std::collections::HashMap;
 
 #[derive(Default)]
-pub struct MapSum {
+struct MapSum {
     map: HashMap<String, i32>,
     dict: Dict,
 }

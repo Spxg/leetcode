@@ -1,6 +1,6 @@
 use std::collections::HashSet;
 
-pub struct WordDictionary {
+struct WordDictionary {
     words: HashSet<String>,
 }
 

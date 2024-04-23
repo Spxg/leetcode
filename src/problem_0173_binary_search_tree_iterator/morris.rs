@@ -2,7 +2,7 @@ use crate::data_structures::TreeNode;
 
 use std::{cell::RefCell, rc::Rc};
 
-pub struct BSTIterator {
+struct BSTIterator {
     node: Option<Rc<RefCell<TreeNode>>>,
 }
 

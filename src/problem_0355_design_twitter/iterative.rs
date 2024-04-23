@@ -1,8 +1,6 @@
 use std::collections::{HashMap, HashSet};
 
-pub struct Solution;
-
-pub struct Twitter {
+struct Twitter {
     priority: i32,
     users: HashMap<i32, HashSet<i32>>,
     tweets: HashMap<i32, Vec<i32>>,

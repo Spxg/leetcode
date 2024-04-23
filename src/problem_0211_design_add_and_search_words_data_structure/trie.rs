@@ -1,5 +1,5 @@
 #[derive(Default)]
-pub struct WordDictionary {
+struct WordDictionary {
     child: [Option<Box<WordDictionary>>; 26],
     end: bool,
 }

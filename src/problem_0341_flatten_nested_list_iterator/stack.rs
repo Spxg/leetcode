@@ -1,6 +1,6 @@
 use crate::data_structures::NestedInteger;
 
-pub struct NestedIterator {
+struct NestedIterator {
     it: std::iter::Peekable<StackedIterator>,
 }
 

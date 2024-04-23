@@ -1,4 +1,4 @@
-pub struct NumMatrix {
+struct NumMatrix {
     inner: Vec<Vec<i32>>,
 }
 

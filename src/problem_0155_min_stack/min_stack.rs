@@ -1,4 +1,4 @@
-pub struct MinStack {
+struct MinStack {
     inner: Vec<(i32, i32)>,
 }
 
