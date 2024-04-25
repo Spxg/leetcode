@@ -2,6 +2,17 @@
   "stat_status_pairs": [
     {
       "stat": {
+        "question__title": "Maximum Number That Makes Result of Bitwise AND Zero",
+        "question__title_slug": "maximum-number-that-makes-result-of-bitwise-and-zero",
+        "frontend_question_id": 3125
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": true
+    },
+    {
+      "stat": {
         "question__title": "Maximum Number of Potholes That Can Be Fixed",
         "question__title_slug": "maximum-number-of-potholes-that-can-be-fixed",
         "frontend_question_id": 3119
