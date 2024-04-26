@@ -1,0 +1,39 @@
+name: Rust
+on: push
+jobs:
+    rustfmt:
+        runs-on: ${{ matrix.os }}
+        steps:
+          - uses: actions/checkout@v4
+          - run: rustup update
+          - run: cargo fmt --all -- --check
+        strategy:
+            matrix:
+                os:
+                  - macOS-latest
+                  - ubuntu-latest
+                  - windows-latest
+    clippy:
+        runs-on: ${{ matrix.os }}
+        steps:
+          - uses: actions/checkout@v4
+          - run: rustup update
+          - run: cargo clippy --workspace --all-targets --all-features -- -D warnings
+        strategy:
+            matrix:
+                os:
+                  - macOS-latest
+                  - ubuntu-latest
+                  - windows-latest
+    tests:
+        runs-on: ${{ matrix.os }}
+        steps:
+          - uses: actions/checkout@v4
+          - run: rustup update
+          - run: cargo test --workspace
+        strategy:
+            matrix:
+                os:
+                  - macOS-latest
+                  - ubuntu-latest
+                  - windows-latest
