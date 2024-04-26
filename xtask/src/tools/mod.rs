@@ -3,9 +3,6 @@ use std::io::{BufRead, BufReader};
 use std::path::PathBuf;
 use std::process::Command;
 
-#[cfg(target_os = "windows")]
-mod windows;
-
 pub struct RustVersionMeta {
     pub host: String,
     pub commit_hash: String,
