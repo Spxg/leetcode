@@ -10,7 +10,3 @@ regex-syntax = "*"
 serde_json = "*"
 shell-escape = "*"
 tempfile = "*"
-
-[target.'cfg(target_os="windows")'.dependencies]
-cc = "*"
-lazy_static = "*"
