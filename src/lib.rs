@@ -338,6 +338,7 @@ pub mod problem_0648_replace_words;
 pub mod problem_0650_2_keys_keyboard;
 pub mod problem_0653_two_sum_iv_input_is_a_bst;
 pub mod problem_0665_non_decreasing_array;
+pub mod problem_0673_number_of_longest_increasing_subsequence;
 pub mod problem_0674_longest_continuous_increasing_subsequence;
 pub mod problem_0677_map_sum_pairs;
 pub mod problem_0717_1_bit_and_2_bit_characters;
