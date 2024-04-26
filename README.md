@@ -4,6 +4,6 @@ Solutions to [LeetCode algorithm problems](https://leetcode.com/problemset/algor
 
 ## Progress
 
-[![Progress Chart](https://spxg.hdr.ink/leetcode/progress.svg)](https://spxg.hdr.ink/leetcode/)
+[![Progress Chart](https://leetcode.hdr.ink/progress.svg)](https://leetcode.hdr.ink/)
 
-See [here](https://spxg.hdr.ink/leetcode/) for detailed report.
+See [here](https://leetcode.hdr.ink/) for detailed report.

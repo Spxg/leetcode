@@ -41,7 +41,7 @@ fn write_solution_link<W: Write>(writer: &mut ElementWriter<W>, solution: &Solut
     write_hyper_link(
         writer,
         &format!(
-            "https://srv.hdr.ink/gitlab/Spxg/leetcode/blob/master/{}{}",
+            "https://github.com/Spxg/leetcode/blob/master/{}{}",
             solution.root, solution.file
         ),
         &solution.id,
@@ -97,7 +97,7 @@ figure { display: flex; justify-content: center; }
 
     write_hyper_link(
         &mut body.add_element_with_attributes("div", [("style", "text-align: center;")]),
-        "https://srv.hdr.ink/gitlab/Spxg/leetcode",
+        "https://github.com/Spxg/leetcode",
         "Source code",
     );
 
