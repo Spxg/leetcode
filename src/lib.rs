@@ -294,6 +294,7 @@ pub mod problem_0387_first_unique_character_in_a_string;
 pub mod problem_0389_find_the_difference;
 pub mod problem_0390_elimination_game;
 pub mod problem_0392_is_subsequence;
+pub mod problem_0393_utf_8_validation;
 pub mod problem_0394_decode_string;
 pub mod problem_0396_rotate_function;
 pub mod problem_0397_integer_replacement;
