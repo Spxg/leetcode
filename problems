@@ -57,6 +57,28 @@
     },
     {
       "stat": {
+        "question__title": "Find All Possible Stable Binary Arrays II",
+        "question__title_slug": "find-all-possible-stable-binary-arrays-ii",
+        "frontend_question_id": 3130
+      },
+      "difficulty": {
+        "level": 3
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Find All Possible Stable Binary Arrays I",
+        "question__title_slug": "find-all-possible-stable-binary-arrays-i",
+        "frontend_question_id": 3129
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
         "question__title": "Count the Number of Special Characters II",
         "question__title_slug": "count-the-number-of-special-characters-ii",
         "frontend_question_id": 3121
@@ -90,6 +112,50 @@
     },
     {
       "stat": {
+        "question__title": "Find the Integer Added to Array II",
+        "question__title_slug": "find-the-integer-added-to-array-ii",
+        "frontend_question_id": 3132
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Make a Square with the Same Color",
+        "question__title_slug": "make-a-square-with-the-same-color",
+        "frontend_question_id": 3127
+      },
+      "difficulty": {
+        "level": 1
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Find the Integer Added to Array I",
+        "question__title_slug": "find-the-integer-added-to-array-i",
+        "frontend_question_id": 3131
+      },
+      "difficulty": {
+        "level": 1
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Minimum Array End",
+        "question__title_slug": "minimum-array-end",
+        "frontend_question_id": 3133
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
         "question__title": "Make String Anti-palindrome",
         "question__title_slug": "make-string-anti-palindrome",
         "frontend_question_id": 3088
@@ -115,6 +181,17 @@
         "question__title": "Minimum Time to Visit Disappearing Nodes",
         "question__title_slug": "minimum-time-to-visit-disappearing-nodes",
         "frontend_question_id": 3112
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Right Triangles",
+        "question__title_slug": "right-triangles",
+        "frontend_question_id": 3128
       },
       "difficulty": {
         "level": 2
@@ -327,6 +404,17 @@
       },
       "difficulty": {
         "level": 2
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Find the Median of the Uniqueness Array",
+        "question__title_slug": "find-the-median-of-the-uniqueness-array",
+        "frontend_question_id": 3134
+      },
+      "difficulty": {
+        "level": 3
       },
       "paid_only": false
     },
