@@ -317,6 +317,7 @@ pub mod problem_0462_minimum_moves_to_equal_array_elements_ii;
 pub mod problem_0468_validate_ip_address;
 pub mod problem_0485_max_consecutive_ones;
 pub mod problem_0503_next_greater_element_ii;
+pub mod problem_0507_perfect_number;
 pub mod problem_0513_find_bottom_left_tree_value;
 pub mod problem_0515_find_largest_value_in_each_tree_row;
 pub mod problem_0523_continuous_subarray_sum;
