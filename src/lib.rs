@@ -273,6 +273,7 @@ pub mod problem_0260_single_number_iii;
 pub mod problem_0268_missing_number;
 pub mod problem_0274_h_index;
 pub mod problem_0275_h_index_ii;
+pub mod problem_0283_move_zeroes;
 pub mod problem_0290_word_pattern;
 pub mod problem_0299_bulls_and_cows;
 pub mod problem_0303_range_sum_query_immutable;
