@@ -2,6 +2,17 @@
   "stat_status_pairs": [
     {
       "stat": {
+        "question__title": "Equalize Strings by Adding or Removing Characters at Ends",
+        "question__title_slug": "equalize-strings-by-adding-or-removing-characters-at-ends",
+        "frontend_question_id": 3135
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": true
+    },
+    {
+      "stat": {
         "question__title": "Maximum Number That Makes Result of Bitwise AND Zero",
         "question__title_slug": "maximum-number-that-makes-result-of-bitwise-and-zero",
         "frontend_question_id": 3125
