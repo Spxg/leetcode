@@ -303,6 +303,7 @@ pub mod problem_0397_integer_replacement;
 pub mod problem_0398_random_pick_index;
 pub mod problem_0400_nth_digit;
 pub mod problem_0404_sum_of_left_leaves;
+pub mod problem_0412_fizz_buzz;
 pub mod problem_0413_arithmetic_slices;
 pub mod problem_0415_add_strings;
 pub mod problem_0416_partition_equal_subset_sum;
