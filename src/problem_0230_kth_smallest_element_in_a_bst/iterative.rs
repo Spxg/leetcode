@@ -12,8 +12,8 @@ impl Solution {
         let mut count = 1;
 
         loop {
-            if let Some(node) = root {
-                root = node.borrow().left.clone();
+            if let Some(node) = root.take() {
+                root.clone_from(&node.borrow().left);
                 stack.push(node);
             } else {
                 let node = stack.pop().unwrap();
@@ -21,7 +21,7 @@ impl Solution {
                     return node.borrow().val;
                 }
                 count += 1;
-                root = node.borrow().right.clone();
+                root.clone_from(&node.borrow().right);
             }
         }
     }

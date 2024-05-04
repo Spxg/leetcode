@@ -32,7 +32,7 @@ impl Twitter {
         let followee = &self.users[&user_id];
         let mut tweets = Vec::with_capacity(followee.len() + 1);
         for uid in followee.iter().chain(&[user_id]) {
-            if let Some(x) = self.tweets.get(uid).map(std::vec::Vec::as_slice) {
+            if let Some(x) = self.tweets.get(uid).map(Vec::as_slice) {
                 tweets.push(x);
             }
         }

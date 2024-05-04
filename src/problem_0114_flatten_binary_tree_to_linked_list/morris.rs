@@ -8,7 +8,7 @@ use std::rc::Rc;
 impl Solution {
     pub fn flatten(root: &mut Option<Rc<RefCell<TreeNode>>>) {
         let mut root = root.clone();
-        while let Some(node) = root {
+        while let Some(node) = root.take() {
             let mut node = node.borrow_mut();
             if let Some(mut right_leaf) = node.left.clone() {
                 loop {
@@ -23,7 +23,7 @@ impl Solution {
                 right_leaf.right = node.right.take();
                 node.right = node.left.take();
             }
-            root = node.right.clone();
+            root.clone_from(&node.right);
         }
     }
 }
