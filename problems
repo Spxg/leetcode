@@ -112,6 +112,17 @@
     },
     {
       "stat": {
+        "question__title": "Minimum Cost to Equalize Array",
+        "question__title_slug": "minimum-cost-to-equalize-array",
+        "frontend_question_id": 3139
+      },
+      "difficulty": {
+        "level": 3
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
         "question__title": "Guess the Number Using Bitwise Questions II",
         "question__title_slug": "guess-the-number-using-bitwise-questions-ii",
         "frontend_question_id": 3094
@@ -151,6 +162,28 @@
       },
       "difficulty": {
         "level": 1
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Valid Word",
+        "question__title_slug": "valid-word",
+        "frontend_question_id": 3136
+      },
+      "difficulty": {
+        "level": 1
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Minimum Length of Anagram Concatenation",
+        "question__title_slug": "minimum-length-of-anagram-concatenation",
+        "frontend_question_id": 3138
+      },
+      "difficulty": {
+        "level": 2
       },
       "paid_only": false
     },
@@ -241,6 +274,17 @@
         "level": 2
       },
       "paid_only": true
+    },
+    {
+      "stat": {
+        "question__title": "Minimum Number of Operations to Make Word K-Periodic",
+        "question__title_slug": "minimum-number-of-operations-to-make-word-k-periodic",
+        "frontend_question_id": 3137
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": false
     },
     {
       "stat": {
