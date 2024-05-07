@@ -249,6 +249,7 @@ pub mod problem_0179_largest_number;
 pub mod problem_0189_rotate_array;
 pub mod problem_0190_reverse_bits;
 pub mod problem_0191_number_of_1_bits;
+pub mod problem_0198_house_robber;
 pub mod problem_0199_binary_tree_right_side_view;
 pub mod problem_0202_happy_number;
 pub mod problem_0205_isomorphic_strings;
