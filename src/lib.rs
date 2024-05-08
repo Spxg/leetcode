@@ -259,6 +259,7 @@ pub mod problem_0208_implement_trie_prefix_tree;
 pub mod problem_0209_minimum_size_subarray_sum;
 pub mod problem_0210_course_schedule_ii;
 pub mod problem_0211_design_add_and_search_words_data_structure;
+pub mod problem_0213_house_robber_ii;
 pub mod problem_0216_combination_sum_iii;
 pub mod problem_0217_contains_duplicate;
 pub mod problem_0219_contains_duplicate_ii;
