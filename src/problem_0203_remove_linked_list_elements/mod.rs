@@ -1,0 +1,33 @@
+pub mod iterative;
+
+use crate::data_structures::ListNode;
+
+pub trait Solution {
+    fn remove_elements(head: Option<Box<ListNode>>, val: i32) -> Option<Box<ListNode>>;
+}
+
+#[cfg(test)]
+mod tests {
+    use super::Solution;
+    use crate::test_utilities;
+
+    pub fn run<S: Solution>() {
+        let test_cases = [(
+            (&[1, 2, 6, 3, 4, 5, 6] as &[_], 6),
+            &[1, 2, 3, 4, 5] as &[_],
+        )];
+
+        for ((head, val), expected) in test_cases {
+            assert_eq!(
+                test_utilities::iter_list(&S::remove_elements(
+                    test_utilities::make_list(head.iter().copied()),
+                    val
+                ))
+                .copied()
+                .collect::<Box<_>>()
+                .as_ref(),
+                expected
+            );
+        }
+    }
+}

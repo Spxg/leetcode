@@ -252,6 +252,7 @@ pub mod problem_0191_number_of_1_bits;
 pub mod problem_0198_house_robber;
 pub mod problem_0199_binary_tree_right_side_view;
 pub mod problem_0202_happy_number;
+pub mod problem_0203_remove_linked_list_elements;
 pub mod problem_0205_isomorphic_strings;
 pub mod problem_0206_reverse_linked_list;
 pub mod problem_0207_course_schedule;
