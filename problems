@@ -2,6 +2,17 @@
   "stat_status_pairs": [
     {
       "stat": {
+        "question__title": "Maximum Hamming Distances",
+        "question__title_slug": "maximum-hamming-distances",
+        "frontend_question_id": 3141
+      },
+      "difficulty": {
+        "level": 3
+      },
+      "paid_only": true
+    },
+    {
+      "stat": {
         "question__title": "Equalize Strings by Adding or Removing Characters at Ends",
         "question__title_slug": "equalize-strings-by-adding-or-removing-characters-at-ends",
         "frontend_question_id": 3135
