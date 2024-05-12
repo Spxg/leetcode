@@ -35,6 +35,17 @@
     },
     {
       "stat": {
+        "question__title": "Find the Minimum Cost Array Permutation",
+        "question__title_slug": "find-the-minimum-cost-array-permutation",
+        "frontend_question_id": 3149
+      },
+      "difficulty": {
+        "level": 3
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
         "question__title": "Maximum Number of Potholes That Can Be Fixed",
         "question__title_slug": "maximum-number-of-potholes-that-can-be-fixed",
         "frontend_question_id": 3119
@@ -46,6 +57,17 @@
     },
     {
       "stat": {
+        "question__title": "Maximum Points Inside the Square",
+        "question__title_slug": "maximum-points-inside-the-square",
+        "frontend_question_id": 3143
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
         "question__title": "Find the Index of Permutation",
         "question__title_slug": "find-the-index-of-permutation",
         "frontend_question_id": 3109
@@ -54,6 +76,39 @@
         "level": 2
       },
       "paid_only": true
+    },
+    {
+      "stat": {
+        "question__title": "Check if Grid Satisfies Conditions",
+        "question__title_slug": "check-if-grid-satisfies-conditions",
+        "frontend_question_id": 3142
+      },
+      "difficulty": {
+        "level": 1
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Permutation Difference between Two Strings",
+        "question__title_slug": "permutation-difference-between-two-strings",
+        "frontend_question_id": 3146
+      },
+      "difficulty": {
+        "level": 1
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Find Products of Elements of Big Array",
+        "question__title_slug": "find-products-of-elements-of-big-array",
+        "frontend_question_id": 3145
+      },
+      "difficulty": {
+        "level": 3
+      },
+      "paid_only": false
     },
     {
       "stat": {
@@ -115,6 +170,17 @@
         "question__title": "Minimum Number of Operations to Satisfy Conditions",
         "question__title_slug": "minimum-number-of-operations-to-satisfy-conditions",
         "frontend_question_id": 3122
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Minimum Substring Partition of Equal Character Frequency",
+        "question__title_slug": "minimum-substring-partition-of-equal-character-frequency",
+        "frontend_question_id": 3144
       },
       "difficulty": {
         "level": 2
@@ -222,6 +288,17 @@
     },
     {
       "stat": {
+        "question__title": "Maximum Difference Score in a Grid",
+        "question__title_slug": "maximum-difference-score-in-a-grid",
+        "frontend_question_id": 3148
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
         "question__title": "Minimum Rectangles to Cover Points",
         "question__title_slug": "minimum-rectangles-to-cover-points",
         "frontend_question_id": 3111
@@ -291,6 +368,17 @@
         "question__title": "Minimum Number of Operations to Make Word K-Periodic",
         "question__title_slug": "minimum-number-of-operations-to-make-word-k-periodic",
         "frontend_question_id": 3137
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Taking Maximum Energy From the Mystic Dungeon",
+        "question__title_slug": "taking-maximum-energy-from-the-mystic-dungeon",
+        "frontend_question_id": 3147
       },
       "difficulty": {
         "level": 2
