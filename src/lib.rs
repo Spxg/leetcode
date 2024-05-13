@@ -265,6 +265,7 @@ pub mod problem_0216_combination_sum_iii;
 pub mod problem_0217_contains_duplicate;
 pub mod problem_0219_contains_duplicate_ii;
 pub mod problem_0226_invert_binary_tree;
+pub mod problem_0227_basic_calculator_ii;
 pub mod problem_0228_summary_ranges;
 pub mod problem_0230_kth_smallest_element_in_a_bst;
 pub mod problem_0231_power_of_two;
