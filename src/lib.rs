@@ -146,6 +146,7 @@ pub mod problem_0024_swap_nodes_in_pairs;
 pub mod problem_0026_remove_duplicates_from_sorted_array;
 pub mod problem_0027_remove_element;
 pub mod problem_0028_find_the_index_of_the_first_occurrence_in_a_string;
+pub mod problem_0029_divide_two_integers;
 pub mod problem_0031_next_permutation;
 pub mod problem_0033_search_in_rotated_sorted_array;
 pub mod problem_0034_find_first_and_last_position_of_element_in_sorted_array;
