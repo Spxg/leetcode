@@ -229,6 +229,7 @@ pub mod problem_0131_palindrome_partitioning;
 pub mod problem_0132_palindrome_partitioning_ii;
 pub mod problem_0136_single_number;
 pub mod problem_0139_word_break;
+pub mod problem_0143_reorder_list;
 pub mod problem_0144_binary_tree_preorder_traversal;
 pub mod problem_0145_binary_tree_postorder_traversal;
 pub mod problem_0150_evaluate_reverse_polish_notation;
