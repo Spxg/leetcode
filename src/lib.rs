@@ -292,6 +292,7 @@ pub mod problem_0304_range_sum_query_2d_immutable;
 pub mod problem_0307_range_sum_query_mutable;
 pub mod problem_0316_remove_duplicate_letters;
 pub mod problem_0322_coin_change;
+pub mod problem_0326_power_of_three;
 pub mod problem_0331_verify_preorder_serialization_of_a_binary_tree;
 pub mod problem_0338_counting_bits;
 pub mod problem_0341_flatten_nested_list_iterator;
