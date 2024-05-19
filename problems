@@ -2,17 +2,6 @@
   "stat_status_pairs": [
     {
       "stat": {
-        "question__title": "Maximum Number of Upgradable Servers",
-        "question__title_slug": "maximum-number-of-upgradable-servers",
-        "frontend_question_id": 3151
-      },
-      "difficulty": {
-        "level": 2
-      },
-      "paid_only": true
-    },
-    {
-      "stat": {
         "question__title": "Maximum Hamming Distances",
         "question__title_slug": "maximum-hamming-distances",
         "frontend_question_id": 3141
