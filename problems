@@ -2,6 +2,17 @@
   "stat_status_pairs": [
     {
       "stat": {
+        "question__title": "Maximum Number of Upgradable Servers",
+        "question__title_slug": "maximum-number-of-upgradable-servers",
+        "frontend_question_id": 3155
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": true
+    },
+    {
+      "stat": {
         "question__title": "Maximum Hamming Distances",
         "question__title_slug": "maximum-hamming-distances",
         "frontend_question_id": 3141
@@ -46,6 +57,28 @@
     },
     {
       "stat": {
+        "question__title": "Special Array I",
+        "question__title_slug": "special-array-i",
+        "frontend_question_id": 3151
+      },
+      "difficulty": {
+        "level": 1
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Special Array II",
+        "question__title_slug": "special-array-ii",
+        "frontend_question_id": 3152
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
         "question__title": "Maximum Number of Potholes That Can Be Fixed",
         "question__title_slug": "maximum-number-of-potholes-that-can-be-fixed",
         "frontend_question_id": 3119
@@ -79,12 +112,34 @@
     },
     {
       "stat": {
+        "question__title": "Sum of Digit Differences of All Pairs",
+        "question__title_slug": "sum-of-digit-differences-of-all-pairs",
+        "frontend_question_id": 3153
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
         "question__title": "Check if Grid Satisfies Conditions",
         "question__title_slug": "check-if-grid-satisfies-conditions",
         "frontend_question_id": 3142
       },
       "difficulty": {
         "level": 1
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Find Number of Ways to Reach the K-th Stair",
+        "question__title_slug": "find-number-of-ways-to-reach-the-k-th-stair",
+        "frontend_question_id": 3154
+      },
+      "difficulty": {
+        "level": 3
       },
       "paid_only": false
     },
