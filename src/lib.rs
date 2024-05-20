@@ -275,6 +275,7 @@ pub mod problem_0230_kth_smallest_element_in_a_bst;
 pub mod problem_0231_power_of_two;
 pub mod problem_0232_implement_queue_using_stacks;
 pub mod problem_0234_palindrome_linked_list;
+pub mod problem_0235_lowest_common_ancestor_of_a_binary_search_tree;
 pub mod problem_0240_search_a_2d_matrix_ii;
 pub mod problem_0242_valid_anagram;
 pub mod problem_0257_binary_tree_paths;
