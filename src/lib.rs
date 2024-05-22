@@ -326,6 +326,7 @@ pub mod problem_0423_reconstruct_original_digits_from_english;
 pub mod problem_0434_number_of_segments_in_a_string;
 pub mod problem_0437_path_sum_iii;
 pub mod problem_0438_find_all_anagrams_in_a_string;
+pub mod problem_0441_arranging_coins;
 pub mod problem_0442_find_all_duplicates_in_an_array;
 pub mod problem_0443_string_compression;
 pub mod problem_0448_find_all_numbers_disappeared_in_an_array;
