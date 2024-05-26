@@ -46,6 +46,28 @@
     },
     {
       "stat": {
+        "question__title": "Block Placement Queries",
+        "question__title_slug": "block-placement-queries",
+        "frontend_question_id": 3161
+      },
+      "difficulty": {
+        "level": 3
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Find the Number of Distinct Colors Among the Balls",
+        "question__title_slug": "find-the-number-of-distinct-colors-among-the-balls",
+        "frontend_question_id": 3160
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
         "question__title": "Maximum Number That Makes Result of Bitwise AND Zero",
         "question__title_slug": "maximum-number-that-makes-result-of-bitwise-and-zero",
         "frontend_question_id": 3125
@@ -79,6 +101,17 @@
     },
     {
       "stat": {
+        "question__title": "Find the XOR of Numbers Which Appear Twice",
+        "question__title_slug": "find-the-xor-of-numbers-which-appear-twice",
+        "frontend_question_id": 3158
+      },
+      "difficulty": {
+        "level": 1
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
         "question__title": "Special Array II",
         "question__title_slug": "special-array-ii",
         "frontend_question_id": 3152
@@ -98,6 +131,17 @@
         "level": 2
       },
       "paid_only": true
+    },
+    {
+      "stat": {
+        "question__title": "Find Occurrences of an Element in an Array",
+        "question__title_slug": "find-occurrences-of-an-element-in-an-array",
+        "frontend_question_id": 3159
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": false
     },
     {
       "stat": {
