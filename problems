@@ -24,6 +24,17 @@
     },
     {
       "stat": {
+        "question__title": "String Compression III",
+        "question__title_slug": "string-compression-iii",
+        "frontend_question_id": 3163
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
         "question__title": "Maximum Hamming Distances",
         "question__title_slug": "maximum-hamming-distances",
         "frontend_question_id": 3141
@@ -32,6 +43,28 @@
         "level": 3
       },
       "paid_only": true
+    },
+    {
+      "stat": {
+        "question__title": "Find the Number of Good Pairs I",
+        "question__title_slug": "find-the-number-of-good-pairs-i",
+        "frontend_question_id": 3162
+      },
+      "difficulty": {
+        "level": 1
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Find the Number of Good Pairs II",
+        "question__title_slug": "find-the-number-of-good-pairs-ii",
+        "frontend_question_id": 3164
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": false
     },
     {
       "stat": {
@@ -131,6 +164,17 @@
         "level": 2
       },
       "paid_only": true
+    },
+    {
+      "stat": {
+        "question__title": "Maximum Sum of Subsequence With Non-adjacent Elements",
+        "question__title_slug": "maximum-sum-of-subsequence-with-non-adjacent-elements",
+        "frontend_question_id": 3165
+      },
+      "difficulty": {
+        "level": 3
+      },
+      "paid_only": false
     },
     {
       "stat": {
