@@ -349,6 +349,7 @@ pub mod problem_0530_minimum_absolute_difference_in_bst;
 pub mod problem_0532_k_diff_pairs_in_an_array;
 pub mod problem_0537_complex_number_multiplication;
 pub mod problem_0538_convert_bst_to_greater_tree;
+pub mod problem_0539_minimum_time_difference;
 pub mod problem_0540_single_element_in_a_sorted_array;
 pub mod problem_0541_reverse_string_ii;
 pub mod problem_0551_student_attendance_record_i;
