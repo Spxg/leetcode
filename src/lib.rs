@@ -347,6 +347,7 @@ pub mod problem_0507_perfect_number;
 pub mod problem_0513_find_bottom_left_tree_value;
 pub mod problem_0515_find_largest_value_in_each_tree_row;
 pub mod problem_0523_continuous_subarray_sum;
+pub mod problem_0525_contiguous_array;
 pub mod problem_0530_minimum_absolute_difference_in_bst;
 pub mod problem_0532_k_diff_pairs_in_an_array;
 pub mod problem_0537_complex_number_multiplication;
