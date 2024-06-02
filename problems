@@ -68,6 +68,17 @@
     },
     {
       "stat": {
+        "question__title": "Lexicographically Minimum String After Removing Stars",
+        "question__title_slug": "lexicographically-minimum-string-after-removing-stars",
+        "frontend_question_id": 3170
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
         "question__title": "Find the Number of Good Pairs II",
         "question__title_slug": "find-the-number-of-good-pairs-ii",
         "frontend_question_id": 3164
@@ -87,6 +98,17 @@
         "level": 2
       },
       "paid_only": true
+    },
+    {
+      "stat": {
+        "question__title": "Find Subarray With Bitwise AND Closest to K",
+        "question__title_slug": "find-subarray-with-bitwise-and-closest-to-k",
+        "frontend_question_id": 3171
+      },
+      "difficulty": {
+        "level": 3
+      },
+      "paid_only": false
     },
     {
       "stat": {
@@ -134,6 +156,17 @@
     },
     {
       "stat": {
+        "question__title": "Count Days Without Meetings",
+        "question__title_slug": "count-days-without-meetings",
+        "frontend_question_id": 3169
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
         "question__title": "Special Array I",
         "question__title_slug": "special-array-i",
         "frontend_question_id": 3151
@@ -162,6 +195,17 @@
       },
       "difficulty": {
         "level": 2
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Minimum Number of Chairs in a Waiting Room",
+        "question__title_slug": "minimum-number-of-chairs-in-a-waiting-room",
+        "frontend_question_id": 3168
+      },
+      "difficulty": {
+        "level": 1
       },
       "paid_only": false
     },
