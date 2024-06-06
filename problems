@@ -13,6 +13,17 @@
     },
     {
       "stat": {
+        "question__title": "Bitwise OR of Adjacent Elements",
+        "question__title_slug": "bitwise-or-of-adjacent-elements",
+        "frontend_question_id": 3173
+      },
+      "difficulty": {
+        "level": 1
+      },
+      "paid_only": true
+    },
+    {
+      "stat": {
         "question__title": "Find the Level of Tree with Minimum Sum",
         "question__title_slug": "find-the-level-of-tree-with-minimum-sum",
         "frontend_question_id": 3157
