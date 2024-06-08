@@ -342,6 +342,7 @@ pub mod problem_0462_minimum_moves_to_equal_array_elements_ii;
 pub mod problem_0468_validate_ip_address;
 pub mod problem_0476_number_complement;
 pub mod problem_0481_magical_string;
+pub mod problem_0482_license_key_formatting;
 pub mod problem_0485_max_consecutive_ones;
 pub mod problem_0495_teemo_attacking;
 pub mod problem_0498_diagonal_traverse;
