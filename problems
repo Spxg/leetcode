@@ -46,12 +46,45 @@
     },
     {
       "stat": {
+        "question__title": "Find the Maximum Length of a Good Subsequence I",
+        "question__title_slug": "find-the-maximum-length-of-a-good-subsequence-i",
+        "frontend_question_id": 3176
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Find the Maximum Length of a Good Subsequence II",
+        "question__title_slug": "find-the-maximum-length-of-a-good-subsequence-ii",
+        "frontend_question_id": 3177
+      },
+      "difficulty": {
+        "level": 3
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
         "question__title": "String Compression III",
         "question__title_slug": "string-compression-iii",
         "frontend_question_id": 3163
       },
       "difficulty": {
         "level": 2
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Find the Child Who Has the Ball After K Seconds",
+        "question__title_slug": "find-the-child-who-has-the-ball-after-k-seconds",
+        "frontend_question_id": 3178
+      },
+      "difficulty": {
+        "level": 1
       },
       "paid_only": false
     },
@@ -65,6 +98,17 @@
         "level": 3
       },
       "paid_only": true
+    },
+    {
+      "stat": {
+        "question__title": "Clear Digits",
+        "question__title_slug": "clear-digits",
+        "frontend_question_id": 3174
+      },
+      "difficulty": {
+        "level": 1
+      },
+      "paid_only": false
     },
     {
       "stat": {
@@ -101,6 +145,28 @@
     },
     {
       "stat": {
+        "question__title": "Maximum Total Reward Using Operations II",
+        "question__title_slug": "maximum-total-reward-using-operations-ii",
+        "frontend_question_id": 3181
+      },
+      "difficulty": {
+        "level": 3
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Maximum Total Reward Using Operations I",
+        "question__title_slug": "maximum-total-reward-using-operations-i",
+        "frontend_question_id": 3180
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
         "question__title": "Equalize Strings by Adding or Removing Characters at Ends",
         "question__title_slug": "equalize-strings-by-adding-or-removing-characters-at-ends",
         "frontend_question_id": 3135
@@ -112,8 +178,8 @@
     },
     {
       "stat": {
-        "question__title": "Find Subarray With Bitwise AND Closest to K",
-        "question__title_slug": "find-subarray-with-bitwise-and-closest-to-k",
+        "question__title": "Find Subarray With Bitwise OR Closest to K",
+        "question__title_slug": "find-subarray-with-bitwise-or-closest-to-k",
         "frontend_question_id": 3171
       },
       "difficulty": {
@@ -244,6 +310,17 @@
     },
     {
       "stat": {
+        "question__title": "Find the N-th Value After K Seconds",
+        "question__title_slug": "find-the-n-th-value-after-k-seconds",
+        "frontend_question_id": 3179
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
         "question__title": "Find Occurrences of an Element in an Array",
         "question__title_slug": "find-occurrences-of-an-element-in-an-array",
         "frontend_question_id": 3159
@@ -305,6 +382,17 @@
       },
       "difficulty": {
         "level": 3
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Find The First Player to win K Games in a Row",
+        "question__title_slug": "find-the-first-player-to-win-k-games-in-a-row",
+        "frontend_question_id": 3175
+      },
+      "difficulty": {
+        "level": 2
       },
       "paid_only": false
     },
