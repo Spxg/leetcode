@@ -348,6 +348,7 @@ pub mod problem_0495_teemo_attacking;
 pub mod problem_0498_diagonal_traverse;
 pub mod problem_0500_keyboard_row;
 pub mod problem_0503_next_greater_element_ii;
+pub mod problem_0504_base_7;
 pub mod problem_0507_perfect_number;
 pub mod problem_0513_find_bottom_left_tree_value;
 pub mod problem_0515_find_largest_value_in_each_tree_row;
