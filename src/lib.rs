@@ -384,6 +384,7 @@ pub mod problem_0673_number_of_longest_increasing_subsequence;
 pub mod problem_0674_longest_continuous_increasing_subsequence;
 pub mod problem_0677_map_sum_pairs;
 pub mod problem_0709_to_lower_case;
+pub mod problem_0713_subarray_product_less_than_k;
 pub mod problem_0717_1_bit_and_2_bit_characters;
 pub mod problem_0720_longest_word_in_dictionary;
 pub mod problem_0738_monotone_increasing_digits;
