@@ -387,6 +387,7 @@ pub mod problem_0709_to_lower_case;
 pub mod problem_0713_subarray_product_less_than_k;
 pub mod problem_0717_1_bit_and_2_bit_characters;
 pub mod problem_0720_longest_word_in_dictionary;
+pub mod problem_0725_split_linked_list_in_parts;
 pub mod problem_0738_monotone_increasing_digits;
 pub mod problem_0739_daily_temperatures;
 pub mod problem_0769_max_chunks_to_make_sorted;
