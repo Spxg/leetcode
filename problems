@@ -189,6 +189,28 @@
     },
     {
       "stat": {
+        "question__title": "Peaks in Array",
+        "question__title_slug": "peaks-in-array",
+        "frontend_question_id": 3187
+      },
+      "difficulty": {
+        "level": 3
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Maximum Total Damage With Spell Casting",
+        "question__title_slug": "maximum-total-damage-with-spell-casting",
+        "frontend_question_id": 3186
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
         "question__title": "Find Subarray With Bitwise OR Closest to K",
         "question__title_slug": "find-subarray-with-bitwise-or-closest-to-k",
         "frontend_question_id": 3171
@@ -332,6 +354,17 @@
     },
     {
       "stat": {
+        "question__title": "Count Pairs That Form a Complete Day I",
+        "question__title_slug": "count-pairs-that-form-a-complete-day-i",
+        "frontend_question_id": 3184
+      },
+      "difficulty": {
+        "level": 1
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
         "question__title": "Find Occurrences of an Element in an Array",
         "question__title_slug": "find-occurrences-of-an-element-in-an-array",
         "frontend_question_id": 3159
@@ -346,6 +379,17 @@
         "question__title": "Maximum Points Inside the Square",
         "question__title_slug": "maximum-points-inside-the-square",
         "frontend_question_id": 3143
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Count Pairs That Form a Complete Day II",
+        "question__title_slug": "count-pairs-that-form-a-complete-day-ii",
+        "frontend_question_id": 3185
       },
       "difficulty": {
         "level": 2
@@ -13719,6 +13763,17 @@
     },
     {
       "stat": {
+        "question__title": "Lowest Common Ancestor of a Binary Tree III",
+        "question__title_slug": "lowest-common-ancestor-of-a-binary-tree-iii",
+        "frontend_question_id": 1650
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": true
+    },
+    {
+      "stat": {
         "question__title": "Delivering Boxes from Storage to Ports",
         "question__title_slug": "delivering-boxes-from-storage-to-ports",
         "frontend_question_id": 1687
@@ -14885,6 +14940,17 @@
     },
     {
       "stat": {
+        "question__title": "Diameter of N-Ary Tree",
+        "question__title_slug": "diameter-of-n-ary-tree",
+        "frontend_question_id": 1522
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": true
+    },
+    {
+      "stat": {
         "question__title": "Detect Cycles in 2D Grid",
         "question__title_slug": "detect-cycles-in-2d-grid",
         "frontend_question_id": 1559
@@ -14973,6 +15039,17 @@
     },
     {
       "stat": {
+        "question__title": "Move Sub-Tree of N-Ary Tree",
+        "question__title_slug": "move-sub-tree-of-n-ary-tree",
+        "frontend_question_id": 1516
+      },
+      "difficulty": {
+        "level": 3
+      },
+      "paid_only": true
+    },
+    {
+      "stat": {
         "question__title": "Number of Good Leaf Nodes Pairs",
         "question__title_slug": "number-of-good-leaf-nodes-pairs",
         "frontend_question_id": 1530
@@ -15003,6 +15080,17 @@
         "level": 1
       },
       "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Find Root of N-Ary Tree",
+        "question__title_slug": "find-root-of-n-ary-tree",
+        "frontend_question_id": 1506
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": true
     },
     {
       "stat": {
@@ -15149,6 +15237,17 @@
     },
     {
       "stat": {
+        "question__title": "Clone N-ary Tree",
+        "question__title_slug": "clone-n-ary-tree",
+        "frontend_question_id": 1490
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": true
+    },
+    {
+      "stat": {
         "question__title": "Minimum Number of Increments on Subarrays to Form a Target Array",
         "question__title_slug": "minimum-number-of-increments-on-subarrays-to-form-a-target-array",
         "frontend_question_id": 1526
@@ -15234,6 +15333,17 @@
         "level": 1
       },
       "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Clone Binary Tree With Random Pointer",
+        "question__title_slug": "clone-binary-tree-with-random-pointer",
+        "frontend_question_id": 1485
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": true
     },
     {
       "stat": {
@@ -22431,6 +22541,17 @@
     },
     {
       "stat": {
+        "question__title": "Insert into a Sorted Circular Linked List",
+        "question__title_slug": "insert-into-a-sorted-circular-linked-list",
+        "frontend_question_id": 708
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": true
+    },
+    {
+      "stat": {
         "question__title": "Binary Trees With Factors",
         "question__title_slug": "binary-trees-with-factors",
         "frontend_question_id": 823
@@ -23157,6 +23278,72 @@
     },
     {
       "stat": {
+        "question__title": "N-ary Tree Postorder Traversal",
+        "question__title_slug": "n-ary-tree-postorder-traversal",
+        "frontend_question_id": 590
+      },
+      "difficulty": {
+        "level": 1
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "N-ary Tree Preorder Traversal",
+        "question__title_slug": "n-ary-tree-preorder-traversal",
+        "frontend_question_id": 589
+      },
+      "difficulty": {
+        "level": 1
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Maximum Depth of N-ary Tree",
+        "question__title_slug": "maximum-depth-of-n-ary-tree",
+        "frontend_question_id": 559
+      },
+      "difficulty": {
+        "level": 1
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Logical OR of Two Binary Grids Represented as Quad-Trees",
+        "question__title_slug": "logical-or-of-two-binary-grids-represented-as-quad-trees",
+        "frontend_question_id": 558
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Construct Quad Tree",
+        "question__title_slug": "construct-quad-tree",
+        "frontend_question_id": 427
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Encode N-ary Tree to Binary Tree",
+        "question__title_slug": "encode-n-ary-tree-to-binary-tree",
+        "frontend_question_id": 431
+      },
+      "difficulty": {
+        "level": 3
+      },
+      "paid_only": true
+    },
+    {
+      "stat": {
         "question__title": "Couples Holding Hands",
         "question__title_slug": "couples-holding-hands",
         "frontend_question_id": 765
@@ -23196,6 +23383,39 @@
       },
       "difficulty": {
         "level": 1
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Flatten a Multilevel Doubly Linked List",
+        "question__title_slug": "flatten-a-multilevel-doubly-linked-list",
+        "frontend_question_id": 430
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Serialize and Deserialize N-ary Tree",
+        "question__title_slug": "serialize-and-deserialize-n-ary-tree",
+        "frontend_question_id": 428
+      },
+      "difficulty": {
+        "level": 3
+      },
+      "paid_only": true
+    },
+    {
+      "stat": {
+        "question__title": "N-ary Tree Level Order Traversal",
+        "question__title_slug": "n-ary-tree-level-order-traversal",
+        "frontend_question_id": 429
+      },
+      "difficulty": {
+        "level": 2
       },
       "paid_only": false
     },
@@ -23253,6 +23473,17 @@
         "level": 3
       },
       "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Convert Binary Search Tree to Sorted Doubly Linked List",
+        "question__title_slug": "convert-binary-search-tree-to-sorted-doubly-linked-list",
+        "frontend_question_id": 426
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": true
     },
     {
       "stat": {
@@ -25459,6 +25690,17 @@
         "question__title": "Count Subarrays With More Ones Than Zeros",
         "question__title_slug": "count-subarrays-with-more-ones-than-zeros",
         "frontend_question_id": 2031
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": true
+    },
+    {
+      "stat": {
+        "question__title": "Inorder Successor in BST II",
+        "question__title_slug": "inorder-successor-in-bst-ii",
+        "frontend_question_id": 510
       },
       "difficulty": {
         "level": 2
@@ -29251,6 +29493,17 @@
     },
     {
       "stat": {
+        "question__title": "Copy List with Random Pointer",
+        "question__title_slug": "copy-list-with-random-pointer",
+        "frontend_question_id": 138
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
         "question__title": "Single Number II",
         "question__title_slug": "single-number-ii",
         "frontend_question_id": 137
@@ -29287,6 +29540,17 @@
         "question__title": "Gas Station",
         "question__title_slug": "gas-station",
         "frontend_question_id": 134
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Clone Graph",
+        "question__title_slug": "clone-graph",
+        "frontend_question_id": 133
       },
       "difficulty": {
         "level": 2
@@ -29455,6 +29719,28 @@
       },
       "difficulty": {
         "level": 1
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Populating Next Right Pointers in Each Node II",
+        "question__title_slug": "populating-next-right-pointers-in-each-node-ii",
+        "frontend_question_id": 117
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Populating Next Right Pointers in Each Node",
+        "question__title_slug": "populating-next-right-pointers-in-each-node",
+        "frontend_question_id": 116
+      },
+      "difficulty": {
+        "level": 2
       },
       "paid_only": false
     },
