@@ -406,6 +406,7 @@ pub mod problem_0814_binary_tree_pruning;
 pub mod problem_0817_linked_list_components;
 pub mod problem_0821_shortest_distance_to_a_character;
 pub mod problem_0825_friends_of_appropriate_ages;
+pub mod problem_0826_most_profit_assigning_work;
 pub mod problem_0831_masking_personal_information;
 pub mod problem_0844_backspace_string_compare;
 pub mod problem_0845_longest_mountain_in_array;
