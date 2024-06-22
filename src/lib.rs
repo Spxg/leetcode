@@ -373,6 +373,7 @@ pub mod problem_0581_shortest_unsorted_continuous_subarray;
 pub mod problem_0594_longest_harmonious_subsequence;
 pub mod problem_0598_range_addition_ii;
 pub mod problem_0599_minimum_index_sum_of_two_lists;
+pub mod problem_0605_can_place_flowers;
 pub mod problem_0606_construct_string_from_binary_tree;
 pub mod problem_0623_add_one_row_to_tree;
 pub mod problem_0640_solve_the_equation;
