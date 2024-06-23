@@ -24,6 +24,39 @@
     },
     {
       "stat": {
+        "question__title": "Minimum Operations to Make Binary Array Elements Equal to One II",
+        "question__title_slug": "minimum-operations-to-make-binary-array-elements-equal-to-one-ii",
+        "frontend_question_id": 3192
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Find Minimum Operations to Make All Elements Divisible by Three",
+        "question__title_slug": "find-minimum-operations-to-make-all-elements-divisible-by-three",
+        "frontend_question_id": 3190
+      },
+      "difficulty": {
+        "level": 1
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Minimum Operations to Make Binary Array Elements Equal to One I",
+        "question__title_slug": "minimum-operations-to-make-binary-array-elements-equal-to-one-i",
+        "frontend_question_id": 3191
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
         "question__title": "Better Compression of String",
         "question__title_slug": "better-compression-of-string",
         "frontend_question_id": 3167
@@ -54,6 +87,17 @@
         "level": 2
       },
       "paid_only": true
+    },
+    {
+      "stat": {
+        "question__title": "Count the Number of Inversions",
+        "question__title_slug": "count-the-number-of-inversions",
+        "frontend_question_id": 3193
+      },
+      "difficulty": {
+        "level": 3
+      },
+      "paid_only": false
     },
     {
       "stat": {
