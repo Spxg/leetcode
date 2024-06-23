@@ -378,6 +378,7 @@ pub mod problem_0606_construct_string_from_binary_tree;
 pub mod problem_0623_add_one_row_to_tree;
 pub mod problem_0640_solve_the_equation;
 pub mod problem_0643_maximum_average_subarray_i;
+pub mod problem_0645_set_mismatch;
 pub mod problem_0646_maximum_length_of_pair_chain;
 pub mod problem_0647_palindromic_substrings;
 pub mod problem_0648_replace_words;
