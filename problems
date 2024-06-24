@@ -79,6 +79,17 @@
     },
     {
       "stat": {
+        "question__title": "Minimum Average of Smallest and Largest Elements",
+        "question__title_slug": "minimum-average-of-smallest-and-largest-elements",
+        "frontend_question_id": 3194
+      },
+      "difficulty": {
+        "level": 1
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
         "question__title": "Find the Level of Tree with Minimum Sum",
         "question__title_slug": "find-the-level-of-tree-with-minimum-sum",
         "frontend_question_id": 3157
@@ -90,9 +101,42 @@
     },
     {
       "stat": {
+        "question__title": "Maximize Total Cost of Alternating Subarrays",
+        "question__title_slug": "maximize-total-cost-of-alternating-subarrays",
+        "frontend_question_id": 3196
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Find the Minimum Area to Cover All Ones I",
+        "question__title_slug": "find-the-minimum-area-to-cover-all-ones-i",
+        "frontend_question_id": 3195
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
         "question__title": "Count the Number of Inversions",
         "question__title_slug": "count-the-number-of-inversions",
         "frontend_question_id": 3193
+      },
+      "difficulty": {
+        "level": 3
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Find the Minimum Area to Cover All Ones II",
+        "question__title_slug": "find-the-minimum-area-to-cover-all-ones-ii",
+        "frontend_question_id": 3197
       },
       "difficulty": {
         "level": 3
