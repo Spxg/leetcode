@@ -412,6 +412,7 @@ pub mod problem_0825_friends_of_appropriate_ages;
 pub mod problem_0826_most_profit_assigning_work;
 pub mod problem_0831_masking_personal_information;
 pub mod problem_0833_find_and_replace_in_string;
+pub mod problem_0841_keys_and_rooms;
 pub mod problem_0844_backspace_string_compare;
 pub mod problem_0845_longest_mountain_in_array;
 pub mod problem_0859_buddy_strings;
