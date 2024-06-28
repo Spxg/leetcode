@@ -416,6 +416,7 @@ pub mod problem_0841_keys_and_rooms;
 pub mod problem_0844_backspace_string_compare;
 pub mod problem_0845_longest_mountain_in_array;
 pub mod problem_0846_hand_of_straights;
+pub mod problem_0851_loud_and_rich;
 pub mod problem_0859_buddy_strings;
 pub mod problem_0917_reverse_only_letters;
 pub mod problem_2348_number_of_zero_filled_subarrays;
