@@ -387,6 +387,7 @@ pub mod problem_0648_replace_words;
 pub mod problem_0650_2_keys_keyboard;
 pub mod problem_0653_two_sum_iv_input_is_a_bst;
 pub mod problem_0654_maximum_binary_tree;
+pub mod problem_0657_robot_return_to_origin;
 pub mod problem_0665_non_decreasing_array;
 pub mod problem_0670_maximum_swap;
 pub mod problem_0673_number_of_longest_increasing_subsequence;
