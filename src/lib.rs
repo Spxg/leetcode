@@ -420,6 +420,7 @@ pub mod problem_0844_backspace_string_compare;
 pub mod problem_0845_longest_mountain_in_array;
 pub mod problem_0846_hand_of_straights;
 pub mod problem_0851_loud_and_rich;
+pub mod problem_0856_score_of_parentheses;
 pub mod problem_0859_buddy_strings;
 pub mod problem_0869_reordered_power_of_2;
 pub mod problem_0917_reverse_only_letters;
