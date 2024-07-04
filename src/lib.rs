@@ -423,6 +423,7 @@ pub mod problem_0851_loud_and_rich;
 pub mod problem_0856_score_of_parentheses;
 pub mod problem_0859_buddy_strings;
 pub mod problem_0869_reordered_power_of_2;
+pub mod problem_0870_advantage_shuffle;
 pub mod problem_0917_reverse_only_letters;
 pub mod problem_2348_number_of_zero_filled_subarrays;
 
