@@ -395,6 +395,7 @@ pub mod problem_0674_longest_continuous_increasing_subsequence;
 pub mod problem_0677_map_sum_pairs;
 pub mod problem_0682_baseball_game;
 pub mod problem_0693_binary_number_with_alternating_bits;
+pub mod problem_0697_degree_of_an_array;
 pub mod problem_0709_to_lower_case;
 pub mod problem_0713_subarray_product_less_than_k;
 pub mod problem_0717_1_bit_and_2_bit_characters;
