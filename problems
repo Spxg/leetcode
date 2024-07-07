@@ -68,6 +68,17 @@
     },
     {
       "stat": {
+        "question__title": "Alternating Groups II",
+        "question__title_slug": "alternating-groups-ii",
+        "frontend_question_id": 3208
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
         "question__title": "Minimum Operations to Make Binary Array Elements Equal to One II",
         "question__title_slug": "minimum-operations-to-make-binary-array-elements-equal-to-one-ii",
         "frontend_question_id": 3192
@@ -156,12 +167,34 @@
     },
     {
       "stat": {
+        "question__title": "Number of Subarrays With AND Value of K",
+        "question__title_slug": "number-of-subarrays-with-and-value-of-k",
+        "frontend_question_id": 3209
+      },
+      "difficulty": {
+        "level": 3
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
         "question__title": "Maximize Total Cost of Alternating Subarrays",
         "question__title_slug": "maximize-total-cost-of-alternating-subarrays",
         "frontend_question_id": 3196
       },
       "difficulty": {
         "level": 2
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Alternating Groups I",
+        "question__title_slug": "alternating-groups-i",
+        "frontend_question_id": 3206
+      },
+      "difficulty": {
+        "level": 1
       },
       "paid_only": false
     },
@@ -1908,6 +1941,17 @@
         "question__title": "Maximum Good Subarray Sum",
         "question__title_slug": "maximum-good-subarray-sum",
         "frontend_question_id": 3026
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Maximum Points After Enemy Battles",
+        "question__title_slug": "maximum-points-after-enemy-battles",
+        "frontend_question_id": 3207
       },
       "difficulty": {
         "level": 2
