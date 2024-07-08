@@ -35,6 +35,17 @@
     },
     {
       "stat": {
+        "question__title": "Count Submatrices With Equal Frequency of X and Y",
+        "question__title_slug": "count-submatrices-with-equal-frequency-of-x-and-y",
+        "frontend_question_id": 3212
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
         "question__title": "Find the Maximum Length of Valid Subsequence II",
         "question__title_slug": "find-the-maximum-length-of-valid-subsequence-ii",
         "frontend_question_id": 3202
@@ -74,6 +85,17 @@
       },
       "difficulty": {
         "level": 2
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Construct String with Minimum Cost",
+        "question__title_slug": "construct-string-with-minimum-cost",
+        "frontend_question_id": 3213
+      },
+      "difficulty": {
+        "level": 3
       },
       "paid_only": false
     },
@@ -148,6 +170,17 @@
         "question__title": "Maximum Height of a Triangle",
         "question__title_slug": "maximum-height-of-a-triangle",
         "frontend_question_id": 3200
+      },
+      "difficulty": {
+        "level": 1
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Find the Encrypted String",
+        "question__title_slug": "find-the-encrypted-string",
+        "frontend_question_id": 3210
       },
       "difficulty": {
         "level": 1
@@ -247,6 +280,17 @@
         "question__title": "Find the Maximum Length of a Good Subsequence I",
         "question__title_slug": "find-the-maximum-length-of-a-good-subsequence-i",
         "frontend_question_id": 3176
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Generate Binary Strings Without Adjacent Zeros",
+        "question__title_slug": "generate-binary-strings-without-adjacent-zeros",
+        "frontend_question_id": 3211
       },
       "difficulty": {
         "level": 2
