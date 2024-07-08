@@ -338,6 +338,7 @@ pub mod problem_0448_find_all_numbers_disappeared_in_an_array;
 pub mod problem_0451_sort_characters_by_frequency;
 pub mod problem_0453_minimum_moves_to_equal_array_elements;
 pub mod problem_0455_assign_cookies;
+pub mod problem_0461_hamming_distance;
 pub mod problem_0462_minimum_moves_to_equal_array_elements_ii;
 pub mod problem_0468_validate_ip_address;
 pub mod problem_0476_number_complement;
