@@ -430,6 +430,7 @@ pub mod problem_0870_advantage_shuffle;
 pub mod problem_0881_boats_to_save_people;
 pub mod problem_0889_construct_binary_tree_from_preorder_and_postorder_traversal;
 pub mod problem_0890_find_and_replace_pattern;
+pub mod problem_0900_rle_iterator;
 pub mod problem_0917_reverse_only_letters;
 pub mod problem_2348_number_of_zero_filled_subarrays;
 
