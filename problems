@@ -46,6 +46,39 @@
     },
     {
       "stat": {
+        "question__title": "Delete Nodes From Linked List Present in Array",
+        "question__title_slug": "delete-nodes-from-linked-list-present-in-array",
+        "frontend_question_id": 3217
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Minimum Cost for Cutting Cake II",
+        "question__title_slug": "minimum-cost-for-cutting-cake-ii",
+        "frontend_question_id": 3219
+      },
+      "difficulty": {
+        "level": 3
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Minimum Cost for Cutting Cake I",
+        "question__title_slug": "minimum-cost-for-cutting-cake-i",
+        "frontend_question_id": 3218
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
         "question__title": "Count Submatrices With Equal Frequency of X and Y",
         "question__title_slug": "count-submatrices-with-equal-frequency-of-x-and-y",
         "frontend_question_id": 3212
@@ -87,6 +120,17 @@
         "level": 2
       },
       "paid_only": true
+    },
+    {
+      "stat": {
+        "question__title": "Lexicographically Smallest String After a Swap",
+        "question__title_slug": "lexicographically-smallest-string-after-a-swap",
+        "frontend_question_id": 3216
+      },
+      "difficulty": {
+        "level": 1
+      },
+      "paid_only": false
     },
     {
       "stat": {
