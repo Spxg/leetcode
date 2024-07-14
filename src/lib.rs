@@ -403,6 +403,7 @@ pub mod problem_0717_1_bit_and_2_bit_characters;
 pub mod problem_0720_longest_word_in_dictionary;
 pub mod problem_0724_find_pivot_index;
 pub mod problem_0725_split_linked_list_in_parts;
+pub mod problem_0728_self_dividing_numbers;
 pub mod problem_0738_monotone_increasing_digits;
 pub mod problem_0739_daily_temperatures;
 pub mod problem_0769_max_chunks_to_make_sorted;
