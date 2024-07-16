@@ -406,6 +406,7 @@ pub mod problem_0725_split_linked_list_in_parts;
 pub mod problem_0728_self_dividing_numbers;
 pub mod problem_0738_monotone_increasing_digits;
 pub mod problem_0739_daily_temperatures;
+pub mod problem_0763_partition_labels;
 pub mod problem_0769_max_chunks_to_make_sorted;
 pub mod problem_0779_k_th_symbol_in_grammar;
 pub mod problem_0784_letter_case_permutation;
