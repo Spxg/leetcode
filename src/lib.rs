@@ -437,6 +437,7 @@ pub mod problem_0900_rle_iterator;
 pub mod problem_0915_partition_array_into_disjoint_intervals;
 pub mod problem_0916_word_subsets;
 pub mod problem_0917_reverse_only_letters;
+pub mod problem_0921_minimum_add_to_make_parentheses_valid;
 pub mod problem_2348_number_of_zero_filled_subarrays;
 
 #[cfg(test)]
