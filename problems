@@ -2,6 +2,17 @@
   "stat_status_pairs": [
     {
       "stat": {
+        "question__title": "Maximum Array Hopping Score II",
+        "question__title_slug": "maximum-array-hopping-score-ii",
+        "frontend_question_id": 3221
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": true
+    },
+    {
+      "stat": {
         "question__title": "Count Triplets with Even XOR Set Bits II",
         "question__title_slug": "count-triplets-with-even-xor-set-bits-ii",
         "frontend_question_id": 3215
