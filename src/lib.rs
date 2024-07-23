@@ -443,6 +443,7 @@ pub mod problem_0921_minimum_add_to_make_parentheses_valid;
 pub mod problem_0930_binary_subarrays_with_sum;
 pub mod problem_0932_beautiful_array;
 pub mod problem_0937_reorder_data_in_log_files;
+pub mod problem_0945_minimum_increment_to_make_array_unique;
 pub mod problem_2348_number_of_zero_filled_subarrays;
 
 #[cfg(test)]
