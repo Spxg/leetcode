@@ -2,6 +2,17 @@
   "stat_status_pairs": [
     {
       "stat": {
+        "question__title": "Minimum Number of Increasing Subsequence to Be Removed",
+        "question__title_slug": "minimum-number-of-increasing-subsequence-to-be-removed",
+        "frontend_question_id": 3231
+      },
+      "difficulty": {
+        "level": 3
+      },
+      "paid_only": true
+    },
+    {
+      "stat": {
         "question__title": "Maximum Array Hopping Score II",
         "question__title_slug": "maximum-array-hopping-score-ii",
         "frontend_question_id": 3221
