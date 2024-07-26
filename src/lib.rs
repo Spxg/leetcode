@@ -7,7 +7,6 @@
     missing_abi,
     missing_docs,
     noop_method_call,
-    pointer_structural_match,
     single_use_lifetimes,
     trivial_casts,
     trivial_numeric_casts,
