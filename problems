@@ -35,6 +35,17 @@
     },
     {
       "stat": {
+        "question__title": "Find if Digit Game Can Be Won",
+        "question__title_slug": "find-if-digit-game-can-be-won",
+        "frontend_question_id": 3232
+      },
+      "difficulty": {
+        "level": 1
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
         "question__title": "Maximum Array Hopping Score I",
         "question__title_slug": "maximum-array-hopping-score-i",
         "frontend_question_id": 3205
@@ -63,6 +74,17 @@
       },
       "difficulty": {
         "level": 1
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Find the Count of Numbers Which Are Not Special",
+        "question__title_slug": "find-the-count-of-numbers-which-are-not-special",
+        "frontend_question_id": 3233
+      },
+      "difficulty": {
+        "level": 2
       },
       "paid_only": false
     },
@@ -214,6 +236,28 @@
         "question__title": "Construct String with Minimum Cost",
         "question__title_slug": "construct-string-with-minimum-cost",
         "frontend_question_id": 3213
+      },
+      "difficulty": {
+        "level": 3
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Count the Number of Substrings With Dominant Ones",
+        "question__title_slug": "count-the-number-of-substrings-with-dominant-ones",
+        "frontend_question_id": 3234
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Check if the Rectangle Corner Is Reachable",
+        "question__title_slug": "check-if-the-rectangle-corner-is-reachable",
+        "frontend_question_id": 3235
       },
       "difficulty": {
         "level": 3
