@@ -446,6 +446,7 @@ pub mod problem_0932_beautiful_array;
 pub mod problem_0937_reorder_data_in_log_files;
 pub mod problem_0945_minimum_increment_to_make_array_unique;
 pub mod problem_0946_validate_stack_sequences;
+pub mod problem_0948_bag_of_tokens;
 pub mod problem_0950_reveal_cards_in_increasing_order;
 pub mod problem_0969_pancake_sorting;
 pub mod problem_0973_k_closest_points_to_origin;
