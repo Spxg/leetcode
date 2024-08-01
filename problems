@@ -13,6 +13,17 @@
     },
     {
       "stat": {
+        "question__title": "Alt and Tab Simulation",
+        "question__title_slug": "alt-and-tab-simulation",
+        "frontend_question_id": 3237
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": true
+    },
+    {
+      "stat": {
         "question__title": "Maximum Array Hopping Score II",
         "question__title_slug": "maximum-array-hopping-score-ii",
         "frontend_question_id": 3221
