@@ -452,6 +452,7 @@ pub mod problem_0967_numbers_with_same_consecutive_differences;
 pub mod problem_0969_pancake_sorting;
 pub mod problem_0973_k_closest_points_to_origin;
 pub mod problem_0974_subarray_sums_divisible_by_k;
+pub mod problem_0981_time_based_key_value_store;
 pub mod problem_2348_number_of_zero_filled_subarrays;
 
 #[cfg(test)]
