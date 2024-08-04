@@ -24,6 +24,17 @@
     },
     {
       "stat": {
+        "question__title": "Time Taken to Mark All Nodes",
+        "question__title_slug": "time-taken-to-mark-all-nodes",
+        "frontend_question_id": 3241
+      },
+      "difficulty": {
+        "level": 3
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
         "question__title": "Maximum Array Hopping Score II",
         "question__title_slug": "maximum-array-hopping-score-ii",
         "frontend_question_id": 3221
@@ -32,6 +43,39 @@
         "level": 2
       },
       "paid_only": true
+    },
+    {
+      "stat": {
+        "question__title": "Alternating Groups III",
+        "question__title_slug": "alternating-groups-iii",
+        "frontend_question_id": 3245
+      },
+      "difficulty": {
+        "level": 3
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Minimum Number of Flips to Make Binary Grid Palindromic I",
+        "question__title_slug": "minimum-number-of-flips-to-make-binary-grid-palindromic-i",
+        "frontend_question_id": 3239
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Minimum Number of Flips to Make Binary Grid Palindromic II",
+        "question__title_slug": "minimum-number-of-flips-to-make-binary-grid-palindromic-ii",
+        "frontend_question_id": 3240
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": false
     },
     {
       "stat": {
@@ -46,12 +90,56 @@
     },
     {
       "stat": {
+        "question__title": "Find the Number of Winning Players",
+        "question__title_slug": "find-the-number-of-winning-players",
+        "frontend_question_id": 3238
+      },
+      "difficulty": {
+        "level": 1
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Shortest Distance After Road Addition Queries I",
+        "question__title_slug": "shortest-distance-after-road-addition-queries-i",
+        "frontend_question_id": 3243
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Design Neighbor Sum Service",
+        "question__title_slug": "design-neighbor-sum-service",
+        "frontend_question_id": 3242
+      },
+      "difficulty": {
+        "level": 1
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
         "question__title": "Find if Digit Game Can Be Won",
         "question__title_slug": "find-if-digit-game-can-be-won",
         "frontend_question_id": 3232
       },
       "difficulty": {
         "level": 1
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Shortest Distance After Road Addition Queries II",
+        "question__title_slug": "shortest-distance-after-road-addition-queries-ii",
+        "frontend_question_id": 3244
+      },
+      "difficulty": {
+        "level": 3
       },
       "paid_only": false
     },
