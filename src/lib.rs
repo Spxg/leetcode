@@ -448,6 +448,7 @@ pub mod problem_0932_beautiful_array;
 pub mod problem_0937_reorder_data_in_log_files;
 pub mod problem_0945_minimum_increment_to_make_array_unique;
 pub mod problem_0946_validate_stack_sequences;
+pub mod problem_0947_most_stones_removed_with_same_row_or_column;
 pub mod problem_0948_bag_of_tokens;
 pub mod problem_0950_reveal_cards_in_increasing_order;
 pub mod problem_0967_numbers_with_same_consecutive_differences;
