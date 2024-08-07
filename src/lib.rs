@@ -452,6 +452,7 @@ pub mod problem_0946_validate_stack_sequences;
 pub mod problem_0947_most_stones_removed_with_same_row_or_column;
 pub mod problem_0948_bag_of_tokens;
 pub mod problem_0950_reveal_cards_in_increasing_order;
+pub mod problem_0951_flip_equivalent_binary_trees;
 pub mod problem_0967_numbers_with_same_consecutive_differences;
 pub mod problem_0969_pancake_sorting;
 pub mod problem_0973_k_closest_points_to_origin;
