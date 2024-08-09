@@ -24,6 +24,17 @@
     },
     {
       "stat": {
+        "question__title": "Number of Subsequences with Odd Sum",
+        "question__title_slug": "number-of-subsequences-with-odd-sum",
+        "frontend_question_id": 3247
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": true
+    },
+    {
+      "stat": {
         "question__title": "Time Taken to Mark All Nodes",
         "question__title_slug": "time-taken-to-mark-all-nodes",
         "frontend_question_id": 3241
