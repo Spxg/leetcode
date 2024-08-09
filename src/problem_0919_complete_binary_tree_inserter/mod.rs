@@ -51,7 +51,7 @@ mod tests {
             for operation in operations {
                 match *operation {
                     Operation::Insert(val, expected) => {
-                        assert_eq!(cbt_inserter.insert(val), expected)
+                        assert_eq!(cbt_inserter.insert(val), expected);
                     }
                     Operation::GetRoot(expected) => assert_eq!(
                         cbt_inserter.get_root(),
