@@ -420,6 +420,7 @@ pub mod problem_0809_expressive_words;
 pub mod problem_0811_subdomain_visit_count;
 pub mod problem_0814_binary_tree_pruning;
 pub mod problem_0817_linked_list_components;
+pub mod problem_0819_most_common_word;
 pub mod problem_0821_shortest_distance_to_a_character;
 pub mod problem_0825_friends_of_appropriate_ages;
 pub mod problem_0826_most_profit_assigning_work;
