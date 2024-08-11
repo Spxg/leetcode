@@ -35,6 +35,39 @@
     },
     {
       "stat": {
+        "question__title": "Find the Count of Monotonic Pairs II",
+        "question__title_slug": "find-the-count-of-monotonic-pairs-ii",
+        "frontend_question_id": 3251
+      },
+      "difficulty": {
+        "level": 3
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Find the Count of Monotonic Pairs I",
+        "question__title_slug": "find-the-count-of-monotonic-pairs-i",
+        "frontend_question_id": 3250
+      },
+      "difficulty": {
+        "level": 3
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Snake in Matrix",
+        "question__title_slug": "snake-in-matrix",
+        "frontend_question_id": 3248
+      },
+      "difficulty": {
+        "level": 1
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
         "question__title": "Time Taken to Mark All Nodes",
         "question__title_slug": "time-taken-to-mark-all-nodes",
         "frontend_question_id": 3241
@@ -318,6 +351,17 @@
         "level": 2
       },
       "paid_only": true
+    },
+    {
+      "stat": {
+        "question__title": "Count the Number of Good Nodes",
+        "question__title_slug": "count-the-number-of-good-nodes",
+        "frontend_question_id": 3249
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": false
     },
     {
       "stat": {
