@@ -464,6 +464,7 @@ pub mod problem_0971_flip_binary_tree_to_match_preorder_traversal;
 pub mod problem_0973_k_closest_points_to_origin;
 pub mod problem_0974_subarray_sums_divisible_by_k;
 pub mod problem_0981_time_based_key_value_store;
+pub mod problem_0984_string_without_aaa_or_bbb;
 pub mod problem_2348_number_of_zero_filled_subarrays;
 
 #[cfg(test)]
