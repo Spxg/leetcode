@@ -398,6 +398,17 @@
     },
     {
       "stat": {
+        "question__title": "Construct String with Minimum Cost (Easy)",
+        "question__title_slug": "construct-string-with-minimum-cost-easy",
+        "frontend_question_id": 3253
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": true
+    },
+    {
+      "stat": {
         "question__title": "Count the Number of Substrings With Dominant Ones",
         "question__title_slug": "count-the-number-of-substrings-with-dominant-ones",
         "frontend_question_id": 3234
