@@ -25430,7 +25430,7 @@
       "difficulty": {
         "level": 2
       },
-      "paid_only": true
+      "paid_only": false
     },
     {
       "stat": {
