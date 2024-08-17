@@ -451,6 +451,7 @@ pub mod problem_0930_binary_subarrays_with_sum;
 pub mod problem_0931_minimum_falling_path_sum;
 pub mod problem_0932_beautiful_array;
 pub mod problem_0937_reorder_data_in_log_files;
+pub mod problem_0944_delete_columns_to_make_sorted;
 pub mod problem_0945_minimum_increment_to_make_array_unique;
 pub mod problem_0946_validate_stack_sequences;
 pub mod problem_0947_most_stones_removed_with_same_row_or_column;
