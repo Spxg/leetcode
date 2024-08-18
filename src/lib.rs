@@ -437,6 +437,7 @@ pub mod problem_0868_binary_gap;
 pub mod problem_0869_reordered_power_of_2;
 pub mod problem_0870_advantage_shuffle;
 pub mod problem_0872_leaf_similar_trees;
+pub mod problem_0876_middle_of_the_linked_list;
 pub mod problem_0881_boats_to_save_people;
 pub mod problem_0884_uncommon_words_from_two_sentences;
 pub mod problem_0889_construct_binary_tree_from_preorder_and_postorder_traversal;
