@@ -2,6 +2,39 @@
   "stat_status_pairs": [
     {
       "stat": {
+        "question__title": "Find the Largest Palindrome Divisible by K",
+        "question__title_slug": "find-the-largest-palindrome-divisible-by-k",
+        "frontend_question_id": 3260
+      },
+      "difficulty": {
+        "level": 3
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Maximum Value Sum by Placing Three Rooks I",
+        "question__title_slug": "maximum-value-sum-by-placing-three-rooks-i",
+        "frontend_question_id": 3256
+      },
+      "difficulty": {
+        "level": 3
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Count Substrings That Satisfy K-Constraint II",
+        "question__title_slug": "count-substrings-that-satisfy-k-constraint-ii",
+        "frontend_question_id": 3261
+      },
+      "difficulty": {
+        "level": 3
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
         "question__title": "Minimum Number of Increasing Subsequence to Be Removed",
         "question__title_slug": "minimum-number-of-increasing-subsequence-to-be-removed",
         "frontend_question_id": 3231
@@ -10,6 +43,28 @@
         "level": 3
       },
       "paid_only": true
+    },
+    {
+      "stat": {
+        "question__title": "Count Substrings That Satisfy K-Constraint I",
+        "question__title_slug": "count-substrings-that-satisfy-k-constraint-i",
+        "frontend_question_id": 3258
+      },
+      "difficulty": {
+        "level": 1
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Maximum Value Sum by Placing Three Rooks II",
+        "question__title_slug": "maximum-value-sum-by-placing-three-rooks-ii",
+        "frontend_question_id": 3257
+      },
+      "difficulty": {
+        "level": 3
+      },
+      "paid_only": false
     },
     {
       "stat": {
@@ -112,9 +167,42 @@
     },
     {
       "stat": {
+        "question__title": "Maximum Energy Boost From Two Drinks",
+        "question__title_slug": "maximum-energy-boost-from-two-drinks",
+        "frontend_question_id": 3259
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
         "question__title": "Minimum Number of Flips to Make Binary Grid Palindromic II",
         "question__title_slug": "minimum-number-of-flips-to-make-binary-grid-palindromic-ii",
         "frontend_question_id": 3240
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Find the Power of K-Size Subarrays II",
+        "question__title_slug": "find-the-power-of-k-size-subarrays-ii",
+        "frontend_question_id": 3255
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Find the Power of K-Size Subarrays I",
+        "question__title_slug": "find-the-power-of-k-size-subarrays-i",
+        "frontend_question_id": 3254
       },
       "difficulty": {
         "level": 2
