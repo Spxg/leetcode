@@ -471,6 +471,7 @@ pub mod problem_0985_sum_of_even_numbers_after_queries;
 pub mod problem_0986_interval_list_intersections;
 pub mod problem_0988_smallest_string_starting_from_leaf;
 pub mod problem_0994_rotting_oranges;
+pub mod problem_1006_clumsy_factorial;
 pub mod problem_1008_construct_binary_search_tree_from_preorder_traversal;
 pub mod problem_2348_number_of_zero_filled_subarrays;
 
