@@ -460,6 +460,7 @@ pub mod problem_0948_bag_of_tokens;
 pub mod problem_0950_reveal_cards_in_increasing_order;
 pub mod problem_0951_flip_equivalent_binary_trees;
 pub mod problem_0958_check_completeness_of_a_binary_tree;
+pub mod problem_0965_univalued_binary_tree;
 pub mod problem_0967_numbers_with_same_consecutive_differences;
 pub mod problem_0969_pancake_sorting;
 pub mod problem_0971_flip_binary_tree_to_match_preorder_traversal;
