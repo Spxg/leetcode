@@ -13,6 +13,28 @@
     },
     {
       "stat": {
+        "question__title": "Final Array State After K Multiplication Operations II",
+        "question__title_slug": "final-array-state-after-k-multiplication-operations-ii",
+        "frontend_question_id": 3266
+      },
+      "difficulty": {
+        "level": 3
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Final Array State After K Multiplication Operations I",
+        "question__title_slug": "final-array-state-after-k-multiplication-operations-i",
+        "frontend_question_id": 3264
+      },
+      "difficulty": {
+        "level": 1
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
         "question__title": "Find the Largest Palindrome Divisible by K",
         "question__title_slug": "find-the-largest-palindrome-divisible-by-k",
         "frontend_question_id": 3260
@@ -54,6 +76,17 @@
         "level": 3
       },
       "paid_only": true
+    },
+    {
+      "stat": {
+        "question__title": "Count Almost Equal Pairs II",
+        "question__title_slug": "count-almost-equal-pairs-ii",
+        "frontend_question_id": 3267
+      },
+      "difficulty": {
+        "level": 3
+      },
+      "paid_only": false
     },
     {
       "stat": {
@@ -118,6 +151,17 @@
       },
       "difficulty": {
         "level": 3
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Count Almost Equal Pairs I",
+        "question__title_slug": "count-almost-equal-pairs-i",
+        "frontend_question_id": 3265
+      },
+      "difficulty": {
+        "level": 2
       },
       "paid_only": false
     },
