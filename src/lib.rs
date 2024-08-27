@@ -377,6 +377,7 @@ pub mod problem_0599_minimum_index_sum_of_two_lists;
 pub mod problem_0605_can_place_flowers;
 pub mod problem_0606_construct_string_from_binary_tree;
 pub mod problem_0623_add_one_row_to_tree;
+pub mod problem_0628_maximum_product_of_three_numbers;
 pub mod problem_0637_average_of_levels_in_binary_tree;
 pub mod problem_0640_solve_the_equation;
 pub mod problem_0643_maximum_average_subarray_i;
