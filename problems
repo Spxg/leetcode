@@ -24,6 +24,28 @@
     },
     {
       "stat": {
+        "question__title": "Find the Key of the Numbers",
+        "question__title_slug": "find-the-key-of-the-numbers",
+        "frontend_question_id": 3270
+      },
+      "difficulty": {
+        "level": 1
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Select Cells in Grid With Maximum Score",
+        "question__title_slug": "select-cells-in-grid-with-maximum-score",
+        "frontend_question_id": 3276
+      },
+      "difficulty": {
+        "level": 3
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
         "question__title": "Final Array State After K Multiplication Operations II",
         "question__title_slug": "final-array-state-after-k-multiplication-operations-ii",
         "frontend_question_id": 3266
@@ -46,6 +68,17 @@
     },
     {
       "stat": {
+        "question__title": "Check if Two Chessboard Squares Have the Same Color",
+        "question__title_slug": "check-if-two-chessboard-squares-have-the-same-color",
+        "frontend_question_id": 3274
+      },
+      "difficulty": {
+        "level": 1
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
         "question__title": "Find the Largest Palindrome Divisible by K",
         "question__title_slug": "find-the-largest-palindrome-divisible-by-k",
         "frontend_question_id": 3260
@@ -57,9 +90,31 @@
     },
     {
       "stat": {
+        "question__title": "Maximum XOR Score Subarray Queries",
+        "question__title_slug": "maximum-xor-score-subarray-queries",
+        "frontend_question_id": 3277
+      },
+      "difficulty": {
+        "level": 3
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
         "question__title": "Maximum Value Sum by Placing Three Rooks I",
         "question__title_slug": "maximum-value-sum-by-placing-three-rooks-i",
         "frontend_question_id": 3256
+      },
+      "difficulty": {
+        "level": 3
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Find the Count of Good Integers",
+        "question__title_slug": "find-the-count-of-good-integers",
+        "frontend_question_id": 3272
       },
       "difficulty": {
         "level": 3
@@ -118,6 +173,17 @@
       },
       "difficulty": {
         "level": 3
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Hash Divided String",
+        "question__title_slug": "hash-divided-string",
+        "frontend_question_id": 3271
+      },
+      "difficulty": {
+        "level": 2
       },
       "paid_only": false
     },
@@ -192,6 +258,17 @@
         "question__title": "Time Taken to Mark All Nodes",
         "question__title_slug": "time-taken-to-mark-all-nodes",
         "frontend_question_id": 3241
+      },
+      "difficulty": {
+        "level": 3
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Minimum Amount of Damage Dealt to Bob",
+        "question__title_slug": "minimum-amount-of-damage-dealt-to-bob",
+        "frontend_question_id": 3273
       },
       "difficulty": {
         "level": 3
@@ -434,6 +511,17 @@
         "question__title": "Minimum Array Changes to Make Differences Equal",
         "question__title_slug": "minimum-array-changes-to-make-differences-equal",
         "frontend_question_id": 3224
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "K-th Nearest Obstacle Queries",
+        "question__title_slug": "k-th-nearest-obstacle-queries",
+        "frontend_question_id": 3275
       },
       "difficulty": {
         "level": 2
