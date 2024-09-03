@@ -484,6 +484,7 @@ pub mod problem_1010_pairs_of_songs_with_total_durations_divisible_by_60;
 pub mod problem_1023_camelcase_matching;
 pub mod problem_1061_lexicographically_smallest_equivalent_string;
 pub mod problem_1090_largest_values_from_labels;
+pub mod problem_1122_relative_sort_array;
 pub mod problem_2348_number_of_zero_filled_subarrays;
 
 #[cfg(test)]
