@@ -21,7 +21,6 @@
     dead_code,
     variant_size_differences,
     clippy::alloc_instead_of_core,
-    clippy::allow_attributes_without_reason,
     clippy::as_ptr_cast_mut,
     clippy::branches_sharing_code,
     clippy::cargo_common_metadata,
