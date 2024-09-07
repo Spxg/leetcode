@@ -479,6 +479,7 @@ pub mod problem_0994_rotting_oranges;
 pub mod problem_1002_find_common_characters;
 pub mod problem_1006_clumsy_factorial;
 pub mod problem_1008_construct_binary_search_tree_from_preorder_traversal;
+pub mod problem_1009_complement_of_base_10_integer;
 pub mod problem_1010_pairs_of_songs_with_total_durations_divisible_by_60;
 pub mod problem_1023_camelcase_matching;
 pub mod problem_1043_partition_array_for_maximum_sum;
