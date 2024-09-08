@@ -46,9 +46,31 @@
     },
     {
       "stat": {
+        "question__title": "Convert Date to Binary",
+        "question__title_slug": "convert-date-to-binary",
+        "frontend_question_id": 3280
+      },
+      "difficulty": {
+        "level": 1
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
         "question__title": "Select Cells in Grid With Maximum Score",
         "question__title_slug": "select-cells-in-grid-with-maximum-score",
         "frontend_question_id": 3276
+      },
+      "difficulty": {
+        "level": 3
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Maximum Number of Moves to Kill All Pawns",
+        "question__title_slug": "maximum-number-of-moves-to-kill-all-pawns",
+        "frontend_question_id": 3283
       },
       "difficulty": {
         "level": 3
@@ -296,6 +318,17 @@
         "level": 2
       },
       "paid_only": true
+    },
+    {
+      "stat": {
+        "question__title": "Reach End of Array With Max Score",
+        "question__title_slug": "reach-end-of-array-with-max-score",
+        "frontend_question_id": 3282
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": false
     },
     {
       "stat": {
@@ -610,6 +643,17 @@
         "question__title": "Count the Number of Good Nodes",
         "question__title_slug": "count-the-number-of-good-nodes",
         "frontend_question_id": 3249
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Maximize Score of Numbers in Ranges",
+        "question__title_slug": "maximize-score-of-numbers-in-ranges",
+        "frontend_question_id": 3281
       },
       "difficulty": {
         "level": 2
