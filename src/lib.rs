@@ -411,6 +411,7 @@ pub mod problem_0744_find_smallest_letter_greater_than_target;
 pub mod problem_0748_shortest_completing_word;
 pub mod problem_0763_partition_labels;
 pub mod problem_0769_max_chunks_to_make_sorted;
+pub mod problem_0771_jewels_and_stones;
 pub mod problem_0779_k_th_symbol_in_grammar;
 pub mod problem_0784_letter_case_permutation;
 pub mod problem_0791_custom_sort_string;
