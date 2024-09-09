@@ -489,6 +489,7 @@ pub mod problem_1061_lexicographically_smallest_equivalent_string;
 pub mod problem_1090_largest_values_from_labels;
 pub mod problem_1122_relative_sort_array;
 pub mod problem_1146_snapshot_array;
+pub mod problem_1161_maximum_level_sum_of_a_binary_tree;
 pub mod problem_2348_number_of_zero_filled_subarrays;
 
 #[cfg(test)]
