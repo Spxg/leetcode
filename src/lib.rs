@@ -492,6 +492,7 @@ pub mod problem_1122_relative_sort_array;
 pub mod problem_1146_snapshot_array;
 pub mod problem_1161_maximum_level_sum_of_a_binary_tree;
 pub mod problem_1170_compare_strings_by_frequency_of_the_smallest_character;
+pub mod problem_1171_remove_zero_sum_consecutive_nodes_from_linked_list;
 pub mod problem_2348_number_of_zero_filled_subarrays;
 
 #[cfg(test)]
