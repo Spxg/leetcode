@@ -488,6 +488,7 @@ pub mod problem_1054_distant_barcodes;
 pub mod problem_1061_lexicographically_smallest_equivalent_string;
 pub mod problem_1090_largest_values_from_labels;
 pub mod problem_1093_statistics_from_a_large_sample;
+pub mod problem_1094_car_pooling;
 pub mod problem_1122_relative_sort_array;
 pub mod problem_1146_snapshot_array;
 pub mod problem_1161_maximum_level_sum_of_a_binary_tree;
