@@ -35,6 +35,28 @@
     },
     {
       "stat": {
+        "question__title": "Find Indices of Stable Mountains",
+        "question__title_slug": "find-indices-of-stable-mountains",
+        "frontend_question_id": 3285
+      },
+      "difficulty": {
+        "level": 1
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "The Two Sneaky Numbers of Digitville",
+        "question__title_slug": "the-two-sneaky-numbers-of-digitville",
+        "frontend_question_id": 3289
+      },
+      "difficulty": {
+        "level": 1
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
         "question__title": "Convert Doubly Linked List to Array I",
         "question__title_slug": "convert-doubly-linked-list-to-array-i",
         "frontend_question_id": 3263
@@ -43,6 +65,28 @@
         "level": 1
       },
       "paid_only": true
+    },
+    {
+      "stat": {
+        "question__title": "Find the Maximum Sequence Value of Array",
+        "question__title_slug": "find-the-maximum-sequence-value-of-array",
+        "frontend_question_id": 3287
+      },
+      "difficulty": {
+        "level": 3
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Length of the Longest Increasing Path",
+        "question__title_slug": "length-of-the-longest-increasing-path",
+        "frontend_question_id": 3288
+      },
+      "difficulty": {
+        "level": 3
+      },
+      "paid_only": false
     },
     {
       "stat": {
@@ -82,6 +126,39 @@
         "question__title": "Maximum Number of Moves to Kill All Pawns",
         "question__title_slug": "maximum-number-of-moves-to-kill-all-pawns",
         "frontend_question_id": 3283
+      },
+      "difficulty": {
+        "level": 3
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Minimum Number of Valid Strings to Form Target I",
+        "question__title_slug": "minimum-number-of-valid-strings-to-form-target-i",
+        "frontend_question_id": 3291
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Find a Safe Walk Through a Grid",
+        "question__title_slug": "find-a-safe-walk-through-a-grid",
+        "frontend_question_id": 3286
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Minimum Number of Valid Strings to Form Target II",
+        "question__title_slug": "minimum-number-of-valid-strings-to-form-target-ii",
+        "frontend_question_id": 3292
       },
       "difficulty": {
         "level": 3
@@ -426,6 +503,17 @@
       },
       "difficulty": {
         "level": 1
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Maximum Multiplication Score",
+        "question__title_slug": "maximum-multiplication-score",
+        "frontend_question_id": 3290
+      },
+      "difficulty": {
+        "level": 2
       },
       "paid_only": false
     },
