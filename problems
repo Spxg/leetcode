@@ -90,6 +90,28 @@
     },
     {
       "stat": {
+        "question__title": "Count Substrings That Can Be Rearranged to Contain a String I",
+        "question__title_slug": "count-substrings-that-can-be-rearranged-to-contain-a-string-i",
+        "frontend_question_id": 3297
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Count Substrings That Can Be Rearranged to Contain a String II",
+        "question__title_slug": "count-substrings-that-can-be-rearranged-to-contain-a-string-ii",
+        "frontend_question_id": 3298
+      },
+      "difficulty": {
+        "level": 3
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
         "question__title": "Length of the Longest Increasing Path",
         "question__title_slug": "length-of-the-longest-increasing-path",
         "frontend_question_id": 3288
@@ -305,6 +327,17 @@
       },
       "difficulty": {
         "level": 3
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Report Spam Message",
+        "question__title_slug": "report-spam-message",
+        "frontend_question_id": 3295
+      },
+      "difficulty": {
+        "level": 2
       },
       "paid_only": false
     },
@@ -665,6 +698,17 @@
         "question__title": "Minimum Array Changes to Make Differences Equal",
         "question__title_slug": "minimum-array-changes-to-make-differences-equal",
         "frontend_question_id": 3224
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Minimum Number of Seconds to Make Mountain Height Zero",
+        "question__title_slug": "minimum-number-of-seconds-to-make-mountain-height-zero",
+        "frontend_question_id": 3296
       },
       "difficulty": {
         "level": 2
