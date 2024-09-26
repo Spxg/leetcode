@@ -506,6 +506,7 @@ pub mod problem_1190_reverse_substrings_between_each_pair_of_parentheses;
 pub mod problem_1209_remove_all_adjacent_duplicates_in_string_ii;
 pub mod problem_1218_longest_arithmetic_subsequence_of_given_difference;
 pub mod problem_1233_remove_sub_folders_from_the_filesystem;
+pub mod problem_1248_count_number_of_nice_subarrays;
 pub mod problem_2348_number_of_zero_filled_subarrays;
 
 #[cfg(test)]
