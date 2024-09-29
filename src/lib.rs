@@ -509,6 +509,7 @@ pub mod problem_1221_split_a_string_in_balanced_strings;
 pub mod problem_1233_remove_sub_folders_from_the_filesystem;
 pub mod problem_1248_count_number_of_nice_subarrays;
 pub mod problem_1261_find_elements_in_a_contaminated_binary_tree;
+pub mod problem_1268_search_suggestions_system;
 pub mod problem_2348_number_of_zero_filled_subarrays;
 
 #[cfg(test)]
