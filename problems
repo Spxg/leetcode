@@ -24,6 +24,17 @@
     },
     {
       "stat": {
+        "question__title": "Minimum Element After Replacement With Digit Sum",
+        "question__title_slug": "minimum-element-after-replacement-with-digit-sum",
+        "frontend_question_id": 3300
+      },
+      "difficulty": {
+        "level": 1
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
         "question__title": "Sum of Consecutive Subarrays",
         "question__title_slug": "sum-of-consecutive-subarrays",
         "frontend_question_id": 3284
@@ -32,6 +43,28 @@
         "level": 2
       },
       "paid_only": true
+    },
+    {
+      "stat": {
+        "question__title": "Find the K-th Character in String Game II",
+        "question__title_slug": "find-the-k-th-character-in-string-game-ii",
+        "frontend_question_id": 3307
+      },
+      "difficulty": {
+        "level": 3
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Find the K-th Character in String Game I",
+        "question__title_slug": "find-the-k-th-character-in-string-game-i",
+        "frontend_question_id": 3304
+      },
+      "difficulty": {
+        "level": 1
+      },
+      "paid_only": false
     },
     {
       "stat": {
@@ -57,6 +90,17 @@
     },
     {
       "stat": {
+        "question__title": "Find the Lexicographically Smallest Valid Sequence",
+        "question__title_slug": "find-the-lexicographically-smallest-valid-sequence",
+        "frontend_question_id": 3302
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
         "question__title": "Find Indices of Stable Mountains",
         "question__title_slug": "find-indices-of-stable-mountains",
         "frontend_question_id": 3285
@@ -74,6 +118,17 @@
       },
       "difficulty": {
         "level": 1
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Find the Occurrence of First Almost Equal Substring",
+        "question__title_slug": "find-the-occurrence-of-first-almost-equal-substring",
+        "frontend_question_id": 3303
+      },
+      "difficulty": {
+        "level": 3
       },
       "paid_only": false
     },
@@ -129,6 +184,28 @@
       },
       "difficulty": {
         "level": 3
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Count of Substrings Containing Every Vowel and K Consonants I",
+        "question__title_slug": "count-of-substrings-containing-every-vowel-and-k-consonants-i",
+        "frontend_question_id": 3305
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Count of Substrings Containing Every Vowel and K Consonants II",
+        "question__title_slug": "count-of-substrings-containing-every-vowel-and-k-consonants-ii",
+        "frontend_question_id": 3306
+      },
+      "difficulty": {
+        "level": 2
       },
       "paid_only": false
     },
@@ -635,6 +712,17 @@
       },
       "difficulty": {
         "level": 1
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Maximize the Total Height of Unique Towers",
+        "question__title_slug": "maximize-the-total-height-of-unique-towers",
+        "frontend_question_id": 3301
+      },
+      "difficulty": {
+        "level": 2
       },
       "paid_only": false
     },
