@@ -489,6 +489,7 @@ pub mod problem_1023_camelcase_matching;
 pub mod problem_1037_valid_boomerang;
 pub mod problem_1038_binary_search_tree_to_greater_sum_tree;
 pub mod problem_1043_partition_array_for_maximum_sum;
+pub mod problem_1046_last_stone_weight;
 pub mod problem_1051_height_checker;
 pub mod problem_1054_distant_barcodes;
 pub mod problem_1061_lexicographically_smallest_equivalent_string;
