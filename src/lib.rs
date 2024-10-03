@@ -174,6 +174,7 @@ pub mod problem_0063_unique_paths_ii;
 pub mod problem_0064_minimum_path_sum;
 pub mod problem_0066_plus_one;
 pub mod problem_0067_add_binary;
+pub mod problem_0068_text_justification;
 pub mod problem_0069_sqrtx;
 pub mod problem_0070_climbing_stairs;
 pub mod problem_0071_simplify_path;
