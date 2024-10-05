@@ -446,6 +446,7 @@ pub mod problem_0881_boats_to_save_people;
 pub mod problem_0884_uncommon_words_from_two_sentences;
 pub mod problem_0889_construct_binary_tree_from_preorder_and_postorder_traversal;
 pub mod problem_0890_find_and_replace_pattern;
+pub mod problem_0895_maximum_frequency_stack;
 pub mod problem_0900_rle_iterator;
 pub mod problem_0915_partition_array_into_disjoint_intervals;
 pub mod problem_0916_word_subsets;
