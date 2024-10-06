@@ -101,6 +101,17 @@
     },
     {
       "stat": {
+        "question__title": "Sorted GCD Pair Queries",
+        "question__title_slug": "sorted-gcd-pair-queries",
+        "frontend_question_id": 3312
+      },
+      "difficulty": {
+        "level": 3
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
         "question__title": "Find Indices of Stable Mountains",
         "question__title_slug": "find-indices-of-stable-mountains",
         "frontend_question_id": 3285
@@ -126,6 +137,28 @@
         "question__title": "Find the Occurrence of First Almost Equal Substring",
         "question__title_slug": "find-the-occurrence-of-first-almost-equal-substring",
         "frontend_question_id": 3303
+      },
+      "difficulty": {
+        "level": 3
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Maximum Possible Number by Binary Concatenation",
+        "question__title_slug": "maximum-possible-number-by-binary-concatenation",
+        "frontend_question_id": 3309
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Construct 2D Grid Matching Graph Layout",
+        "question__title_slug": "construct-2d-grid-matching-graph-layout",
+        "frontend_question_id": 3311
       },
       "difficulty": {
         "level": 3
@@ -239,6 +272,17 @@
       },
       "difficulty": {
         "level": 3
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Remove Methods From Project",
+        "question__title_slug": "remove-methods-from-project",
+        "frontend_question_id": 3310
+      },
+      "difficulty": {
+        "level": 2
       },
       "paid_only": false
     },
