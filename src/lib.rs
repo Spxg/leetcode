@@ -453,6 +453,7 @@ pub mod problem_0916_word_subsets;
 pub mod problem_0917_reverse_only_letters;
 pub mod problem_0919_complete_binary_tree_inserter;
 pub mod problem_0921_minimum_add_to_make_parentheses_valid;
+pub mod problem_0925_long_pressed_name;
 pub mod problem_0929_unique_email_addresses;
 pub mod problem_0930_binary_subarrays_with_sum;
 pub mod problem_0931_minimum_falling_path_sum;
