@@ -519,6 +519,7 @@ pub mod problem_1261_find_elements_in_a_contaminated_binary_tree;
 pub mod problem_1268_search_suggestions_system;
 pub mod problem_1282_group_the_people_given_the_group_size_they_belong_to;
 pub mod problem_1291_sequential_digits;
+pub mod problem_1302_deepest_leaves_sum;
 pub mod problem_2348_number_of_zero_filled_subarrays;
 
 #[cfg(test)]
