@@ -849,6 +849,17 @@
     },
     {
       "stat": {
+        "question__title": "Find the Last Marked Nodes in Tree",
+        "question__title_slug": "find-the-last-marked-nodes-in-tree",
+        "frontend_question_id": 3313
+      },
+      "difficulty": {
+        "level": 3
+      },
+      "paid_only": true
+    },
+    {
+      "stat": {
         "question__title": "Minimum Number of Seconds to Make Mountain Height Zero",
         "question__title_slug": "minimum-number-of-seconds-to-make-mountain-height-zero",
         "frontend_question_id": 3296
