@@ -24,12 +24,56 @@
     },
     {
       "stat": {
+        "question__title": "Construct the Minimum Bitwise Array II",
+        "question__title_slug": "construct-the-minimum-bitwise-array-ii",
+        "frontend_question_id": 3315
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Find X-Sum of All K-Long Subarrays I",
+        "question__title_slug": "find-x-sum-of-all-k-long-subarrays-i",
+        "frontend_question_id": 3318
+      },
+      "difficulty": {
+        "level": 1
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
         "question__title": "Minimum Element After Replacement With Digit Sum",
         "question__title_slug": "minimum-element-after-replacement-with-digit-sum",
         "frontend_question_id": 3300
       },
       "difficulty": {
         "level": 1
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Construct the Minimum Bitwise Array I",
+        "question__title_slug": "construct-the-minimum-bitwise-array-i",
+        "frontend_question_id": 3314
+      },
+      "difficulty": {
+        "level": 1
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Find the Number of Possible Ways for an Event",
+        "question__title_slug": "find-the-number-of-possible-ways-for-an-event",
+        "frontend_question_id": 3317
+      },
+      "difficulty": {
+        "level": 3
       },
       "paid_only": false
     },
@@ -68,6 +112,17 @@
     },
     {
       "stat": {
+        "question__title": "Find X-Sum of All K-Long Subarrays II",
+        "question__title_slug": "find-x-sum-of-all-k-long-subarrays-ii",
+        "frontend_question_id": 3321
+      },
+      "difficulty": {
+        "level": 3
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
         "question__title": "Maximum Total Area Occupied by Pistons",
         "question__title_slug": "maximum-total-area-occupied-by-pistons",
         "frontend_question_id": 3279
@@ -76,6 +131,17 @@
         "level": 3
       },
       "paid_only": true
+    },
+    {
+      "stat": {
+        "question__title": "Count The Number of Winning Sequences",
+        "question__title_slug": "count-the-number-of-winning-sequences",
+        "frontend_question_id": 3320
+      },
+      "difficulty": {
+        "level": 3
+      },
+      "paid_only": false
     },
     {
       "stat": {
@@ -772,6 +838,17 @@
     },
     {
       "stat": {
+        "question__title": "K-th Largest Perfect Subtree Size in Binary Tree",
+        "question__title_slug": "k-th-largest-perfect-subtree-size-in-binary-tree",
+        "frontend_question_id": 3319
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
         "question__title": "Number of Bit Changes to Make Two Integers Equal",
         "question__title_slug": "number-of-bit-changes-to-make-two-integers-equal",
         "frontend_question_id": 3226
@@ -945,6 +1022,17 @@
         "level": 2
       },
       "paid_only": true
+    },
+    {
+      "stat": {
+        "question__title": "Find Maximum Removals From Source String",
+        "question__title_slug": "find-maximum-removals-from-source-string",
+        "frontend_question_id": 3316
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": false
     },
     {
       "stat": {
