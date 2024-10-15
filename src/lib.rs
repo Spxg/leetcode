@@ -521,6 +521,7 @@ pub mod problem_1281_subtract_the_product_and_sum_of_digits_of_an_integer;
 pub mod problem_1282_group_the_people_given_the_group_size_they_belong_to;
 pub mod problem_1288_remove_covered_intervals;
 pub mod problem_1291_sequential_digits;
+pub mod problem_1295_find_numbers_with_even_number_of_digits;
 pub mod problem_1302_deepest_leaves_sum;
 pub mod problem_1310_xor_queries_of_a_subarray;
 pub mod problem_1315_sum_of_nodes_with_even_valued_grandparent;
