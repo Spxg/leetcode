@@ -46,6 +46,17 @@
     },
     {
       "stat": {
+        "question__title": "Minimum Division Operations to Make Array Non Decreasing",
+        "question__title_slug": "minimum-division-operations-to-make-array-non-decreasing",
+        "frontend_question_id": 3326
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
         "question__title": "Minimum Element After Replacement With Digit Sum",
         "question__title_slug": "minimum-element-after-replacement-with-digit-sum",
         "frontend_question_id": 3300
@@ -71,6 +82,17 @@
         "question__title": "Find the Number of Possible Ways for an Event",
         "question__title_slug": "find-the-number-of-possible-ways-for-an-event",
         "frontend_question_id": 3317
+      },
+      "difficulty": {
+        "level": 3
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Check if DFS Strings Are Palindromes",
+        "question__title_slug": "check-if-dfs-strings-are-palindromes",
+        "frontend_question_id": 3327
       },
       "difficulty": {
         "level": 3
@@ -329,6 +351,28 @@
         "level": 1
       },
       "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Find the Sequence of Strings Appeared on the Screen",
+        "question__title_slug": "find-the-sequence-of-strings-appeared-on-the-screen",
+        "frontend_question_id": 3324
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Minimize Connected Groups by Inserting Interval",
+        "question__title_slug": "minimize-connected-groups-by-inserting-interval",
+        "frontend_question_id": 3323
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": true
     },
     {
       "stat": {
@@ -890,6 +934,17 @@
         "level": 2
       },
       "paid_only": true
+    },
+    {
+      "stat": {
+        "question__title": "Count Substrings With K-Frequency Characters I",
+        "question__title_slug": "count-substrings-with-k-frequency-characters-i",
+        "frontend_question_id": 3325
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": false
     },
     {
       "stat": {
