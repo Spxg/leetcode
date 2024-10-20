@@ -526,6 +526,7 @@ pub mod problem_1287_element_appearing_more_than_25_in_sorted_array;
 pub mod problem_1288_remove_covered_intervals;
 pub mod problem_1291_sequential_digits;
 pub mod problem_1295_find_numbers_with_even_number_of_digits;
+pub mod problem_1299_replace_elements_with_greatest_element_on_right_side;
 pub mod problem_1302_deepest_leaves_sum;
 pub mod problem_1310_xor_queries_of_a_subarray;
 pub mod problem_1315_sum_of_nodes_with_even_valued_grandparent;
