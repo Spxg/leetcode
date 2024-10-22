@@ -532,6 +532,7 @@ pub mod problem_1310_xor_queries_of_a_subarray;
 pub mod problem_1315_sum_of_nodes_with_even_valued_grandparent;
 pub mod problem_1324_print_words_vertically;
 pub mod problem_1325_delete_leaves_with_a_given_value;
+pub mod problem_1338_reduce_array_size_to_the_half;
 pub mod problem_2348_number_of_zero_filled_subarrays;
 
 #[cfg(test)]
