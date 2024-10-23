@@ -970,6 +970,17 @@
     },
     {
       "stat": {
+        "question__title": "Count Substrings With K-Frequency Characters II",
+        "question__title_slug": "count-substrings-with-k-frequency-characters-ii",
+        "frontend_question_id": 3329
+      },
+      "difficulty": {
+        "level": 3
+      },
+      "paid_only": true
+    },
+    {
+      "stat": {
         "question__title": "Minimum Array Changes to Make Differences Equal",
         "question__title_slug": "minimum-array-changes-to-make-differences-equal",
         "frontend_question_id": 3224
