@@ -535,6 +535,7 @@ pub mod problem_1325_delete_leaves_with_a_given_value;
 pub mod problem_1338_reduce_array_size_to_the_half;
 pub mod problem_1344_angle_between_hands_of_a_clock;
 pub mod problem_1357_apply_discount_every_n_orders;
+pub mod problem_1381_design_a_stack_with_increment_operation;
 pub mod problem_2348_number_of_zero_filled_subarrays;
 
 #[cfg(test)]
