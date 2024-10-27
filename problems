@@ -2,6 +2,28 @@
   "stat_status_pairs": [
     {
       "stat": {
+        "question__title": "Total Characters in String After Transformations II",
+        "question__title_slug": "total-characters-in-string-after-transformations-ii",
+        "frontend_question_id": 3337
+      },
+      "difficulty": {
+        "level": 3
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Total Characters in String After Transformations I",
+        "question__title_slug": "total-characters-in-string-after-transformations-i",
+        "frontend_question_id": 3335
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
         "question__title": "Sum of Consecutive Subsequences",
         "question__title_slug": "sum-of-consecutive-subsequences",
         "frontend_question_id": 3299
@@ -10,6 +32,28 @@
         "level": 3
       },
       "paid_only": true
+    },
+    {
+      "stat": {
+        "question__title": "Find the Original Typed String II",
+        "question__title_slug": "find-the-original-typed-string-ii",
+        "frontend_question_id": 3333
+      },
+      "difficulty": {
+        "level": 3
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Find the Original Typed String I",
+        "question__title_slug": "find-the-original-typed-string-i",
+        "frontend_question_id": 3330
+      },
+      "difficulty": {
+        "level": 1
+      },
+      "paid_only": false
     },
     {
       "stat": {
@@ -41,6 +85,17 @@
       },
       "difficulty": {
         "level": 1
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Find the Number of Subsequences With Equal GCD",
+        "question__title_slug": "find-the-number-of-subsequences-with-equal-gcd",
+        "frontend_question_id": 3336
+      },
+      "difficulty": {
+        "level": 3
       },
       "paid_only": false
     },
@@ -134,6 +189,17 @@
     },
     {
       "stat": {
+        "question__title": "Find the Maximum Factor Score of Array",
+        "question__title_slug": "find-the-maximum-factor-score-of-array",
+        "frontend_question_id": 3334
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
         "question__title": "Find X-Sum of All K-Long Subarrays II",
         "question__title_slug": "find-x-sum-of-all-k-long-subarrays-ii",
         "frontend_question_id": 3321
@@ -162,6 +228,17 @@
       },
       "difficulty": {
         "level": 3
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Maximum Points Tourist Can Earn",
+        "question__title_slug": "maximum-points-tourist-can-earn",
+        "frontend_question_id": 3332
+      },
+      "difficulty": {
+        "level": 2
       },
       "paid_only": false
     },
@@ -263,6 +340,17 @@
         "level": 1
       },
       "paid_only": true
+    },
+    {
+      "stat": {
+        "question__title": "Find Subtree Sizes After Changes",
+        "question__title_slug": "find-subtree-sizes-after-changes",
+        "frontend_question_id": 3331
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": false
     },
     {
       "stat": {
