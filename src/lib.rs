@@ -537,6 +537,7 @@ pub mod problem_1344_angle_between_hands_of_a_clock;
 pub mod problem_1357_apply_discount_every_n_orders;
 pub mod problem_1381_design_a_stack_with_increment_operation;
 pub mod problem_1387_sort_integers_by_the_power_value;
+pub mod problem_1433_check_if_a_string_can_break_another_string;
 pub mod problem_1441_build_an_array_with_stack_operations;
 pub mod problem_2348_number_of_zero_filled_subarrays;
 
