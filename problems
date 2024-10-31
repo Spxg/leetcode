@@ -68,6 +68,17 @@
     },
     {
       "stat": {
+        "question__title": "Find the Number of K-Even Arrays",
+        "question__title_slug": "find-the-number-of-k-even-arrays",
+        "frontend_question_id": 3339
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": true
+    },
+    {
+      "stat": {
         "question__title": "Construct the Minimum Bitwise Array II",
         "question__title_slug": "construct-the-minimum-bitwise-array-ii",
         "frontend_question_id": 3315
