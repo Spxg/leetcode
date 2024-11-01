@@ -542,6 +542,7 @@ pub mod problem_1433_check_if_a_string_can_break_another_string;
 pub mod problem_1441_build_an_array_with_stack_operations;
 pub mod problem_1447_simplified_fractions;
 pub mod problem_1448_count_good_nodes_in_binary_tree;
+pub mod problem_1472_design_browser_history;
 pub mod problem_2348_number_of_zero_filled_subarrays;
 
 #[cfg(test)]
