@@ -2,6 +2,28 @@
   "stat_status_pairs": [
     {
       "stat": {
+        "question__title": "Count Number of Balanced Permutations",
+        "question__title_slug": "count-number-of-balanced-permutations",
+        "frontend_question_id": 3343
+      },
+      "difficulty": {
+        "level": 3
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Check Balanced String",
+        "question__title_slug": "check-balanced-string",
+        "frontend_question_id": 3340
+      },
+      "difficulty": {
+        "level": 1
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
         "question__title": "Total Characters in String After Transformations II",
         "question__title_slug": "total-characters-in-string-after-transformations-ii",
         "frontend_question_id": 3337
@@ -16,6 +38,28 @@
         "question__title": "Total Characters in String After Transformations I",
         "question__title_slug": "total-characters-in-string-after-transformations-i",
         "frontend_question_id": 3335
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Find Minimum Time to Reach Last Room II",
+        "question__title_slug": "find-minimum-time-to-reach-last-room-ii",
+        "frontend_question_id": 3342
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Find Minimum Time to Reach Last Room I",
+        "question__title_slug": "find-minimum-time-to-reach-last-room-i",
+        "frontend_question_id": 3341
       },
       "difficulty": {
         "level": 2
