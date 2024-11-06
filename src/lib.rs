@@ -543,6 +543,7 @@ pub mod problem_1441_build_an_array_with_stack_operations;
 pub mod problem_1447_simplified_fractions;
 pub mod problem_1448_count_good_nodes_in_binary_tree;
 pub mod problem_1451_rearrange_words_in_a_sentence;
+pub mod problem_1452_people_whose_list_of_favorite_companies_is_not_a_subset_of_another_list;
 pub mod problem_1470_shuffle_the_array;
 pub mod problem_1472_design_browser_history;
 pub mod problem_1481_least_number_of_unique_integers_after_k_removals;
