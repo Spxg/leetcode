@@ -2,6 +2,17 @@
   "stat_status_pairs": [
     {
       "stat": {
+        "question__title": "Maximum Sized Array",
+        "question__title_slug": "maximum-sized-array",
+        "frontend_question_id": 3344
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": true
+    },
+    {
+      "stat": {
         "question__title": "Count Number of Balanced Permutations",
         "question__title_slug": "count-number-of-balanced-permutations",
         "frontend_question_id": 3343
