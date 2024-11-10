@@ -549,6 +549,7 @@ pub mod problem_1470_shuffle_the_array;
 pub mod problem_1472_design_browser_history;
 pub mod problem_1481_least_number_of_unique_integers_after_k_removals;
 pub mod problem_1487_making_file_names_unique;
+pub mod problem_1507_reformat_date;
 pub mod problem_1508_range_sum_of_sorted_subarray_sums;
 pub mod problem_1525_number_of_good_ways_to_split_a_string;
 pub mod problem_2348_number_of_zero_filled_subarrays;
