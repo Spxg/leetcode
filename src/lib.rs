@@ -553,6 +553,7 @@ pub mod problem_1487_making_file_names_unique;
 pub mod problem_1507_reformat_date;
 pub mod problem_1508_range_sum_of_sorted_subarray_sums;
 pub mod problem_1525_number_of_good_ways_to_split_a_string;
+pub mod problem_1545_find_kth_bit_in_nth_binary_string;
 pub mod problem_2348_number_of_zero_filled_subarrays;
 
 #[cfg(test)]
