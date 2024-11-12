@@ -13,6 +13,28 @@
     },
     {
       "stat": {
+        "question__title": "Sum of Good Subsequences",
+        "question__title_slug": "sum-of-good-subsequences",
+        "frontend_question_id": 3351
+      },
+      "difficulty": {
+        "level": 3
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Maximum Frequency of an Element After Performing Operations II",
+        "question__title_slug": "maximum-frequency-of-an-element-after-performing-operations-ii",
+        "frontend_question_id": 3347
+      },
+      "difficulty": {
+        "level": 3
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
         "question__title": "Count Number of Balanced Permutations",
         "question__title_slug": "count-number-of-balanced-permutations",
         "frontend_question_id": 3343
@@ -30,6 +52,28 @@
       },
       "difficulty": {
         "level": 1
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Smallest Divisible Digit Product II",
+        "question__title_slug": "smallest-divisible-digit-product-ii",
+        "frontend_question_id": 3348
+      },
+      "difficulty": {
+        "level": 3
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Count K-Reducible Numbers Less Than N",
+        "question__title_slug": "count-k-reducible-numbers-less-than-n",
+        "frontend_question_id": 3352
+      },
+      "difficulty": {
+        "level": 3
       },
       "paid_only": false
     },
@@ -79,6 +123,17 @@
     },
     {
       "stat": {
+        "question__title": "Smallest Divisible Digit Product I",
+        "question__title_slug": "smallest-divisible-digit-product-i",
+        "frontend_question_id": 3345
+      },
+      "difficulty": {
+        "level": 1
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
         "question__title": "Sum of Consecutive Subsequences",
         "question__title_slug": "sum-of-consecutive-subsequences",
         "frontend_question_id": 3299
@@ -87,6 +142,28 @@
         "level": 3
       },
       "paid_only": true
+    },
+    {
+      "stat": {
+        "question__title": "Maximum Frequency of an Element After Performing Operations I",
+        "question__title_slug": "maximum-frequency-of-an-element-after-performing-operations-i",
+        "frontend_question_id": 3346
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Adjacent Increasing Subarrays Detection II",
+        "question__title_slug": "adjacent-increasing-subarrays-detection-ii",
+        "frontend_question_id": 3350
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": false
     },
     {
       "stat": {
@@ -131,6 +208,17 @@
         "level": 2
       },
       "paid_only": true
+    },
+    {
+      "stat": {
+        "question__title": "Adjacent Increasing Subarrays Detection I",
+        "question__title_slug": "adjacent-increasing-subarrays-detection-i",
+        "frontend_question_id": 3349
+      },
+      "difficulty": {
+        "level": 1
+      },
+      "paid_only": false
     },
     {
       "stat": {
