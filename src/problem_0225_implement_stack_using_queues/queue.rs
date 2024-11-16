@@ -1,36 +1,34 @@
-pub struct Solution;
-
 use std::collections::VecDeque;
 
 struct MyStack {
-    quque: VecDeque<i32>,
+    queue: VecDeque<i32>,
 }
 
 impl MyStack {
     fn new() -> Self {
         Self {
-            quque: VecDeque::new(),
+            queue: VecDeque::new(),
         }
     }
 
     fn push(&mut self, x: i32) {
-        self.quque.push_back(x);
-        for _ in 1..self.quque.len() {
-            let back = self.quque.pop_front().unwrap();
-            self.quque.push_back(back);
+        self.queue.push_back(x);
+        for _ in 1..self.queue.len() {
+            let back = self.queue.pop_front().unwrap();
+            self.queue.push_back(back);
         }
     }
 
     fn pop(&mut self) -> i32 {
-        self.quque.pop_front().unwrap()
+        self.queue.pop_front().unwrap()
     }
 
     fn top(&self) -> i32 {
-        *self.quque.front().unwrap()
+        *self.queue.front().unwrap()
     }
 
     fn empty(&self) -> bool {
-        self.quque.is_empty()
+        self.queue.is_empty()
     }
 }
 
