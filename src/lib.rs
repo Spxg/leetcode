@@ -560,6 +560,7 @@ pub mod problem_1529_minimum_suffix_flips;
 pub mod problem_1545_find_kth_bit_in_nth_binary_string;
 pub mod problem_1561_maximum_number_of_coins_you_can_get;
 pub mod problem_1609_even_odd_tree;
+pub mod problem_1663_smallest_string_with_a_given_numeric_value;
 pub mod problem_2348_number_of_zero_filled_subarrays;
 
 #[cfg(test)]
