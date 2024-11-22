@@ -562,6 +562,7 @@ pub mod problem_1561_maximum_number_of_coins_you_can_get;
 pub mod problem_1609_even_odd_tree;
 pub mod problem_1663_smallest_string_with_a_given_numeric_value;
 pub mod problem_1664_ways_to_make_a_fair_array;
+pub mod problem_1695_maximum_erasure_value;
 pub mod problem_1701_average_waiting_time;
 pub mod problem_2348_number_of_zero_filled_subarrays;
 
