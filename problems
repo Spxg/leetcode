@@ -35,6 +35,17 @@
     },
     {
       "stat": {
+        "question__title": "Find Sorted Submatrices With Maximum Element at Most K",
+        "question__title_slug": "find-sorted-submatrices-with-maximum-element-at-most-k",
+        "frontend_question_id": 3359
+      },
+      "difficulty": {
+        "level": 3
+      },
+      "paid_only": true
+    },
+    {
+      "stat": {
         "question__title": "Sum of Good Subsequences",
         "question__title_slug": "sum-of-good-subsequences",
         "frontend_question_id": 3351
