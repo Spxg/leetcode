@@ -489,6 +489,7 @@ pub mod problem_1008_construct_binary_search_tree_from_preorder_traversal;
 pub mod problem_1009_complement_of_base_10_integer;
 pub mod problem_1010_pairs_of_songs_with_total_durations_divisible_by_60;
 pub mod problem_1018_binary_prefix_divisible_by_5;
+pub mod problem_1022_sum_of_root_to_leaf_binary_numbers;
 pub mod problem_1023_camelcase_matching;
 pub mod problem_1037_valid_boomerang;
 pub mod problem_1038_binary_search_tree_to_greater_sum_tree;
