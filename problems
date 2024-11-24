@@ -24,12 +24,34 @@
     },
     {
       "stat": {
+        "question__title": "Maximize Sum of Weights after Edge Removals",
+        "question__title_slug": "maximize-sum-of-weights-after-edge-removals",
+        "frontend_question_id": 3367
+      },
+      "difficulty": {
+        "level": 3
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
         "question__title": "Minimize the Maximum Adjacent Element Difference",
         "question__title_slug": "minimize-the-maximum-adjacent-element-difference",
         "frontend_question_id": 3357
       },
       "difficulty": {
         "level": 3
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Minimum Array Sum",
+        "question__title_slug": "minimum-array-sum",
+        "frontend_question_id": 3366
+      },
+      "difficulty": {
+        "level": 2
       },
       "paid_only": false
     },
@@ -46,12 +68,45 @@
     },
     {
       "stat": {
+        "question__title": "Find the Maximum Number of Fruits Collected",
+        "question__title_slug": "find-the-maximum-number-of-fruits-collected",
+        "frontend_question_id": 3363
+      },
+      "difficulty": {
+        "level": 3
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Zero Array Transformation III",
+        "question__title_slug": "zero-array-transformation-iii",
+        "frontend_question_id": 3362
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
         "question__title": "Sum of Good Subsequences",
         "question__title_slug": "sum-of-good-subsequences",
         "frontend_question_id": 3351
       },
       "difficulty": {
         "level": 3
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Minimum Positive Sum Subarray ",
+        "question__title_slug": "minimum-positive-sum-subarray",
+        "frontend_question_id": 3364
+      },
+      "difficulty": {
+        "level": 1
       },
       "paid_only": false
     },
@@ -181,6 +236,17 @@
         "question__title": "Smallest Divisible Digit Product I",
         "question__title_slug": "smallest-divisible-digit-product-i",
         "frontend_question_id": 3345
+      },
+      "difficulty": {
+        "level": 1
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Stone Removal Game",
+        "question__title_slug": "stone-removal-game",
+        "frontend_question_id": 3360
       },
       "difficulty": {
         "level": 1
@@ -409,6 +475,17 @@
     },
     {
       "stat": {
+        "question__title": "Rearrange K Substrings to Form Target String",
+        "question__title_slug": "rearrange-k-substrings-to-form-target-string",
+        "frontend_question_id": 3365
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
         "question__title": "Find the Maximum Factor Score of Array",
         "question__title_slug": "find-the-maximum-factor-score-of-array",
         "frontend_question_id": 3334
@@ -426,6 +503,17 @@
       },
       "difficulty": {
         "level": 3
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Shift Distance Between Two Strings",
+        "question__title_slug": "shift-distance-between-two-strings",
+        "frontend_question_id": 3361
+      },
+      "difficulty": {
+        "level": 2
       },
       "paid_only": false
     },
