@@ -543,6 +543,7 @@ pub mod problem_1375_number_of_times_binary_string_is_prefix_aligned;
 pub mod problem_1381_design_a_stack_with_increment_operation;
 pub mod problem_1387_sort_integers_by_the_power_value;
 pub mod problem_1390_four_divisors;
+pub mod problem_1396_design_underground_system;
 pub mod problem_1418_display_table_of_food_orders_in_a_restaurant;
 pub mod problem_1433_check_if_a_string_can_break_another_string;
 pub mod problem_1441_build_an_array_with_stack_operations;
