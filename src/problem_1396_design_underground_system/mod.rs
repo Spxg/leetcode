@@ -64,7 +64,7 @@ mod tests {
                                 end_station.to_string()
                             ),
                             expected,
-                        )
+                        );
                     }
                 }
             }
