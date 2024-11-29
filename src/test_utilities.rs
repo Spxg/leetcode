@@ -55,6 +55,7 @@ where
     }
 }
 
+#[allow(clippy::ref_option)]
 pub fn compare_tree(
     lhs: &Option<Rc<RefCell<TreeNode>>>,
     rhs: &Option<Rc<RefCell<TreeNode>>>,
@@ -78,6 +79,7 @@ pub fn compare_tree(
     inner(lhs.as_deref(), rhs.as_deref())
 }
 
+#[allow(clippy::ref_option)]
 pub fn find_node(root: &Option<Rc<RefCell<TreeNode>>>, val: i32) -> Option<Rc<RefCell<TreeNode>>> {
     root.as_ref().and_then(|root| {
         let root_ref = root.borrow();
@@ -138,6 +140,7 @@ where
     true
 }
 
+#[allow(clippy::ref_option)]
 pub fn iter_list(list: &Option<Box<ListNode>>) -> impl Iterator<Item = &i32> {
     iter::successors(list.as_deref(), |node| node.next.as_deref()).map(|node| &node.val)
 }
