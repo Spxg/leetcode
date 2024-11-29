@@ -2015,6 +2015,7 @@ mod tests {
         ],
     );
 
+    #[allow(clippy::too_many_lines)]
     pub fn run<M: AuthenticationManager>() {
         let test_cases = [
             (
