@@ -10,6 +10,7 @@ impl Solution {
         root1: Option<Rc<RefCell<TreeNode>>>,
         root2: Option<Rc<RefCell<TreeNode>>>,
     ) -> bool {
+        #[allow(clippy::ref_option)]
         fn helper(
             root1: &Option<Rc<RefCell<TreeNode>>>,
             root2: &Option<Rc<RefCell<TreeNode>>>,

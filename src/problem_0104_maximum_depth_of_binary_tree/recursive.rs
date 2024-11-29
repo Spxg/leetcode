@@ -7,6 +7,7 @@ use std::rc::Rc;
 
 impl Solution {
     pub fn max_depth(root: Option<Rc<RefCell<TreeNode>>>) -> i32 {
+        #[allow(clippy::ref_option)]
         fn helper(node: &Option<Rc<RefCell<TreeNode>>>, depth: i32) -> i32 {
             node.as_ref().map_or(depth, |node| {
                 helper(&node.borrow().left, depth + 1).max(helper(&node.borrow().right, depth + 1))

@@ -8,6 +8,7 @@ use std::rc::Rc;
 
 impl Solution {
     pub fn find_target(root: Option<Rc<RefCell<TreeNode>>>, k: i32) -> bool {
+        #[allow(clippy::ref_option)]
         fn helper(node: &Option<Rc<RefCell<TreeNode>>>, k: i32, set: &mut HashSet<i32>) -> bool {
             if let Some(node) = node {
                 let val = node.borrow().val;

@@ -6,6 +6,7 @@ use std::rc::Rc;
 
 impl Solution {
     pub fn largest_values(root: Option<Rc<RefCell<TreeNode>>>) -> Vec<i32> {
+        #[allow(clippy::ref_option)]
         fn helper(node: &Option<Rc<RefCell<TreeNode>>>, depth: usize, result: &mut Vec<i32>) {
             if let Some(node) = node {
                 let val = node.borrow().val;

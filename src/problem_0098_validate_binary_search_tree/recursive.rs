@@ -7,6 +7,7 @@ use std::rc::Rc;
 
 impl Solution {
     pub fn is_valid_bst(root: Option<Rc<RefCell<TreeNode>>>) -> bool {
+        #[allow(clippy::ref_option)]
         fn helper(node: &Option<Rc<RefCell<TreeNode>>>, last: &mut Option<i32>) -> bool {
             node.as_ref().map_or(true, |node| {
                 helper(&node.borrow().left, last)

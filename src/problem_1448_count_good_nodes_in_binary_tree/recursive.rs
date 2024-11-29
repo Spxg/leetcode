@@ -7,6 +7,7 @@ use std::rc::Rc;
 
 impl Solution {
     pub fn good_nodes(root: Option<Rc<RefCell<TreeNode>>>) -> i32 {
+        #[allow(clippy::ref_option)]
         fn helper(node: &Option<Rc<RefCell<TreeNode>>>, max: i32, result: &mut i32) {
             let Some(node) = node else { return };
             let val = node.borrow().val;

@@ -7,6 +7,7 @@ use std::rc::Rc;
 
 impl Solution {
     pub fn is_symmetric(root: Option<Rc<RefCell<TreeNode>>>) -> bool {
+        #[allow(clippy::ref_option)]
         fn helper(
             left: &Option<Rc<RefCell<TreeNode>>>,
             right: &Option<Rc<RefCell<TreeNode>>>,

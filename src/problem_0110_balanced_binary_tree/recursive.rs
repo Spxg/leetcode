@@ -7,6 +7,7 @@ use std::rc::Rc;
 
 impl Solution {
     pub fn is_balanced(root: Option<Rc<RefCell<TreeNode>>>) -> bool {
+        #[allow(clippy::ref_option)]
         fn helper(node: &Option<Rc<RefCell<TreeNode>>>) -> Option<i32> {
             if let Some(node) = node {
                 let left = helper(&node.borrow().left)?;

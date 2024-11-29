@@ -7,6 +7,7 @@ use std::rc::Rc;
 
 impl Solution {
     pub fn invert_tree(root: Option<Rc<RefCell<TreeNode>>>) -> Option<Rc<RefCell<TreeNode>>> {
+        #[allow(clippy::ref_option)]
         fn helper(root: &Option<Rc<RefCell<TreeNode>>>) {
             if let Some(node) = root {
                 helper(&node.borrow().left);

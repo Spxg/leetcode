@@ -26,7 +26,7 @@ impl Solution {
                     }
                 }
             }
-            if !result.is_some_and(|x| x.1 >= sum) {
+            if result.is_none_or(|x| x.1 < sum) {
                 result = Some((level, sum));
             }
             level += 1;

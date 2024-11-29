@@ -7,6 +7,7 @@ use std::rc::Rc;
 
 impl Solution {
     pub fn level_order_bottom(root: Option<Rc<RefCell<TreeNode>>>) -> Vec<Vec<i32>> {
+        #[allow(clippy::ref_option)]
         fn helpr(node: &Option<Rc<RefCell<TreeNode>>>, result: &mut Vec<Vec<i32>>, level: usize) {
             if let Some(node) = node {
                 if result.len() < level + 1 {

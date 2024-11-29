@@ -7,6 +7,7 @@ use std::rc::Rc;
 
 impl Solution {
     pub fn range_sum_bst(root: Option<Rc<RefCell<TreeNode>>>, low: i32, high: i32) -> i32 {
+        #[allow(clippy::ref_option)]
         fn helper(root: &Option<Rc<RefCell<TreeNode>>>, low: i32, high: i32) -> i32 {
             root.as_ref().map_or(0, |node| {
                 let val = node.borrow().val;

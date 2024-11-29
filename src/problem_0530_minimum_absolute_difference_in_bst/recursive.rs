@@ -7,6 +7,7 @@ use std::rc::Rc;
 
 impl Solution {
     pub fn get_minimum_difference(root: Option<Rc<RefCell<TreeNode>>>) -> i32 {
+        #[allow(clippy::ref_option)]
         fn helper(node: &Option<Rc<RefCell<TreeNode>>>, num: &mut Option<i32>, result: &mut i32) {
             if let Some(node) = node {
                 helper(&node.borrow().left, num, result);

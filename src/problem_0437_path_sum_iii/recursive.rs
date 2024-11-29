@@ -8,6 +8,7 @@ use std::rc::Rc;
 
 impl Solution {
     pub fn path_sum(root: Option<Rc<RefCell<TreeNode>>>, target_sum: i32) -> i32 {
+        #[allow(clippy::ref_option)]
         fn helper(
             root: &Option<Rc<RefCell<TreeNode>>>,
             sum: i64,

@@ -10,6 +10,7 @@ impl Solution {
         p: Option<Rc<RefCell<TreeNode>>>,
         q: Option<Rc<RefCell<TreeNode>>>,
     ) -> bool {
+        #[allow(clippy::ref_option)]
         fn helper(p: &Option<Rc<RefCell<TreeNode>>>, q: &Option<Rc<RefCell<TreeNode>>>) -> bool {
             match (p, q) {
                 (Some(p), Some(q)) if p.borrow().val == q.borrow().val => {

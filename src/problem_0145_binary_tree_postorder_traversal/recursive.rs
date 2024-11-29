@@ -7,6 +7,7 @@ use std::rc::Rc;
 
 impl Solution {
     pub fn postorder_traversal(root: Option<Rc<RefCell<TreeNode>>>) -> Vec<i32> {
+        #[allow(clippy::ref_option)]
         fn helper(root: &Option<Rc<RefCell<TreeNode>>>, result: &mut Vec<i32>) {
             if let Some(node) = root {
                 helper(&node.borrow().left, result);

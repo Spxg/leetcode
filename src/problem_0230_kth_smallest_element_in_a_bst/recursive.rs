@@ -7,6 +7,7 @@ use std::rc::Rc;
 
 impl Solution {
     pub fn kth_smallest(root: Option<Rc<RefCell<TreeNode>>>, k: i32) -> i32 {
+        #[allow(clippy::ref_option)]
         fn helper(node: &Option<Rc<RefCell<TreeNode>>>, result: &mut i32, k: i32, count: &mut i32) {
             if let Some(node) = node {
                 helper(&node.borrow().left, result, k, count);
