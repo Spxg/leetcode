@@ -345,6 +345,7 @@ pub mod problem_0481_magical_string;
 pub mod problem_0482_license_key_formatting;
 pub mod problem_0485_max_consecutive_ones;
 pub mod problem_0495_teemo_attacking;
+pub mod problem_0496_next_greater_element_i;
 pub mod problem_0498_diagonal_traverse;
 pub mod problem_0500_keyboard_row;
 pub mod problem_0502_ipo;
