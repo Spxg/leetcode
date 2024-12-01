@@ -429,6 +429,7 @@ pub mod problem_0819_most_common_word;
 pub mod problem_0821_shortest_distance_to_a_character;
 pub mod problem_0825_friends_of_appropriate_ages;
 pub mod problem_0826_most_profit_assigning_work;
+pub mod problem_0830_positions_of_large_groups;
 pub mod problem_0831_masking_personal_information;
 pub mod problem_0833_find_and_replace_in_string;
 pub mod problem_0841_keys_and_rooms;
