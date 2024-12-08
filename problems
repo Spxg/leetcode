@@ -2,6 +2,17 @@
   "stat_status_pairs": [
     {
       "stat": {
+        "question__title": "Minimum Runes to Add to Cast Spell",
+        "question__title_slug": "minimum-runes-to-add-to-cast-spell",
+        "frontend_question_id": 3383
+      },
+      "difficulty": {
+        "level": 3
+      },
+      "paid_only": true
+    },
+    {
+      "stat": {
         "question__title": "Design an Array Statistics Tracker ",
         "question__title_slug": "design-an-array-statistics-tracker",
         "frontend_question_id": 3369
@@ -21,6 +32,39 @@
         "level": 1
       },
       "paid_only": true
+    },
+    {
+      "stat": {
+        "question__title": "Maximum Area Rectangle With Point Constraints II",
+        "question__title_slug": "maximum-area-rectangle-with-point-constraints-ii",
+        "frontend_question_id": 3382
+      },
+      "difficulty": {
+        "level": 3
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Maximum Area Rectangle With Point Constraints I",
+        "question__title_slug": "maximum-area-rectangle-with-point-constraints-i",
+        "frontend_question_id": 3380
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Count Connected Components in LCM Graph",
+        "question__title_slug": "count-connected-components-in-lcm-graph",
+        "frontend_question_id": 3378
+      },
+      "difficulty": {
+        "level": 3
+      },
+      "paid_only": false
     },
     {
       "stat": {
@@ -68,9 +112,31 @@
     },
     {
       "stat": {
+        "question__title": "Digit Operations to Make Two Integers Equal",
+        "question__title_slug": "digit-operations-to-make-two-integers-equal",
+        "frontend_question_id": 3377
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
         "question__title": "Minimum Array Sum",
         "question__title_slug": "minimum-array-sum",
         "frontend_question_id": 3366
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Maximum Subarray Sum With Length Divisible by K",
+        "question__title_slug": "maximum-subarray-sum-with-length-divisible-by-k",
+        "frontend_question_id": 3381
       },
       "difficulty": {
         "level": 2
@@ -87,6 +153,28 @@
         "level": 3
       },
       "paid_only": true
+    },
+    {
+      "stat": {
+        "question__title": "Transformed Array",
+        "question__title_slug": "transformed-array",
+        "frontend_question_id": 3379
+      },
+      "difficulty": {
+        "level": 1
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Minimum Time to Break Locks I",
+        "question__title_slug": "minimum-time-to-break-locks-i",
+        "frontend_question_id": 3376
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": false
     },
     {
       "stat": {
@@ -316,6 +404,17 @@
       },
       "difficulty": {
         "level": 2
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Minimum Operations to Make Array Values Equal to K",
+        "question__title_slug": "minimum-operations-to-make-array-values-equal-to-k",
+        "frontend_question_id": 3375
+      },
+      "difficulty": {
+        "level": 1
       },
       "paid_only": false
     },
