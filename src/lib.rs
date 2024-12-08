@@ -533,6 +533,7 @@ pub mod problem_1291_sequential_digits;
 pub mod problem_1295_find_numbers_with_even_number_of_digits;
 pub mod problem_1299_replace_elements_with_greatest_element_on_right_side;
 pub mod problem_1302_deepest_leaves_sum;
+pub mod problem_1304_find_n_unique_integers_sum_up_to_zero;
 pub mod problem_1310_xor_queries_of_a_subarray;
 pub mod problem_1315_sum_of_nodes_with_even_valued_grandparent;
 pub mod problem_1324_print_words_vertically;
