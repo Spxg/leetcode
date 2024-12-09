@@ -578,6 +578,7 @@ pub mod problem_1695_maximum_erasure_value;
 pub mod problem_1701_average_waiting_time;
 pub mod problem_1717_maximum_score_from_removing_substrings;
 pub mod problem_1720_decode_xored_array;
+pub mod problem_1780_check_if_number_is_a_sum_of_powers_of_three;
 pub mod problem_1797_design_authentication_manager;
 pub mod problem_1807_evaluate_the_bracket_pairs_of_a_string;
 pub mod problem_2348_number_of_zero_filled_subarrays;
