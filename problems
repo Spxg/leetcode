@@ -35,6 +35,17 @@
     },
     {
       "stat": {
+        "question__title": "Minimum Time to Break Locks II",
+        "question__title_slug": "minimum-time-to-break-locks-ii",
+        "frontend_question_id": 3385
+      },
+      "difficulty": {
+        "level": 3
+      },
+      "paid_only": true
+    },
+    {
+      "stat": {
         "question__title": "Maximum Area Rectangle With Point Constraints II",
         "question__title_slug": "maximum-area-rectangle-with-point-constraints-ii",
         "frontend_question_id": 3382
