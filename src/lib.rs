@@ -547,6 +547,7 @@ pub mod problem_1375_number_of_times_binary_string_is_prefix_aligned;
 pub mod problem_1381_design_a_stack_with_increment_operation;
 pub mod problem_1387_sort_integers_by_the_power_value;
 pub mod problem_1390_four_divisors;
+pub mod problem_1395_count_number_of_teams;
 pub mod problem_1396_design_underground_system;
 pub mod problem_1405_longest_happy_string;
 pub mod problem_1417_reformat_the_string;
