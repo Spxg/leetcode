@@ -57,6 +57,17 @@
     },
     {
       "stat": {
+        "question__title": "Count Beautiful Splits in an Array",
+        "question__title_slug": "count-beautiful-splits-in-an-array",
+        "frontend_question_id": 3388
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
         "question__title": "Maximum Area Rectangle With Point Constraints I",
         "question__title_slug": "maximum-area-rectangle-with-point-constraints-i",
         "frontend_question_id": 3380
@@ -277,6 +288,17 @@
     },
     {
       "stat": {
+        "question__title": "Minimum Operations to Make Character Frequencies Equal",
+        "question__title_slug": "minimum-operations-to-make-character-frequencies-equal",
+        "frontend_question_id": 3389
+      },
+      "difficulty": {
+        "level": 3
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
         "question__title": "Count Number of Balanced Permutations",
         "question__title_slug": "count-number-of-balanced-permutations",
         "frontend_question_id": 3343
@@ -316,6 +338,17 @@
       },
       "difficulty": {
         "level": 2
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Button with Longest Push Time",
+        "question__title_slug": "button-with-longest-push-time",
+        "frontend_question_id": 3386
+      },
+      "difficulty": {
+        "level": 1
       },
       "paid_only": false
     },
@@ -494,6 +527,17 @@
         "level": 2
       },
       "paid_only": true
+    },
+    {
+      "stat": {
+        "question__title": "Maximize Amount After Two Days of Conversions",
+        "question__title_slug": "maximize-amount-after-two-days-of-conversions",
+        "frontend_question_id": 3387
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": false
     },
     {
       "stat": {
