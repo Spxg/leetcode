@@ -562,6 +562,7 @@ pub mod problem_1451_rearrange_words_in_a_sentence;
 pub mod problem_1452_people_whose_list_of_favorite_companies_is_not_a_subset_of_another_list;
 pub mod problem_1470_shuffle_the_array;
 pub mod problem_1472_design_browser_history;
+pub mod problem_1476_subrectangle_queries;
 pub mod problem_1481_least_number_of_unique_integers_after_k_removals;
 pub mod problem_1486_xor_operation_in_an_array;
 pub mod problem_1487_making_file_names_unique;
