@@ -552,6 +552,7 @@ pub mod problem_1390_four_divisors;
 pub mod problem_1395_count_number_of_teams;
 pub mod problem_1396_design_underground_system;
 pub mod problem_1405_longest_happy_string;
+pub mod problem_1409_queries_on_a_permutation_with_key;
 pub mod problem_1417_reformat_the_string;
 pub mod problem_1418_display_table_of_food_orders_in_a_restaurant;
 pub mod problem_1433_check_if_a_string_can_break_another_string;
