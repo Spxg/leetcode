@@ -568,6 +568,7 @@ pub mod problem_1476_subrectangle_queries;
 pub mod problem_1481_least_number_of_unique_integers_after_k_removals;
 pub mod problem_1486_xor_operation_in_an_array;
 pub mod problem_1487_making_file_names_unique;
+pub mod problem_1498_number_of_subsequences_that_satisfy_the_given_sum_condition;
 pub mod problem_1507_reformat_date;
 pub mod problem_1508_range_sum_of_sorted_subarray_sums;
 pub mod problem_1524_number_of_sub_arrays_with_odd_sum;
