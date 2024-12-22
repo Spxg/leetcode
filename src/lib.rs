@@ -546,6 +546,7 @@ pub mod problem_1338_reduce_array_size_to_the_half;
 pub mod problem_1344_angle_between_hands_of_a_clock;
 pub mod problem_1346_check_if_n_and_its_double_exist;
 pub mod problem_1357_apply_discount_every_n_orders;
+pub mod problem_1365_how_many_numbers_are_smaller_than_the_current_number;
 pub mod problem_1375_number_of_times_binary_string_is_prefix_aligned;
 pub mod problem_1381_design_a_stack_with_increment_operation;
 pub mod problem_1387_sort_integers_by_the_power_value;
