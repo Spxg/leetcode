@@ -35,6 +35,28 @@
     },
     {
       "stat": {
+        "question__title": "Smallest Substring With Identical Characters II",
+        "question__title_slug": "smallest-substring-with-identical-characters-ii",
+        "frontend_question_id": 3399
+      },
+      "difficulty": {
+        "level": 3
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Subsequences with a Unique Middle Mode I",
+        "question__title_slug": "subsequences-with-a-unique-middle-mode-i",
+        "frontend_question_id": 3395
+      },
+      "difficulty": {
+        "level": 3
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
         "question__title": "Minimum Total Operations",
         "question__title_slug": "minimum-total-operations",
         "frontend_question_id": 3353
@@ -57,6 +79,17 @@
     },
     {
       "stat": {
+        "question__title": "Smallest Substring With Identical Characters I",
+        "question__title_slug": "smallest-substring-with-identical-characters-i",
+        "frontend_question_id": 3398
+      },
+      "difficulty": {
+        "level": 3
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
         "question__title": "Maximum Area Rectangle With Point Constraints II",
         "question__title_slug": "maximum-area-rectangle-with-point-constraints-ii",
         "frontend_question_id": 3382
@@ -74,6 +107,17 @@
       },
       "difficulty": {
         "level": 2
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Count Subarrays of Length Three With a Condition",
+        "question__title_slug": "count-subarrays-of-length-three-with-a-condition",
+        "frontend_question_id": 3392
+      },
+      "difficulty": {
+        "level": 1
       },
       "paid_only": false
     },
@@ -134,12 +178,45 @@
     },
     {
       "stat": {
+        "question__title": "Count Paths With the Given XOR Value",
+        "question__title_slug": "count-paths-with-the-given-xor-value",
+        "frontend_question_id": 3393
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
         "question__title": "Minimize the Maximum Adjacent Element Difference",
         "question__title_slug": "minimize-the-maximum-adjacent-element-difference",
         "frontend_question_id": 3357
       },
       "difficulty": {
         "level": 3
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Check if Grid can be Cut into Sections",
+        "question__title_slug": "check-if-grid-can-be-cut-into-sections",
+        "frontend_question_id": 3394
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Minimum Number of Operations to Make Elements in Array Distinct",
+        "question__title_slug": "minimum-number-of-operations-to-make-elements-in-array-distinct",
+        "frontend_question_id": 3396
+      },
+      "difficulty": {
+        "level": 1
       },
       "paid_only": false
     },
@@ -470,6 +547,17 @@
       },
       "difficulty": {
         "level": 1
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Maximum Number of Distinct Elements After Operations",
+        "question__title_slug": "maximum-number-of-distinct-elements-after-operations",
+        "frontend_question_id": 3397
+      },
+      "difficulty": {
+        "level": 2
       },
       "paid_only": false
     },
