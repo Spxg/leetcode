@@ -541,6 +541,7 @@ pub mod problem_1317_convert_integer_to_the_sum_of_two_no_zero_integers;
 pub mod problem_1323_maximum_69_number;
 pub mod problem_1324_print_words_vertically;
 pub mod problem_1325_delete_leaves_with_a_given_value;
+pub mod problem_1331_rank_transform_of_an_array;
 pub mod problem_1333_filter_restaurants_by_vegan_friendly_price_and_distance;
 pub mod problem_1338_reduce_array_size_to_the_half;
 pub mod problem_1344_angle_between_hands_of_a_clock;
