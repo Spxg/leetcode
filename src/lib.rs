@@ -596,6 +596,7 @@ pub mod problem_1780_check_if_number_is_a_sum_of_powers_of_three;
 pub mod problem_1797_design_authentication_manager;
 pub mod problem_1798_maximum_number_of_consecutive_values_you_can_make;
 pub mod problem_1807_evaluate_the_bracket_pairs_of_a_string;
+pub mod problem_1817_finding_the_users_active_minutes;
 pub mod problem_1834_single_threaded_cpu;
 pub mod problem_2348_number_of_zero_filled_subarrays;
 
