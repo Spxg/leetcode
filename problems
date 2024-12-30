@@ -68,6 +68,17 @@
     },
     {
       "stat": {
+        "question__title": "Count Special Subsequences",
+        "question__title_slug": "count-special-subsequences",
+        "frontend_question_id": 3404
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
         "question__title": "Minimum Total Operations",
         "question__title_slug": "minimum-total-operations",
         "frontend_question_id": 3353
@@ -87,6 +98,17 @@
         "level": 3
       },
       "paid_only": true
+    },
+    {
+      "stat": {
+        "question__title": "Minimum Operations to Make Columns Strictly Increasing",
+        "question__title_slug": "minimum-operations-to-make-columns-strictly-increasing",
+        "frontend_question_id": 3402
+      },
+      "difficulty": {
+        "level": 1
+      },
+      "paid_only": false
     },
     {
       "stat": {
@@ -129,6 +151,28 @@
       },
       "difficulty": {
         "level": 1
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Find the Lexicographically Largest String From the Box I",
+        "question__title_slug": "find-the-lexicographically-largest-string-from-the-box-i",
+        "frontend_question_id": 3403
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Count the Number of Arrays with K Matching Adjacent Elements",
+        "question__title_slug": "count-the-number-of-arrays-with-k-matching-adjacent-elements",
+        "frontend_question_id": 3405
+      },
+      "difficulty": {
+        "level": 3
       },
       "paid_only": false
     },
