@@ -2,6 +2,17 @@
   "stat_status_pairs": [
     {
       "stat": {
+        "question__title": "Find the Lexicographically Largest String From the Box II",
+        "question__title_slug": "find-the-lexicographically-largest-string-from-the-box-ii",
+        "frontend_question_id": 3406
+      },
+      "difficulty": {
+        "level": 3
+      },
+      "paid_only": true
+    },
+    {
+      "stat": {
         "question__title": "Maximum Number of Matching Indices After Right Shifts",
         "question__title_slug": "maximum-number-of-matching-indices-after-right-shifts",
         "frontend_question_id": 3400
