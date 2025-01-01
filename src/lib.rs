@@ -593,6 +593,7 @@ pub mod problem_1685_sum_of_absolute_differences_in_a_sorted_array;
 pub mod problem_1688_count_of_matches_in_tournament;
 pub mod problem_1695_maximum_erasure_value;
 pub mod problem_1701_average_waiting_time;
+pub mod problem_1704_determine_if_string_halves_are_alike;
 pub mod problem_1717_maximum_score_from_removing_substrings;
 pub mod problem_1720_decode_xored_array;
 pub mod problem_1780_check_if_number_is_a_sum_of_powers_of_three;
