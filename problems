@@ -46,6 +46,28 @@
     },
     {
       "stat": {
+        "question__title": "Longest Subsequence With Decreasing Adjacent Difference",
+        "question__title_slug": "longest-subsequence-with-decreasing-adjacent-difference",
+        "frontend_question_id": 3409
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Maximum Coins From K Consecutive Bags",
+        "question__title_slug": "maximum-coins-from-k-consecutive-bags",
+        "frontend_question_id": 3413
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
         "question__title": "Design an Array Statistics Tracker ",
         "question__title_slug": "design-an-array-statistics-tracker",
         "frontend_question_id": 3369
@@ -63,6 +85,17 @@
       },
       "difficulty": {
         "level": 3
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Maximum Subarray With Equal Products",
+        "question__title_slug": "maximum-subarray-with-equal-products",
+        "frontend_question_id": 3411
+      },
+      "difficulty": {
+        "level": 1
       },
       "paid_only": false
     },
@@ -145,6 +178,17 @@
     },
     {
       "stat": {
+        "question__title": "Maximize Subarray Sum After Removing All Occurrences of One Element",
+        "question__title_slug": "maximize-subarray-sum-after-removing-all-occurrences-of-one-element",
+        "frontend_question_id": 3410
+      },
+      "difficulty": {
+        "level": 3
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
         "question__title": "Count Beautiful Splits in an Array",
         "question__title_slug": "count-beautiful-splits-in-an-array",
         "frontend_question_id": 3388
@@ -159,6 +203,17 @@
         "question__title": "Count Subarrays of Length Three With a Condition",
         "question__title_slug": "count-subarrays-of-length-three-with-a-condition",
         "frontend_question_id": 3392
+      },
+      "difficulty": {
+        "level": 1
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Substring Matching Pattern",
+        "question__title_slug": "substring-matching-pattern",
+        "frontend_question_id": 3407
       },
       "difficulty": {
         "level": 1
@@ -219,6 +274,17 @@
         "level": 2
       },
       "paid_only": true
+    },
+    {
+      "stat": {
+        "question__title": "Design Task Manager",
+        "question__title_slug": "design-task-manager",
+        "frontend_question_id": 3408
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": false
     },
     {
       "stat": {
@@ -481,6 +547,17 @@
       },
       "difficulty": {
         "level": 3
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Find Mirror Score of a String",
+        "question__title_slug": "find-mirror-score-of-a-string",
+        "frontend_question_id": 3412
+      },
+      "difficulty": {
+        "level": 2
       },
       "paid_only": false
     },
@@ -1149,6 +1226,17 @@
         "question__title": "Select Cells in Grid With Maximum Score",
         "question__title_slug": "select-cells-in-grid-with-maximum-score",
         "frontend_question_id": 3276
+      },
+      "difficulty": {
+        "level": 3
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Maximum Score of Non-overlapping Intervals",
+        "question__title_slug": "maximum-score-of-non-overlapping-intervals",
+        "frontend_question_id": 3414
       },
       "difficulty": {
         "level": 3
