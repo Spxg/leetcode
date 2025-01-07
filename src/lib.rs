@@ -609,6 +609,7 @@ pub mod problem_1832_check_if_the_sentence_is_pangram;
 pub mod problem_1834_single_threaded_cpu;
 pub mod problem_1844_replace_all_digits_with_characters;
 pub mod problem_1854_maximum_population_year;
+pub mod problem_1860_incremental_memory_leak;
 pub mod problem_2348_number_of_zero_filled_subarrays;
 
 #[cfg(test)]
