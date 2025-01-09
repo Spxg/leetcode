@@ -580,6 +580,7 @@ pub mod problem_1525_number_of_good_ways_to_split_a_string;
 pub mod problem_1528_shuffle_string;
 pub mod problem_1529_minimum_suffix_flips;
 pub mod problem_1545_find_kth_bit_in_nth_binary_string;
+pub mod problem_1551_minimum_operations_to_make_array_equal;
 pub mod problem_1561_maximum_number_of_coins_you_can_get;
 pub mod problem_1588_sum_of_all_odd_length_subarrays;
 pub mod problem_1598_crawler_log_folder;
