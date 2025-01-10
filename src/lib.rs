@@ -612,6 +612,7 @@ pub mod problem_1844_replace_all_digits_with_characters;
 pub mod problem_1854_maximum_population_year;
 pub mod problem_1860_incremental_memory_leak;
 pub mod problem_1903_largest_odd_number_in_string;
+pub mod problem_2108_find_first_palindromic_string_in_the_array;
 pub mod problem_2348_number_of_zero_filled_subarrays;
 
 #[cfg(test)]
