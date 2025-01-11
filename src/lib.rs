@@ -590,6 +590,7 @@ pub mod problem_1630_arithmetic_subarrays;
 pub mod problem_1636_sort_array_by_increasing_frequency;
 pub mod problem_1663_smallest_string_with_a_given_numeric_value;
 pub mod problem_1664_ways_to_make_a_fair_array;
+pub mod problem_1684_count_the_number_of_consistent_strings;
 pub mod problem_1685_sum_of_absolute_differences_in_a_sorted_array;
 pub mod problem_1688_count_of_matches_in_tournament;
 pub mod problem_1695_maximum_erasure_value;
