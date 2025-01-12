@@ -46,6 +46,17 @@
     },
     {
       "stat": {
+        "question__title": "Minimize the Maximum Edge Weight of Graph",
+        "question__title_slug": "minimize-the-maximum-edge-weight-of-graph",
+        "frontend_question_id": 3419
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
         "question__title": "Minimum Runes to Add to Cast Spell",
         "question__title_slug": "minimum-runes-to-add-to-cast-spell",
         "frontend_question_id": 3383
@@ -87,6 +98,17 @@
         "level": 3
       },
       "paid_only": true
+    },
+    {
+      "stat": {
+        "question__title": "Zigzag Grid Traversal With Skip",
+        "question__title_slug": "zigzag-grid-traversal-with-skip",
+        "frontend_question_id": 3417
+      },
+      "difficulty": {
+        "level": 1
+      },
+      "paid_only": false
     },
     {
       "stat": {
@@ -299,6 +321,17 @@
     },
     {
       "stat": {
+        "question__title": "Maximum Amount of Money Robot Can Earn",
+        "question__title_slug": "maximum-amount-of-money-robot-can-earn",
+        "frontend_question_id": 3418
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
         "question__title": "Smallest Number With All Set Bits",
         "question__title_slug": "smallest-number-with-all-set-bits",
         "frontend_question_id": 3370
@@ -313,6 +346,17 @@
         "question__title": "Maximize Sum of Weights after Edge Removals",
         "question__title_slug": "maximize-sum-of-weights-after-edge-removals",
         "frontend_question_id": 3367
+      },
+      "difficulty": {
+        "level": 3
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Count Non-Decreasing Subarrays After K Operations",
+        "question__title_slug": "count-non-decreasing-subarrays-after-k-operations",
+        "frontend_question_id": 3420
       },
       "difficulty": {
         "level": 3
