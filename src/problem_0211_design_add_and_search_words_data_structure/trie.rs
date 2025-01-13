@@ -31,7 +31,7 @@ impl WordDictionary {
                 } else {
                     dict.child[(first - b'a') as usize]
                         .as_ref()
-                        .map_or(false, |d| helper(d, rest))
+                        .is_some_and(|d| helper(d, rest))
                 }
             } else {
                 dict.end

@@ -4,7 +4,7 @@ impl Solution {
     pub fn rearrange_barcodes(barcodes: Vec<i32>) -> Vec<i32> {
         let mut result = Vec::with_capacity(barcodes.len());
 
-        let mut nums = [0; 10001];
+        let mut nums = vec![0; 10001].into_boxed_slice();
         let mut max_count = 0;
         for &barcode in &barcodes {
             nums[barcode as usize] += 1;

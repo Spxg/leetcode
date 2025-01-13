@@ -19,7 +19,7 @@ impl Solution {
             }
         }
 
-        root.map_or(false, |node| hepler(node, target_sum, 0))
+        root.is_some_and(|node| hepler(node, target_sum, 0))
     }
 }
 

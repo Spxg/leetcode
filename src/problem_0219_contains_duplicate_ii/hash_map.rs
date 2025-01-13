@@ -7,7 +7,7 @@ impl Solution {
         let mut map = HashMap::with_capacity(nums.len());
         nums.into_iter().enumerate().any(|(idx, val)| {
             map.insert(val, idx)
-                .map_or(false, |x| (idx - x) <= k as usize)
+                .is_some_and(|x| (idx - x) <= k as usize)
         })
     }
 }
