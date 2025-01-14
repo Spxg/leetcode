@@ -594,6 +594,7 @@ pub mod problem_1664_ways_to_make_a_fair_array;
 pub mod problem_1684_count_the_number_of_consistent_strings;
 pub mod problem_1685_sum_of_absolute_differences_in_a_sorted_array;
 pub mod problem_1688_count_of_matches_in_tournament;
+pub mod problem_1694_reformat_phone_number;
 pub mod problem_1695_maximum_erasure_value;
 pub mod problem_1701_average_waiting_time;
 pub mod problem_1704_determine_if_string_halves_are_alike;
