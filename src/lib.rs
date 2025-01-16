@@ -598,6 +598,7 @@ pub mod problem_1694_reformat_phone_number;
 pub mod problem_1695_maximum_erasure_value;
 pub mod problem_1701_average_waiting_time;
 pub mod problem_1704_determine_if_string_halves_are_alike;
+pub mod problem_1710_maximum_units_on_a_truck;
 pub mod problem_1717_maximum_score_from_removing_substrings;
 pub mod problem_1720_decode_xored_array;
 pub mod problem_1732_find_the_highest_altitude;
