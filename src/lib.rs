@@ -619,6 +619,7 @@ pub mod problem_1859_sorting_the_sentence;
 pub mod problem_1860_incremental_memory_leak;
 pub mod problem_1880_check_if_word_equals_summation_of_two_words;
 pub mod problem_1903_largest_odd_number_in_string;
+pub mod problem_1961_check_if_string_is_a_prefix_of_array;
 pub mod problem_1962_remove_stones_to_minimize_the_total;
 pub mod problem_2108_find_first_palindromic_string_in_the_array;
 pub mod problem_2348_number_of_zero_filled_subarrays;
