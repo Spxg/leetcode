@@ -24,6 +24,17 @@
     },
     {
       "stat": {
+        "question__title": "Maximum Difference Between Adjacent Elements in a Circular Array",
+        "question__title_slug": "maximum-difference-between-adjacent-elements-in-a-circular-array",
+        "frontend_question_id": 3423
+      },
+      "difficulty": {
+        "level": 1
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
         "question__title": "Maximum Number of Matching Indices After Right Shifts",
         "question__title_slug": "maximum-number-of-matching-indices-after-right-shifts",
         "frontend_question_id": 3400
@@ -35,6 +46,28 @@
     },
     {
       "stat": {
+        "question__title": "Manhattan Distances of All Arrangements of Pieces",
+        "question__title_slug": "manhattan-distances-of-all-arrangements-of-pieces",
+        "frontend_question_id": 3426
+      },
+      "difficulty": {
+        "level": 3
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Paint House IV",
+        "question__title_slug": "paint-house-iv",
+        "frontend_question_id": 3429
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
         "question__title": "Design a 3D Binary Matrix with Efficient Layer Tracking",
         "question__title_slug": "design-a-3d-binary-matrix-with-efficient-layer-tracking",
         "frontend_question_id": 3391
@@ -43,6 +76,28 @@
         "level": 2
       },
       "paid_only": true
+    },
+    {
+      "stat": {
+        "question__title": "Sum of Variable Length Subarrays",
+        "question__title_slug": "sum-of-variable-length-subarrays",
+        "frontend_question_id": 3427
+      },
+      "difficulty": {
+        "level": 1
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Maximum and Minimum Sums of at Most Size K Subarrays",
+        "question__title_slug": "maximum-and-minimum-sums-of-at-most-size-k-subarrays",
+        "frontend_question_id": 3430
+      },
+      "difficulty": {
+        "level": 3
+      },
+      "paid_only": false
     },
     {
       "stat": {
@@ -82,6 +137,28 @@
         "question__title": "Maximum Coins From K Consecutive Bags",
         "question__title_slug": "maximum-coins-from-k-consecutive-bags",
         "frontend_question_id": 3413
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Maximum and Minimum Sums of at Most Size K Subsequences",
+        "question__title_slug": "maximum-and-minimum-sums-of-at-most-size-k-subsequences",
+        "frontend_question_id": 3428
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Minimum Cost to Make Arrays Identical",
+        "question__title_slug": "minimum-cost-to-make-arrays-identical",
+        "frontend_question_id": 3424
       },
       "difficulty": {
         "level": 2
@@ -156,6 +233,17 @@
     },
     {
       "stat": {
+        "question__title": "Minimum Operations to Make Subarray Elements Equal",
+        "question__title_slug": "minimum-operations-to-make-subarray-elements-equal",
+        "frontend_question_id": 3422
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": true
+    },
+    {
+      "stat": {
         "question__title": "Minimum Total Operations",
         "question__title_slug": "minimum-total-operations",
         "frontend_question_id": 3353
@@ -214,6 +302,17 @@
         "question__title": "Maximize Subarray Sum After Removing All Occurrences of One Element",
         "question__title_slug": "maximize-subarray-sum-after-removing-all-occurrences-of-one-element",
         "frontend_question_id": 3410
+      },
+      "difficulty": {
+        "level": 3
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Longest Special Path",
+        "question__title_slug": "longest-special-path",
+        "frontend_question_id": 3425
       },
       "difficulty": {
         "level": 3
