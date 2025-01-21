@@ -603,6 +603,7 @@ pub mod problem_1717_maximum_score_from_removing_substrings;
 pub mod problem_1720_decode_xored_array;
 pub mod problem_1732_find_the_highest_altitude;
 pub mod problem_1748_sum_of_unique_elements;
+pub mod problem_1773_count_items_matching_a_rule;
 pub mod problem_1780_check_if_number_is_a_sum_of_powers_of_three;
 pub mod problem_1791_find_center_of_star_graph;
 pub mod problem_1797_design_authentication_manager;
