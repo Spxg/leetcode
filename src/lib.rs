@@ -588,6 +588,7 @@ pub mod problem_1600_throne_inheritance;
 pub mod problem_1609_even_odd_tree;
 pub mod problem_1630_arithmetic_subarrays;
 pub mod problem_1636_sort_array_by_increasing_frequency;
+pub mod problem_1656_design_an_ordered_stream;
 pub mod problem_1662_check_if_two_string_arrays_are_equivalent;
 pub mod problem_1663_smallest_string_with_a_given_numeric_value;
 pub mod problem_1664_ways_to_make_a_fair_array;
