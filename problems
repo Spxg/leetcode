@@ -24,6 +24,17 @@
     },
     {
       "stat": {
+        "question__title": "Maximum Frequency After Subarray Operation",
+        "question__title_slug": "maximum-frequency-after-subarray-operation",
+        "frontend_question_id": 3434
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
         "question__title": "Find the Lexicographically Largest String From the Box II",
         "question__title_slug": "find-the-lexicographically-largest-string-from-the-box-ii",
         "frontend_question_id": 3406
@@ -112,6 +123,17 @@
     },
     {
       "stat": {
+        "question__title": "Count Mentions Per User",
+        "question__title_slug": "count-mentions-per-user",
+        "frontend_question_id": 3433
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
         "question__title": "Minimize the Maximum Edge Weight of Graph",
         "question__title_slug": "minimize-the-maximum-edge-weight-of-graph",
         "frontend_question_id": 3419
@@ -167,6 +189,17 @@
     },
     {
       "stat": {
+        "question__title": "Frequencies of Shortest Supersequences",
+        "question__title_slug": "frequencies-of-shortest-supersequences",
+        "frontend_question_id": 3435
+      },
+      "difficulty": {
+        "level": 3
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
         "question__title": "Minimum Cost to Make Arrays Identical",
         "question__title_slug": "minimum-cost-to-make-arrays-identical",
         "frontend_question_id": 3424
@@ -206,6 +239,17 @@
       },
       "difficulty": {
         "level": 3
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Count Partitions with Even Sum Difference",
+        "question__title_slug": "count-partitions-with-even-sum-difference",
+        "frontend_question_id": 3432
+      },
+      "difficulty": {
+        "level": 1
       },
       "paid_only": false
     },
