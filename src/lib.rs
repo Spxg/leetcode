@@ -592,6 +592,7 @@ pub mod problem_1656_design_an_ordered_stream;
 pub mod problem_1662_check_if_two_string_arrays_are_equivalent;
 pub mod problem_1663_smallest_string_with_a_given_numeric_value;
 pub mod problem_1664_ways_to_make_a_fair_array;
+pub mod problem_1678_goal_parser_interpretation;
 pub mod problem_1684_count_the_number_of_consistent_strings;
 pub mod problem_1685_sum_of_absolute_differences_in_a_sorted_array;
 pub mod problem_1688_count_of_matches_in_tournament;
