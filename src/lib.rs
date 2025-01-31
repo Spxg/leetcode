@@ -413,6 +413,7 @@ pub mod problem_0739_daily_temperatures;
 pub mod problem_0744_find_smallest_letter_greater_than_target;
 pub mod problem_0748_shortest_completing_word;
 pub mod problem_0763_partition_labels;
+pub mod problem_0766_toeplitz_matrix;
 pub mod problem_0769_max_chunks_to_make_sorted;
 pub mod problem_0771_jewels_and_stones;
 pub mod problem_0779_k_th_symbol_in_grammar;
