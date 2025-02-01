@@ -503,6 +503,7 @@ pub mod problem_1046_last_stone_weight;
 pub mod problem_1051_height_checker;
 pub mod problem_1054_distant_barcodes;
 pub mod problem_1061_lexicographically_smallest_equivalent_string;
+pub mod problem_1078_occurrences_after_bigram;
 pub mod problem_1089_duplicate_zeros;
 pub mod problem_1090_largest_values_from_labels;
 pub mod problem_1093_statistics_from_a_large_sample;
