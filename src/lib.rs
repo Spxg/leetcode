@@ -452,6 +452,7 @@ pub mod problem_0890_find_and_replace_pattern;
 pub mod problem_0895_maximum_frequency_stack;
 pub mod problem_0896_monotonic_array;
 pub mod problem_0900_rle_iterator;
+pub mod problem_0905_sort_array_by_parity;
 pub mod problem_0915_partition_array_into_disjoint_intervals;
 pub mod problem_0916_word_subsets;
 pub mod problem_0917_reverse_only_letters;
