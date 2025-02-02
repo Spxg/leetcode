@@ -572,6 +572,7 @@ pub mod problem_1456_maximum_number_of_vowels_in_a_substring_of_given_length;
 pub mod problem_1470_shuffle_the_array;
 pub mod problem_1472_design_browser_history;
 pub mod problem_1476_subrectangle_queries;
+pub mod problem_1480_running_sum_of_1d_array;
 pub mod problem_1481_least_number_of_unique_integers_after_k_removals;
 pub mod problem_1486_xor_operation_in_an_array;
 pub mod problem_1487_making_file_names_unique;
