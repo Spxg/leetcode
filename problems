@@ -13,6 +13,17 @@
     },
     {
       "stat": {
+        "question__title": "Maximum Difference Between Even and Odd Frequency II",
+        "question__title_slug": "maximum-difference-between-even-and-odd-frequency-ii",
+        "frontend_question_id": 3445
+      },
+      "difficulty": {
+        "level": 3
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
         "question__title": "Minimum Unlocked Indices to Sort Nums",
         "question__title_slug": "minimum-unlocked-indices-to-sort-nums",
         "frontend_question_id": 3431
@@ -32,6 +43,28 @@
         "level": 3
       },
       "paid_only": true
+    },
+    {
+      "stat": {
+        "question__title": "Maximum Manhattan Distance After K Changes",
+        "question__title_slug": "maximum-manhattan-distance-after-k-changes",
+        "frontend_question_id": 3443
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Maximum Difference Between Even and Odd Frequency I",
+        "question__title_slug": "maximum-difference-between-even-and-odd-frequency-i",
+        "frontend_question_id": 3442
+      },
+      "difficulty": {
+        "level": 1
+      },
+      "paid_only": false
     },
     {
       "stat": {
@@ -68,6 +101,28 @@
     },
     {
       "stat": {
+        "question__title": "Reschedule Meetings for Maximum Free Time I",
+        "question__title_slug": "reschedule-meetings-for-maximum-free-time-i",
+        "frontend_question_id": 3439
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Reschedule Meetings for Maximum Free Time II",
+        "question__title_slug": "reschedule-meetings-for-maximum-free-time-ii",
+        "frontend_question_id": 3440
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
         "question__title": "Maximum Number of Matching Indices After Right Shifts",
         "question__title_slug": "maximum-number-of-matching-indices-after-right-shifts",
         "frontend_question_id": 3400
@@ -96,6 +151,17 @@
       },
       "difficulty": {
         "level": 2
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Find Valid Pair of Adjacent Digits in String",
+        "question__title_slug": "find-valid-pair-of-adjacent-digits-in-string",
+        "frontend_question_id": 3438
+      },
+      "difficulty": {
+        "level": 1
       },
       "paid_only": false
     },
@@ -277,6 +343,17 @@
     },
     {
       "stat": {
+        "question__title": "Minimum Cost Good Caption",
+        "question__title_slug": "minimum-cost-good-caption",
+        "frontend_question_id": 3441
+      },
+      "difficulty": {
+        "level": 3
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
         "question__title": "Subsequences with a Unique Middle Mode I",
         "question__title_slug": "subsequences-with-a-unique-middle-mode-i",
         "frontend_question_id": 3395
@@ -307,6 +384,17 @@
         "level": 2
       },
       "paid_only": true
+    },
+    {
+      "stat": {
+        "question__title": "Minimum Increments for Target Multiples in an Array",
+        "question__title_slug": "minimum-increments-for-target-multiples-in-an-array",
+        "frontend_question_id": 3444
+      },
+      "difficulty": {
+        "level": 3
+      },
+      "paid_only": false
     },
     {
       "stat": {
