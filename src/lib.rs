@@ -583,6 +583,7 @@ pub mod problem_1524_number_of_sub_arrays_with_odd_sum;
 pub mod problem_1525_number_of_good_ways_to_split_a_string;
 pub mod problem_1528_shuffle_string;
 pub mod problem_1529_minimum_suffix_flips;
+pub mod problem_1539_kth_missing_positive_number;
 pub mod problem_1545_find_kth_bit_in_nth_binary_string;
 pub mod problem_1551_minimum_operations_to_make_array_equal;
 pub mod problem_1561_maximum_number_of_coins_you_can_get;
