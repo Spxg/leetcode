@@ -7,8 +7,8 @@ impl Solution {
             nums[num as usize] = 1;
         }
         let mut n = 0;
-        for idx in 1..1001 {
-            if nums[idx] == 0 {
+        for (idx, &val) in nums.iter().enumerate().skip(1) {
+            if val == 0 {
                 n += 1;
                 if n == k {
                     return idx as i32;
