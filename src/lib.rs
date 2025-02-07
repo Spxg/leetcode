@@ -635,6 +635,7 @@ pub mod problem_1880_check_if_word_equals_summation_of_two_words;
 pub mod problem_1903_largest_odd_number_in_string;
 pub mod problem_1920_build_array_from_permutation;
 pub mod problem_1929_concatenation_of_array;
+pub mod problem_1935_maximum_number_of_words_you_can_type;
 pub mod problem_1961_check_if_string_is_a_prefix_of_array;
 pub mod problem_1962_remove_stones_to_minimize_the_total;
 pub mod problem_2032_two_out_of_three;
