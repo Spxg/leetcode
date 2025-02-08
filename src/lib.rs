@@ -638,6 +638,7 @@ pub mod problem_1929_concatenation_of_array;
 pub mod problem_1935_maximum_number_of_words_you_can_type;
 pub mod problem_1961_check_if_string_is_a_prefix_of_array;
 pub mod problem_1962_remove_stones_to_minimize_the_total;
+pub mod problem_2000_reverse_prefix_of_word;
 pub mod problem_2032_two_out_of_three;
 pub mod problem_2108_find_first_palindromic_string_in_the_array;
 pub mod problem_2138_divide_a_string_into_groups_of_size_k;
