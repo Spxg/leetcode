@@ -636,6 +636,7 @@ pub mod problem_1903_largest_odd_number_in_string;
 pub mod problem_1920_build_array_from_permutation;
 pub mod problem_1929_concatenation_of_array;
 pub mod problem_1935_maximum_number_of_words_you_can_type;
+pub mod problem_1945_sum_of_digits_of_string_after_convert;
 pub mod problem_1961_check_if_string_is_a_prefix_of_array;
 pub mod problem_1962_remove_stones_to_minimize_the_total;
 pub mod problem_2000_reverse_prefix_of_word;
