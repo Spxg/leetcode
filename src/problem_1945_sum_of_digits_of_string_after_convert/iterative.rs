@@ -5,10 +5,10 @@ impl Solution {
         let mut total = 0;
         for num in s.bytes() {
             total += if num.is_ascii_digit() {
-                num as i32
+                i32::from(num)
             } else {
                 let num = num - b'a' + 1;
-                ((num / 10) + (num % 10)) as i32
+                i32::from((num / 10) + (num % 10))
             };
         }
 
