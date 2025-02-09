@@ -13,12 +13,34 @@
     },
     {
       "stat": {
+        "question__title": "Maximize the Minimum Game Score",
+        "question__title_slug": "maximize-the-minimum-game-score",
+        "frontend_question_id": 3449
+      },
+      "difficulty": {
+        "level": 3
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
         "question__title": "Maximum Difference Between Even and Odd Frequency II",
         "question__title_slug": "maximum-difference-between-even-and-odd-frequency-ii",
         "frontend_question_id": 3445
       },
       "difficulty": {
         "level": 3
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Assign Elements to Groups with Constraints",
+        "question__title_slug": "assign-elements-to-groups-with-constraints",
+        "frontend_question_id": 3447
+      },
+      "difficulty": {
+        "level": 2
       },
       "paid_only": false
     },
@@ -87,6 +109,17 @@
         "level": 3
       },
       "paid_only": true
+    },
+    {
+      "stat": {
+        "question__title": "Sort Matrix by Diagonals",
+        "question__title_slug": "sort-matrix-by-diagonals",
+        "frontend_question_id": 3446
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": false
     },
     {
       "stat": {
@@ -390,6 +423,17 @@
         "question__title": "Minimum Increments for Target Multiples in an Array",
         "question__title_slug": "minimum-increments-for-target-multiples-in-an-array",
         "frontend_question_id": 3444
+      },
+      "difficulty": {
+        "level": 3
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Count Substrings Divisible By Last Digit",
+        "question__title_slug": "count-substrings-divisible-by-last-digit",
+        "frontend_question_id": 3448
       },
       "difficulty": {
         "level": 3
