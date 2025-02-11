@@ -2,6 +2,17 @@
   "stat_status_pairs": [
     {
       "stat": {
+        "question__title": "Maximum Students on a Single Bench",
+        "question__title_slug": "maximum-students-on-a-single-bench",
+        "frontend_question_id": 3450
+      },
+      "difficulty": {
+        "level": 1
+      },
+      "paid_only": true
+    },
+    {
+      "stat": {
         "question__title": "Permutations III",
         "question__title_slug": "permutations-iii",
         "frontend_question_id": 3437
