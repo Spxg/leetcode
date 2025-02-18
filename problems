@@ -2,6 +2,17 @@
   "stat_status_pairs": [
     {
       "stat": {
+        "question__title": "Longest Common Prefix After at Most One Removal",
+        "question__title_slug": "longest-common-prefix-after-at-most-one-removal",
+        "frontend_question_id": 3460
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": true
+    },
+    {
+      "stat": {
         "question__title": "Maximum Students on a Single Bench",
         "question__title_slug": "maximum-students-on-a-single-bench",
         "frontend_question_id": 3450
@@ -21,6 +32,50 @@
         "level": 2
       },
       "paid_only": true
+    },
+    {
+      "stat": {
+        "question__title": "Eat Pizzas!",
+        "question__title_slug": "eat-pizzas",
+        "frontend_question_id": 3457
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Separate Squares II",
+        "question__title_slug": "separate-squares-ii",
+        "frontend_question_id": 3454
+      },
+      "difficulty": {
+        "level": 3
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Select K Disjoint Special Substrings",
+        "question__title_slug": "select-k-disjoint-special-substrings",
+        "frontend_question_id": 3458
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Separate Squares I",
+        "question__title_slug": "separate-squares-i",
+        "frontend_question_id": 3453
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": false
     },
     {
       "stat": {
@@ -222,6 +277,17 @@
     },
     {
       "stat": {
+        "question__title": "Length of Longest V-Shaped Diagonal Segment",
+        "question__title_slug": "length-of-longest-v-shaped-diagonal-segment",
+        "frontend_question_id": 3459
+      },
+      "difficulty": {
+        "level": 3
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
         "question__title": "Sum of Variable Length Subarrays",
         "question__title_slug": "sum-of-variable-length-subarrays",
         "frontend_question_id": 3427
@@ -239,6 +305,17 @@
       },
       "difficulty": {
         "level": 3
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Sum of Good Numbers",
+        "question__title_slug": "sum-of-good-numbers",
+        "frontend_question_id": 3452
+      },
+      "difficulty": {
+        "level": 1
       },
       "paid_only": false
     },
@@ -340,6 +417,17 @@
         "level": 3
       },
       "paid_only": true
+    },
+    {
+      "stat": {
+        "question__title": "Find Special Substring of Length K",
+        "question__title_slug": "find-special-substring-of-length-k",
+        "frontend_question_id": 3456
+      },
+      "difficulty": {
+        "level": 1
+      },
+      "paid_only": false
     },
     {
       "stat": {
@@ -472,6 +560,17 @@
         "level": 3
       },
       "paid_only": true
+    },
+    {
+      "stat": {
+        "question__title": "Shortest Matching Substring",
+        "question__title_slug": "shortest-matching-substring",
+        "frontend_question_id": 3455
+      },
+      "difficulty": {
+        "level": 3
+      },
+      "paid_only": false
     },
     {
       "stat": {
