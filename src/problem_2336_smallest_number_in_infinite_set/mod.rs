@@ -815,7 +815,7 @@ mod tests {
             for operation in operations {
                 match *operation {
                     Operation::PopSmallest(expected) => {
-                        assert_eq!(smallest_infinite_set.pop_smallest(), expected)
+                        assert_eq!(smallest_infinite_set.pop_smallest(), expected);
                     }
                     Operation::AddBack(num) => smallest_infinite_set.add_back(num),
                 }
