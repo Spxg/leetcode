@@ -647,6 +647,7 @@ pub mod problem_2032_two_out_of_three;
 pub mod problem_2085_count_common_words_with_one_occurrence;
 pub mod problem_2108_find_first_palindromic_string_in_the_array;
 pub mod problem_2138_divide_a_string_into_groups_of_size_k;
+pub mod problem_2191_sort_the_jumbled_numbers;
 pub mod problem_2206_divide_array_into_equal_pairs;
 pub mod problem_2336_smallest_number_in_infinite_set;
 pub mod problem_2348_number_of_zero_filled_subarrays;
