@@ -2,6 +2,1447 @@
   "stat_status_pairs": [
     {
       "stat": {
+        "question__title": "Sort Threats by Severity and Exploitability",
+        "question__title_slug": "sort-threats-by-severity-and-exploitability",
+        "frontend_question_id": 3631
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": true
+    },
+    {
+      "stat": {
+        "question__title": "Earliest Finish Time for Land and Water Rides II",
+        "question__title_slug": "earliest-finish-time-for-land-and-water-rides-ii",
+        "frontend_question_id": 3635
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Earliest Finish Time for Land and Water Rides I",
+        "question__title_slug": "earliest-finish-time-for-land-and-water-rides-i",
+        "frontend_question_id": 3633
+      },
+      "difficulty": {
+        "level": 1
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Number of Student Replacements",
+        "question__title_slug": "number-of-student-replacements",
+        "frontend_question_id": 3616
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": true
+    },
+    {
+      "stat": {
+        "question__title": "Minimum Removals to Balance Array",
+        "question__title_slug": "minimum-removals-to-balance-array",
+        "frontend_question_id": 3634
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Trionic Array II",
+        "question__title_slug": "trionic-array-ii",
+        "frontend_question_id": 3640
+      },
+      "difficulty": {
+        "level": 3
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Threshold Majority Queries",
+        "question__title_slug": "threshold-majority-queries",
+        "frontend_question_id": 3636
+      },
+      "difficulty": {
+        "level": 3
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Maximum Balanced Shipments",
+        "question__title_slug": "maximum-balanced-shipments",
+        "frontend_question_id": 3638
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Trionic Array I",
+        "question__title_slug": "trionic-array-i",
+        "frontend_question_id": 3637
+      },
+      "difficulty": {
+        "level": 1
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Minimum Number of Primes to Sum to Target",
+        "question__title_slug": "minimum-number-of-primes-to-sum-to-target",
+        "frontend_question_id": 3610
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": true
+    },
+    {
+      "stat": {
+        "question__title": "Maximum Number of Subsequences After One Inserting",
+        "question__title_slug": "maximum-number-of-subsequences-after-one-inserting",
+        "frontend_question_id": 3628
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Minimum Time to Activate String",
+        "question__title_slug": "minimum-time-to-activate-string",
+        "frontend_question_id": 3639
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Number of Integers With Popcount-Depth Equal to K II",
+        "question__title_slug": "number-of-integers-with-popcount-depth-equal-to-k-ii",
+        "frontend_question_id": 3624
+      },
+      "difficulty": {
+        "level": 3
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Process String with Special Operations II",
+        "question__title_slug": "process-string-with-special-operations-ii",
+        "frontend_question_id": 3614
+      },
+      "difficulty": {
+        "level": 3
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Number of Integers With Popcount-Depth Equal to K I",
+        "question__title_slug": "number-of-integers-with-popcount-depth-equal-to-k-i",
+        "frontend_question_id": 3621
+      },
+      "difficulty": {
+        "level": 3
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Split Array by Prime Indices",
+        "question__title_slug": "split-array-by-prime-indices",
+        "frontend_question_id": 3618
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Once Twice",
+        "question__title_slug": "once-twice",
+        "frontend_question_id": 3595
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": true
+    },
+    {
+      "stat": {
+        "question__title": "Coupon Code Validator",
+        "question__title_slug": "coupon-code-validator",
+        "frontend_question_id": 3606
+      },
+      "difficulty": {
+        "level": 1
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Minimum Jumps to Reach End via Prime Teleportation",
+        "question__title_slug": "minimum-jumps-to-reach-end-via-prime-teleportation",
+        "frontend_question_id": 3629
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Process String with Special Operations I",
+        "question__title_slug": "process-string-with-special-operations-i",
+        "frontend_question_id": 3612
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Longest Palindromic Path in Graph",
+        "question__title_slug": "longest-palindromic-path-in-graph",
+        "frontend_question_id": 3615
+      },
+      "difficulty": {
+        "level": 3
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Subarrays with XOR at Least K",
+        "question__title_slug": "subarrays-with-xor-at-least-k",
+        "frontend_question_id": 3632
+      },
+      "difficulty": {
+        "level": 3
+      },
+      "paid_only": true
+    },
+    {
+      "stat": {
+        "question__title": "Minimum Cost Path with Alternating Directions II",
+        "question__title_slug": "minimum-cost-path-with-alternating-directions-ii",
+        "frontend_question_id": 3603
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Minimum Cost Path with Alternating Directions I",
+        "question__title_slug": "minimum-cost-path-with-alternating-directions-i",
+        "frontend_question_id": 3596
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": true
+    },
+    {
+      "stat": {
+        "question__title": "Count Odd Letters from Number",
+        "question__title_slug": "count-odd-letters-from-number",
+        "frontend_question_id": 3581
+      },
+      "difficulty": {
+        "level": 1
+      },
+      "paid_only": true
+    },
+    {
+      "stat": {
+        "question__title": "Minimum Moves to Reach Target in Grid",
+        "question__title_slug": "minimum-moves-to-reach-target-in-grid",
+        "frontend_question_id": 3609
+      },
+      "difficulty": {
+        "level": 3
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Minimum Stability Factor of Array",
+        "question__title_slug": "minimum-stability-factor-of-array",
+        "frontend_question_id": 3605
+      },
+      "difficulty": {
+        "level": 3
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Network Recovery Pathways",
+        "question__title_slug": "network-recovery-pathways",
+        "frontend_question_id": 3620
+      },
+      "difficulty": {
+        "level": 3
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Check Divisibility by Digit Sum and Product",
+        "question__title_slug": "check-divisibility-by-digit-sum-and-product",
+        "frontend_question_id": 3622
+      },
+      "difficulty": {
+        "level": 1
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Minimum Time to Reach Destination in Directed Graph",
+        "question__title_slug": "minimum-time-to-reach-destination-in-directed-graph",
+        "frontend_question_id": 3604
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Check if Any Element Has Prime Frequency",
+        "question__title_slug": "check-if-any-element-has-prime-frequency",
+        "frontend_question_id": 3591
+      },
+      "difficulty": {
+        "level": 1
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Partition Array to Minimize XOR",
+        "question__title_slug": "partition-array-to-minimize-xor",
+        "frontend_question_id": 3599
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Hexadecimal and Hexatrigesimal Conversion",
+        "question__title_slug": "hexadecimal-and-hexatrigesimal-conversion",
+        "frontend_question_id": 3602
+      },
+      "difficulty": {
+        "level": 1
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Find the Shortest Superstring II",
+        "question__title_slug": "find-the-shortest-superstring-ii",
+        "frontend_question_id": 3571
+      },
+      "difficulty": {
+        "level": 1
+      },
+      "paid_only": true
+    },
+    {
+      "stat": {
+        "question__title": "Minimum Increments to Equalize Leaf Paths",
+        "question__title_slug": "minimum-increments-to-equalize-leaf-paths",
+        "frontend_question_id": 3593
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Minimum Time for K Connected Components",
+        "question__title_slug": "minimum-time-for-k-connected-components",
+        "frontend_question_id": 3608
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Count Prime-Gap Balanced Subarrays",
+        "question__title_slug": "count-prime-gap-balanced-subarrays",
+        "frontend_question_id": 3589
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Kth Smallest Path XOR Sum",
+        "question__title_slug": "kth-smallest-path-xor-sum",
+        "frontend_question_id": 3590
+      },
+      "difficulty": {
+        "level": 3
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Partition String ",
+        "question__title_slug": "partition-string",
+        "frontend_question_id": 3597
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Minimum Adjacent Swaps to Alternate Parity",
+        "question__title_slug": "minimum-adjacent-swaps-to-alternate-parity",
+        "frontend_question_id": 3587
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Inverse Coin Change",
+        "question__title_slug": "inverse-coin-change",
+        "frontend_question_id": 3592
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Maximize Spanning Tree Stability with Upgrades",
+        "question__title_slug": "maximize-spanning-tree-stability-with-upgrades",
+        "frontend_question_id": 3600
+      },
+      "difficulty": {
+        "level": 3
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Find Weighted Median Node in Tree",
+        "question__title_slug": "find-weighted-median-node-in-tree",
+        "frontend_question_id": 3585
+      },
+      "difficulty": {
+        "level": 3
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Sequential Grid Path Cover",
+        "question__title_slug": "sequential-grid-path-cover",
+        "frontend_question_id": 3565
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": true
+    },
+    {
+      "stat": {
+        "question__title": "Count Number of Trapezoids II",
+        "question__title_slug": "count-number-of-trapezoids-ii",
+        "frontend_question_id": 3625
+      },
+      "difficulty": {
+        "level": 3
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Minimum Time to Transport All Individuals",
+        "question__title_slug": "minimum-time-to-transport-all-individuals",
+        "frontend_question_id": 3594
+      },
+      "difficulty": {
+        "level": 3
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Maximize Y‑Sum by Picking a Triplet of Distinct X‑Values",
+        "question__title_slug": "maximize-ysum-by-picking-a-triplet-of-distinct-xvalues",
+        "frontend_question_id": 3572
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Generate Tag for Video Caption",
+        "question__title_slug": "generate-tag-for-video-caption",
+        "frontend_question_id": 3582
+      },
+      "difficulty": {
+        "level": 1
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Best Time to Buy and Sell Stock V",
+        "question__title_slug": "best-time-to-buy-and-sell-stock-v",
+        "frontend_question_id": 3573
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Smallest Subarray to Sort in Every Sliding Window",
+        "question__title_slug": "smallest-subarray-to-sort-in-every-sliding-window",
+        "frontend_question_id": 3555
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": true
+    },
+    {
+      "stat": {
+        "question__title": "Maximize Subarray GCD Score",
+        "question__title_slug": "maximize-subarray-gcd-score",
+        "frontend_question_id": 3574
+      },
+      "difficulty": {
+        "level": 3
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Count Number of Trapezoids I",
+        "question__title_slug": "count-number-of-trapezoids-i",
+        "frontend_question_id": 3623
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Count Special Triplets",
+        "question__title_slug": "count-special-triplets",
+        "frontend_question_id": 3583
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Minimum Absolute Difference in Sliding Submatrix",
+        "question__title_slug": "minimum-absolute-difference-in-sliding-submatrix",
+        "frontend_question_id": 3567
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Multiply Two Polynomials",
+        "question__title_slug": "multiply-two-polynomials",
+        "frontend_question_id": 3549
+      },
+      "difficulty": {
+        "level": 3
+      },
+      "paid_only": true
+    },
+    {
+      "stat": {
+        "question__title": "Partition Array for Maximum XOR and AND",
+        "question__title_slug": "partition-array-for-maximum-xor-and-and",
+        "frontend_question_id": 3630
+      },
+      "difficulty": {
+        "level": 3
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Minimize Maximum Component Cost",
+        "question__title_slug": "minimize-maximum-component-cost",
+        "frontend_question_id": 3613
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Minimum Time to Visit All Houses",
+        "question__title_slug": "minimum-time-to-visit-all-houses",
+        "frontend_question_id": 3540
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": true
+    },
+    {
+      "stat": {
+        "question__title": "Find Minimum Log Transportation Cost",
+        "question__title_slug": "find-minimum-log-transportation-cost",
+        "frontend_question_id": 3560
+      },
+      "difficulty": {
+        "level": 1
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Maximize Count of Distinct Primes After Split",
+        "question__title_slug": "maximize-count-of-distinct-primes-after-split",
+        "frontend_question_id": 3569
+      },
+      "difficulty": {
+        "level": 3
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Transform Array to All Equal Elements",
+        "question__title_slug": "transform-array-to-all-equal-elements",
+        "frontend_question_id": 3576
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Maximum Good Subtree Score",
+        "question__title_slug": "maximum-good-subtree-score",
+        "frontend_question_id": 3575
+      },
+      "difficulty": {
+        "level": 3
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Find Most Frequent Vowel and Consonant",
+        "question__title_slug": "find-most-frequent-vowel-and-consonant",
+        "frontend_question_id": 3541
+      },
+      "difficulty": {
+        "level": 1
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Minimum Deletions for At Most K Distinct Characters",
+        "question__title_slug": "minimum-deletions-for-at-most-k-distinct-characters",
+        "frontend_question_id": 3545
+      },
+      "difficulty": {
+        "level": 1
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Minimum Moves to Clean the Classroom",
+        "question__title_slug": "minimum-moves-to-clean-the-classroom",
+        "frontend_question_id": 3568
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Smallest Index With Digit Sum Equal to Index",
+        "question__title_slug": "smallest-index-with-digit-sum-equal-to-index",
+        "frontend_question_id": 3550
+      },
+      "difficulty": {
+        "level": 1
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Find Maximum Area of a Triangle",
+        "question__title_slug": "find-maximum-area-of-a-triangle",
+        "frontend_question_id": 3588
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Lexicographically Smallest String After Adjacent Removals",
+        "question__title_slug": "lexicographically-smallest-string-after-adjacent-removals",
+        "frontend_question_id": 3563
+      },
+      "difficulty": {
+        "level": 3
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Minimum Steps to Convert String with Operations",
+        "question__title_slug": "minimum-steps-to-convert-string-with-operations",
+        "frontend_question_id": 3579
+      },
+      "difficulty": {
+        "level": 3
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Count the Number of Computer Unlocking Permutations",
+        "question__title_slug": "count-the-number-of-computer-unlocking-permutations",
+        "frontend_question_id": 3577
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Power Grid Maintenance",
+        "question__title_slug": "power-grid-maintenance",
+        "frontend_question_id": 3607
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Range XOR Queries with Subarray Reversals",
+        "question__title_slug": "range-xor-queries-with-subarray-reversals",
+        "frontend_question_id": 3526
+      },
+      "difficulty": {
+        "level": 3
+      },
+      "paid_only": true
+    },
+    {
+      "stat": {
+        "question__title": "Minimum Threshold for Inversion Pairs Count",
+        "question__title_slug": "minimum-threshold-for-inversion-pairs-count",
+        "frontend_question_id": 3520
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": true
+    },
+    {
+      "stat": {
+        "question__title": "Resulting String After Adjacent Removals",
+        "question__title_slug": "resulting-string-after-adjacent-removals",
+        "frontend_question_id": 3561
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Maximum Product of Two Digits",
+        "question__title_slug": "maximum-product-of-two-digits",
+        "frontend_question_id": 3536
+      },
+      "difficulty": {
+        "level": 1
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Subtree Inversion Sum",
+        "question__title_slug": "subtree-inversion-sum",
+        "frontend_question_id": 3544
+      },
+      "difficulty": {
+        "level": 3
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Find Maximum Number of Non Intersecting Substrings",
+        "question__title_slug": "find-maximum-number-of-non-intersecting-substrings",
+        "frontend_question_id": 3557
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Maximum Weighted K-Edge Path",
+        "question__title_slug": "maximum-weighted-k-edge-path",
+        "frontend_question_id": 3543
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Make a Positive Array",
+        "question__title_slug": "make-a-positive-array",
+        "frontend_question_id": 3511
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": true
+    },
+    {
+      "stat": {
+        "question__title": "Maximum Profit from Trading Stocks with Discounts",
+        "question__title_slug": "maximum-profit-from-trading-stocks-with-discounts",
+        "frontend_question_id": 3562
+      },
+      "difficulty": {
+        "level": 3
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Minimum Weighted Subgraph With the Required Paths II",
+        "question__title_slug": "minimum-weighted-subgraph-with-the-required-paths-ii",
+        "frontend_question_id": 3553
+      },
+      "difficulty": {
+        "level": 3
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Path Existence Queries in a Graph II",
+        "question__title_slug": "path-existence-queries-in-a-graph-ii",
+        "frontend_question_id": 3534
+      },
+      "difficulty": {
+        "level": 3
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Find Sum of Array Product of Magical Sequences",
+        "question__title_slug": "find-sum-of-array-product-of-magical-sequences",
+        "frontend_question_id": 3539
+      },
+      "difficulty": {
+        "level": 3
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Equal Sum Grid Partition II",
+        "question__title_slug": "equal-sum-grid-partition-ii",
+        "frontend_question_id": 3548
+      },
+      "difficulty": {
+        "level": 3
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Equal Sum Grid Partition I",
+        "question__title_slug": "equal-sum-grid-partition-i",
+        "frontend_question_id": 3546
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Minimum Swaps to Sort by Digit Sum",
+        "question__title_slug": "minimum-swaps-to-sort-by-digit-sum",
+        "frontend_question_id": 3551
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Minimum Operations to Make Array Sum Divisible by K",
+        "question__title_slug": "minimum-operations-to-make-array-sum-divisible-by-k",
+        "frontend_question_id": 3512
+      },
+      "difficulty": {
+        "level": 1
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Maximum Sum of Edge Values in a Graph",
+        "question__title_slug": "maximum-sum-of-edge-values-in-a-graph",
+        "frontend_question_id": 3547
+      },
+      "difficulty": {
+        "level": 3
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Number of Ways to Assign Edge Weights I",
+        "question__title_slug": "number-of-ways-to-assign-edge-weights-i",
+        "frontend_question_id": 3558
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Partition Array into Two Equal Product Subsets",
+        "question__title_slug": "partition-array-into-two-equal-product-subsets",
+        "frontend_question_id": 3566
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Number of Ways to Assign Edge Weights II",
+        "question__title_slug": "number-of-ways-to-assign-edge-weights-ii",
+        "frontend_question_id": 3559
+      },
+      "difficulty": {
+        "level": 3
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Concatenated Divisibility",
+        "question__title_slug": "concatenated-divisibility",
+        "frontend_question_id": 3533
+      },
+      "difficulty": {
+        "level": 3
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Find X Value of Array II",
+        "question__title_slug": "find-x-value-of-array-ii",
+        "frontend_question_id": 3525
+      },
+      "difficulty": {
+        "level": 3
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Maximize Score After Pair Deletions",
+        "question__title_slug": "maximize-score-after-pair-deletions",
+        "frontend_question_id": 3496
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": true
+    },
+    {
+      "stat": {
+        "question__title": "Path Existence Queries in a Graph I",
+        "question__title_slug": "path-existence-queries-in-a-graph-i",
+        "frontend_question_id": 3532
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Grid Teleportation Traversal",
+        "question__title_slug": "grid-teleportation-traversal",
+        "frontend_question_id": 3552
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Phone Number Prefix",
+        "question__title_slug": "phone-number-prefix",
+        "frontend_question_id": 3491
+      },
+      "difficulty": {
+        "level": 1
+      },
+      "paid_only": true
+    },
+    {
+      "stat": {
+        "question__title": "Count Partitions With Max-Min Difference at Most K",
+        "question__title_slug": "count-partitions-with-max-min-difference-at-most-k",
+        "frontend_question_id": 3578
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Minimum Operations to Convert All Elements to Zero",
+        "question__title_slug": "minimum-operations-to-convert-all-elements-to-zero",
+        "frontend_question_id": 3542
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Merge Operations for Minimum Travel Time",
+        "question__title_slug": "merge-operations-for-minimum-travel-time",
+        "frontend_question_id": 3538
+      },
+      "difficulty": {
+        "level": 3
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Minimum Cost to Reach Every Position",
+        "question__title_slug": "minimum-cost-to-reach-every-position",
+        "frontend_question_id": 3502
+      },
+      "difficulty": {
+        "level": 1
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Find X Value of Array I",
+        "question__title_slug": "find-x-value-of-array-i",
+        "frontend_question_id": 3524
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Find Closest Person",
+        "question__title_slug": "find-closest-person",
+        "frontend_question_id": 3516
+      },
+      "difficulty": {
+        "level": 1
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Shortest Path in a Weighted Tree",
+        "question__title_slug": "shortest-path-in-a-weighted-tree",
+        "frontend_question_id": 3515
+      },
+      "difficulty": {
+        "level": 3
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Implement Router",
+        "question__title_slug": "implement-router",
+        "frontend_question_id": 3508
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Maximum Profit from Valid Topological Order in DAG",
+        "question__title_slug": "maximum-profit-from-valid-topological-order-in-dag",
+        "frontend_question_id": 3530
+      },
+      "difficulty": {
+        "level": 3
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Apply Substitutions",
+        "question__title_slug": "apply-substitutions",
+        "frontend_question_id": 3481
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": true
+    },
+    {
+      "stat": {
+        "question__title": "Number of Unique XOR Triplets I",
+        "question__title_slug": "number-of-unique-xor-triplets-i",
+        "frontend_question_id": 3513
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Count Islands With Total Value Divisible by K",
+        "question__title_slug": "count-islands-with-total-value-divisible-by-k",
+        "frontend_question_id": 3619
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Fill a Special Grid",
+        "question__title_slug": "fill-a-special-grid",
+        "frontend_question_id": 3537
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Count Cells in Overlapping Horizontal and Vertical Substrings",
+        "question__title_slug": "count-cells-in-overlapping-horizontal-and-vertical-substrings",
+        "frontend_question_id": 3529
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Number of Unique XOR Triplets II",
+        "question__title_slug": "number-of-unique-xor-triplets-ii",
+        "frontend_question_id": 3514
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Count Covered Buildings",
+        "question__title_slug": "count-covered-buildings",
+        "frontend_question_id": 3531
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Maximize Profit from Task Assignment",
+        "question__title_slug": "maximize-profit-from-task-assignment",
+        "frontend_question_id": 3476
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": true
+    },
+    {
+      "stat": {
+        "question__title": "Maximum Containers on a Ship",
+        "question__title_slug": "maximum-containers-on-a-ship",
+        "frontend_question_id": 3492
+      },
+      "difficulty": {
+        "level": 1
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Sum of Largest Prime Substrings",
+        "question__title_slug": "sum-of-largest-prime-substrings",
+        "frontend_question_id": 3556
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Find Time Required to Eliminate Bacterial Strains",
+        "question__title_slug": "find-time-required-to-eliminate-bacterial-strains",
+        "frontend_question_id": 3506
+      },
+      "difficulty": {
+        "level": 3
+      },
+      "paid_only": true
+    },
+    {
+      "stat": {
+        "question__title": "Smallest Palindromic Rearrangement II",
+        "question__title_slug": "smallest-palindromic-rearrangement-ii",
+        "frontend_question_id": 3518
+      },
+      "difficulty": {
+        "level": 3
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Smallest Palindromic Rearrangement I",
+        "question__title_slug": "smallest-palindromic-rearrangement-i",
+        "frontend_question_id": 3517
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Reverse Degree of a String",
+        "question__title_slug": "reverse-degree-of-a-string",
+        "frontend_question_id": 3498
+      },
+      "difficulty": {
+        "level": 1
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Count Numbers with Non-Decreasing Digits ",
+        "question__title_slug": "count-numbers-with-non-decreasing-digits",
+        "frontend_question_id": 3519
+      },
+      "difficulty": {
+        "level": 3
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Properties Graph",
+        "question__title_slug": "properties-graph",
+        "frontend_question_id": 3493
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Longest Palindrome After Substring Concatenation II",
+        "question__title_slug": "longest-palindrome-after-substring-concatenation-ii",
+        "frontend_question_id": 3504
+      },
+      "difficulty": {
+        "level": 3
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Maximum Coin Collection ",
+        "question__title_slug": "maximum-coin-collection",
+        "frontend_question_id": 3466
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": true
+    },
+    {
+      "stat": {
+        "question__title": "Maximize Active Section with Trade I",
+        "question__title_slug": "maximize-active-section-with-trade-i",
+        "frontend_question_id": 3499
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Maximize Active Section with Trade II",
+        "question__title_slug": "maximize-active-section-with-trade-ii",
+        "frontend_question_id": 3501
+      },
+      "difficulty": {
+        "level": 3
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Count Beautiful Numbers",
+        "question__title_slug": "count-beautiful-numbers",
+        "frontend_question_id": 3490
+      },
+      "difficulty": {
+        "level": 3
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Longest Common Prefix Between Adjacent Strings After Removals",
+        "question__title_slug": "longest-common-prefix-between-adjacent-strings-after-removals",
+        "frontend_question_id": 3598
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Unique 3-Digit Even Numbers",
+        "question__title_slug": "unique-3-digit-even-numbers",
+        "frontend_question_id": 3483
+      },
+      "difficulty": {
+        "level": 1
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Longest Special Path II",
+        "question__title_slug": "longest-special-path-ii",
+        "frontend_question_id": 3486
+      },
+      "difficulty": {
+        "level": 3
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Design Spreadsheet",
+        "question__title_slug": "design-spreadsheet",
+        "frontend_question_id": 3484
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
         "question__title": "Longest Common Prefix After at Most One Removal",
         "question__title_slug": "longest-common-prefix-after-at-most-one-removal",
         "frontend_question_id": 3460
@@ -13,6 +1454,83 @@
     },
     {
       "stat": {
+        "question__title": "Zero Array Transformation IV",
+        "question__title_slug": "zero-array-transformation-iv",
+        "frontend_question_id": 3489
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Find the Minimum Amount of Time to Brew Potions",
+        "question__title_slug": "find-the-minimum-amount-of-time-to-brew-potions",
+        "frontend_question_id": 3494
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Longest Palindrome After Substring Concatenation I",
+        "question__title_slug": "longest-palindrome-after-substring-concatenation-i",
+        "frontend_question_id": 3503
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Fruits Into Baskets III",
+        "question__title_slug": "fruits-into-baskets-iii",
+        "frontend_question_id": 3479
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Fruits Into Baskets II",
+        "question__title_slug": "fruits-into-baskets-ii",
+        "frontend_question_id": 3477
+      },
+      "difficulty": {
+        "level": 1
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Maximize Subarrays After Removing One Conflicting Pair",
+        "question__title_slug": "maximize-subarrays-after-removing-one-conflicting-pair",
+        "frontend_question_id": 3480
+      },
+      "difficulty": {
+        "level": 3
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Maximum Unique Subarray Sum After Deletion",
+        "question__title_slug": "maximum-unique-subarray-sum-after-deletion",
+        "frontend_question_id": 3487
+      },
+      "difficulty": {
+        "level": 1
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
         "question__title": "Maximum Students on a Single Bench",
         "question__title_slug": "maximum-students-on-a-single-bench",
         "frontend_question_id": 3450
@@ -21,6 +1539,61 @@
         "level": 1
       },
       "paid_only": true
+    },
+    {
+      "stat": {
+        "question__title": "Longest Palindromic Subsequence After at Most K Operations",
+        "question__title_slug": "longest-palindromic-subsequence-after-at-most-k-operations",
+        "frontend_question_id": 3472
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Find the Number of Copy Arrays",
+        "question__title_slug": "find-the-number-of-copy-arrays",
+        "frontend_question_id": 3468
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Longest Common Prefix of K Strings After Removal",
+        "question__title_slug": "longest-common-prefix-of-k-strings-after-removal",
+        "frontend_question_id": 3485
+      },
+      "difficulty": {
+        "level": 3
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Permutations IV",
+        "question__title_slug": "permutations-iv",
+        "frontend_question_id": 3470
+      },
+      "difficulty": {
+        "level": 3
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Maximize the Distance Between Points on a Square",
+        "question__title_slug": "maximize-the-distance-between-points-on-a-square",
+        "frontend_question_id": 3464
+      },
+      "difficulty": {
+        "level": 3
+      },
+      "paid_only": false
     },
     {
       "stat": {
@@ -46,6 +1619,39 @@
     },
     {
       "stat": {
+        "question__title": "Transform Array by Parity",
+        "question__title_slug": "transform-array-by-parity",
+        "frontend_question_id": 3467
+      },
+      "difficulty": {
+        "level": 1
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Maximum Product of Subsequences With an Alternating Sum Equal to K",
+        "question__title_slug": "maximum-product-of-subsequences-with-an-alternating-sum-equal-to-k",
+        "frontend_question_id": 3509
+      },
+      "difficulty": {
+        "level": 3
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Find Minimum Cost to Remove Array Elements",
+        "question__title_slug": "find-minimum-cost-to-remove-array-elements",
+        "frontend_question_id": 3469
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
         "question__title": "Separate Squares II",
         "question__title_slug": "separate-squares-ii",
         "frontend_question_id": 3454
@@ -57,9 +1663,97 @@
     },
     {
       "stat": {
+        "question__title": "Check If Digits Are Equal in String After Operations II",
+        "question__title_slug": "check-if-digits-are-equal-in-string-after-operations-ii",
+        "frontend_question_id": 3463
+      },
+      "difficulty": {
+        "level": 3
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Minimum Pair Removal to Sort Array I",
+        "question__title_slug": "minimum-pair-removal-to-sort-array-i",
+        "frontend_question_id": 3507
+      },
+      "difficulty": {
+        "level": 1
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Minimum Pair Removal to Sort Array II",
+        "question__title_slug": "minimum-pair-removal-to-sort-array-ii",
+        "frontend_question_id": 3510
+      },
+      "difficulty": {
+        "level": 3
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
         "question__title": "Select K Disjoint Special Substrings",
         "question__title_slug": "select-k-disjoint-special-substrings",
         "frontend_question_id": 3458
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Lexicographically Smallest Generated String",
+        "question__title_slug": "lexicographically-smallest-generated-string",
+        "frontend_question_id": 3474
+      },
+      "difficulty": {
+        "level": 3
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Check If Digits Are Equal in String After Operations I",
+        "question__title_slug": "check-if-digits-are-equal-in-string-after-operations-i",
+        "frontend_question_id": 3461
+      },
+      "difficulty": {
+        "level": 1
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Maximum Median Sum of Subsequences of Size 3",
+        "question__title_slug": "maximum-median-sum-of-subsequences-of-size-3",
+        "frontend_question_id": 3627
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Minimum Cost to Divide Array Into Subarrays",
+        "question__title_slug": "minimum-cost-to-divide-array-into-subarrays",
+        "frontend_question_id": 3500
+      },
+      "difficulty": {
+        "level": 3
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Maximum Sum With at Most K Elements",
+        "question__title_slug": "maximum-sum-with-at-most-k-elements",
+        "frontend_question_id": 3462
       },
       "difficulty": {
         "level": 2
@@ -112,6 +1806,17 @@
     },
     {
       "stat": {
+        "question__title": "Choose K Elements With Maximum Sum",
+        "question__title_slug": "choose-k-elements-with-maximum-sum",
+        "frontend_question_id": 3478
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
         "question__title": "Minimum Unlocked Indices to Sort Nums",
         "question__title_slug": "minimum-unlocked-indices-to-sort-nums",
         "frontend_question_id": 3431
@@ -131,6 +1836,17 @@
         "level": 3
       },
       "paid_only": true
+    },
+    {
+      "stat": {
+        "question__title": "Maximum Product of First and Last Elements of a Subsequence",
+        "question__title_slug": "maximum-product-of-first-and-last-elements-of-a-subsequence",
+        "frontend_question_id": 3584
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": false
     },
     {
       "stat": {
@@ -156,9 +1872,31 @@
     },
     {
       "stat": {
+        "question__title": "Unit Conversion II",
+        "question__title_slug": "unit-conversion-ii",
+        "frontend_question_id": 3535
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": true
+    },
+    {
+      "stat": {
         "question__title": "Maximum Frequency After Subarray Operation",
         "question__title_slug": "maximum-frequency-after-subarray-operation",
         "frontend_question_id": 3434
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Closest Equal Element Queries",
+        "question__title_slug": "closest-equal-element-queries",
+        "frontend_question_id": 3488
       },
       "difficulty": {
         "level": 2
@@ -195,6 +1933,17 @@
       },
       "difficulty": {
         "level": 1
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Minimum Operations to Make Array Elements Zero",
+        "question__title_slug": "minimum-operations-to-make-array-elements-zero",
+        "frontend_question_id": 3495
+      },
+      "difficulty": {
+        "level": 3
       },
       "paid_only": false
     },
@@ -244,6 +1993,17 @@
     },
     {
       "stat": {
+        "question__title": "Make Array Non-decreasing",
+        "question__title_slug": "make-array-non-decreasing",
+        "frontend_question_id": 3523
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
         "question__title": "Paint House IV",
         "question__title_slug": "paint-house-iv",
         "frontend_question_id": 3429
@@ -288,12 +2048,34 @@
     },
     {
       "stat": {
+        "question__title": "Calculate Score After Performing Instructions",
+        "question__title_slug": "calculate-score-after-performing-instructions",
+        "frontend_question_id": 3522
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
         "question__title": "Sum of Variable Length Subarrays",
         "question__title_slug": "sum-of-variable-length-subarrays",
         "frontend_question_id": 3427
       },
       "difficulty": {
         "level": 1
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Unit Conversion I",
+        "question__title_slug": "unit-conversion-i",
+        "frontend_question_id": 3528
+      },
+      "difficulty": {
+        "level": 2
       },
       "paid_only": false
     },
@@ -316,6 +2098,17 @@
       },
       "difficulty": {
         "level": 1
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Sum of K Subarrays With Length at Least M",
+        "question__title_slug": "sum-of-k-subarrays-with-length-at-least-m",
+        "frontend_question_id": 3473
+      },
+      "difficulty": {
+        "level": 2
       },
       "paid_only": false
     },
@@ -351,6 +2144,17 @@
         "level": 3
       },
       "paid_only": true
+    },
+    {
+      "stat": {
+        "question__title": "Minimum Operations to Make Elements Within K Subarrays Equal",
+        "question__title_slug": "minimum-operations-to-make-elements-within-k-subarrays-equal",
+        "frontend_question_id": 3505
+      },
+      "difficulty": {
+        "level": 3
+      },
+      "paid_only": false
     },
     {
       "stat": {
@@ -442,12 +2246,34 @@
     },
     {
       "stat": {
+        "question__title": "Find the Most Common Response",
+        "question__title_slug": "find-the-most-common-response",
+        "frontend_question_id": 3527
+      },
+      "difficulty": {
+        "level": 2
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
         "question__title": "Smallest Substring With Identical Characters II",
         "question__title_slug": "smallest-substring-with-identical-characters-ii",
         "frontend_question_id": 3399
       },
       "difficulty": {
         "level": 3
+      },
+      "paid_only": false
+    },
+    {
+      "stat": {
+        "question__title": "Find the Largest Almost Missing Integer",
+        "question__title_slug": "find-the-largest-almost-missing-integer",
+        "frontend_question_id": 3471
+      },
+      "difficulty": {
+        "level": 1
       },
       "paid_only": false
     },
