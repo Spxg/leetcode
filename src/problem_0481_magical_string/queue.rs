@@ -15,7 +15,7 @@ impl Solution {
             }
             count += x;
             prev = 1 + i32::from(prev == 1);
-            queue.extend(std::iter::repeat(prev).take(x as usize));
+            queue.extend(std::iter::repeat_n(prev, x as usize));
             result += if count > n { 1 } else { x } * i32::from(prev == 1);
         }
 

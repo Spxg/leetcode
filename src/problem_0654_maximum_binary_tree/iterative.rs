@@ -33,7 +33,7 @@ impl Solution {
                         left,
                         right: None,
                     }));
-                };
+                }
             };
             stack.push(node);
         }

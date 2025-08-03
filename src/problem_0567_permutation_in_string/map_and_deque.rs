@@ -26,7 +26,7 @@ impl Solution {
                     }
                     *map.entry(val).or_insert(0) += 1;
                 }
-            };
+            }
         }
 
         false

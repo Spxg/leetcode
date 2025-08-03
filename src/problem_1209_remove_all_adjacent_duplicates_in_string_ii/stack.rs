@@ -17,7 +17,7 @@ impl Solution {
         }
         stack
             .into_iter()
-            .flat_map(|(ch, count)| std::iter::repeat(ch).take(count as usize))
+            .flat_map(|(ch, count)| std::iter::repeat_n(ch, count as usize))
             .collect()
     }
 }

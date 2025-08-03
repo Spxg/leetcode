@@ -5,7 +5,7 @@ impl Solution {
         let mut result = vec![];
 
         for chunk in nums.chunks(2) {
-            result.extend(std::iter::repeat(chunk[1]).take(chunk[0] as _));
+            result.extend(std::iter::repeat_n(chunk[1], chunk[0] as _));
         }
 
         result

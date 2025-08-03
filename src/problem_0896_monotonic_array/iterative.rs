@@ -11,7 +11,7 @@ impl Solution {
                 (std::cmp::Ordering::Less, Some(true))
                 | (std::cmp::Ordering::Greater, Some(false)) => return false,
                 _ => (),
-            };
+            }
             prev = num;
         }
         true

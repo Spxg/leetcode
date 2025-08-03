@@ -104,6 +104,7 @@
 #![allow(
     missing_docs,
     trivial_casts,
+    clippy::needless_continue,
     clippy::cargo_common_metadata,
     clippy::cast_possible_truncation,
     clippy::cast_possible_wrap,

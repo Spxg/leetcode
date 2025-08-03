@@ -5,7 +5,7 @@ impl Solution {
         let mut iter = word.chars();
         let first = iter.next().unwrap();
         if first.is_ascii_uppercase() {
-            iter.next().map_or(true, |n| {
+            iter.next().is_none_or(|n| {
                 if n.is_ascii_uppercase() {
                     iter.all(|x| x.is_ascii_uppercase())
                 } else {

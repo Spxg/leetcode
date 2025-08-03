@@ -24,9 +24,8 @@ impl Solution {
                     let base = space / slot;
                     let rest = space % slot;
 
-                    let mut iter = std::iter::repeat(base + 1)
-                        .take(rest)
-                        .chain(std::iter::repeat(base).take(slot - rest));
+                    let mut iter = std::iter::repeat_n(base + 1, rest)
+                        .chain(std::iter::repeat_n(base, slot - rest));
 
                     let mut part = String::with_capacity(max_width);
                     for s in &words[start..idx] {

@@ -5,7 +5,7 @@ impl Solution {
         let (mut left, mut right) = (0, nums.len() - 1);
 
         while left < right {
-            let mid = (left + right) / 2;
+            let mid = usize::midpoint(left, right);
             if nums[mid] < nums[mid + 1] {
                 left = mid + 1;
             } else {

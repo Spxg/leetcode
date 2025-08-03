@@ -13,7 +13,7 @@ impl Solution {
             } else {
                 sum += prev - arrival + time;
                 prev += time;
-            };
+            }
         }
         #[allow(clippy::pedantic)]
         let sum = sum as f64;

@@ -9,10 +9,11 @@ impl Solution {
     pub fn is_valid_bst(root: Option<Rc<RefCell<TreeNode>>>) -> bool {
         #[allow(clippy::ref_option)]
         fn helper(node: &Option<Rc<RefCell<TreeNode>>>, last: &mut Option<i32>) -> bool {
-            node.as_ref().map_or(true, |node| {
+            node.as_ref().is_none_or(|node| {
                 helper(&node.borrow().left, last)
-                    && std::mem::replace(last, Some(node.borrow().val))
-                        .map_or(true, |x| x < node.borrow().val)
+                    && last
+                        .replace(node.borrow().val)
+                        .is_none_or(|x| x < node.borrow().val)
                     && helper(&node.borrow().right, last)
             })
         }

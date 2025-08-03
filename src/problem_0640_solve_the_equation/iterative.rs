@@ -21,7 +21,7 @@ impl Solution {
                     lhs += x.parse::<i32>().unwrap_or(1) * sign;
                 } else {
                     rhs -= op.parse::<i32>().unwrap_or(0) * sign;
-                };
+                }
 
                 start = idx + 1;
             }

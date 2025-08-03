@@ -21,7 +21,7 @@ impl Solution {
             } else {
                 if right == 0 {
                     break;
-                };
+                }
                 right -= 1;
             }
         }

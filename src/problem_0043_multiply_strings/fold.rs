@@ -13,8 +13,7 @@ impl Solution {
                 let mut acc_rev = acc.into_iter();
                 let mut carry = 0;
 
-                for ch in std::iter::repeat(0)
-                    .take(count)
+                for ch in std::iter::repeat_n(0, count)
                     .chain(num1.as_bytes().iter().rev().map(|x| x - b'0'))
                 {
                     let caculate = x * ch + acc_rev.next().unwrap_or_default() + carry;

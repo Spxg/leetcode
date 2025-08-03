@@ -11,9 +11,8 @@ impl Solution {
         let count = std::iter::successors(head.as_ref(), |x| x.next.as_ref()).count();
         let size = count / k;
 
-        for size in std::iter::repeat(size + 1)
-            .take(count % k)
-            .chain(std::iter::repeat(size).take(k - count % k))
+        for size in
+            std::iter::repeat_n(size + 1, count % k).chain(std::iter::repeat_n(size, k - count % k))
         {
             if size == 0 {
                 result.push(None);

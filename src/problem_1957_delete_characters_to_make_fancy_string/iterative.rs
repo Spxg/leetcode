@@ -12,12 +12,12 @@ impl Solution {
                     count = 2;
                 }
             } else {
-                bytes.extend(std::iter::repeat(repeat).take(count));
+                bytes.extend(std::iter::repeat_n(repeat, count));
                 repeat = ch;
                 count = 1;
             }
         }
-        bytes.extend(std::iter::repeat(repeat).take(count));
+        bytes.extend(std::iter::repeat_n(repeat, count));
         String::from_utf8(bytes).unwrap()
     }
 }

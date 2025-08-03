@@ -10,7 +10,7 @@ impl Solution {
         fn helper(start: i32, end: i32) -> Vec<Option<Rc<RefCell<TreeNode>>>> {
             if start == end {
                 return vec![None];
-            };
+            }
 
             let mut result = Vec::new();
             for val in start..end {

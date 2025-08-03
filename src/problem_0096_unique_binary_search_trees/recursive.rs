@@ -5,22 +5,22 @@ use std::collections::HashMap;
 impl Solution {
     pub fn num_trees(n: i32) -> i32 {
         fn helper(start: i32, end: i32, cache: &mut HashMap<i32, i32>) -> i32 {
-            if start == (start + end) / 2 {
+            if start == i32::midpoint(start, end) {
                 return 1;
-            };
+            }
             if let Some(cache) = cache.get(&(end - start)) {
                 return *cache;
             }
 
             let mut result = 0;
-            for val in start..(start + end) / 2 {
+            for val in start..i32::midpoint(start, end) {
                 let left_tree = helper(start, val, cache);
                 let right_tree = helper(val + 1, end, cache);
                 result += 2 * left_tree * right_tree;
             }
             if (start + end) % 2 != 0 {
-                result += helper(start, (start + end) / 2, cache)
-                    * helper((start + end) / 2 + 1, end, cache);
+                result += helper(start, i32::midpoint(start, end), cache)
+                    * helper(i32::midpoint(start, end) + 1, end, cache);
             }
             cache.insert(end - start, result);
 

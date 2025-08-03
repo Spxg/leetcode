@@ -21,9 +21,7 @@ impl Solution {
                 _ => false,
             }
         }
-        root.map_or(true, |root| {
-            helper(&root.borrow().left, &root.borrow().right)
-        })
+        root.is_none_or(|root| helper(&root.borrow().left, &root.borrow().right))
     }
 }
 

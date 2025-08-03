@@ -17,7 +17,7 @@ fn make_solution_map(tree: &Tree) -> HashMap<String, Vec<Solution>> {
             Entry::Vacant(entry) => {
                 entry.insert(vec![solution]);
             }
-        };
+        }
     });
 
     result
